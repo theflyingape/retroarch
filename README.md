@@ -1,8 +1,18 @@
-# Lakka frontend to My Arcade
+# RetroArch support / knowledge base
+
+- [Lakka](#lakka)
+- [Linux / Potato](#linux--potato)
+- [Windows](#windows)
+- [Knowledge Base](#knowledge-base)
+  - [Netplay](#netplay)
+  - [MAME](#mame)
+  - [Resources](#resources)
+
+## Lakka
 
 My configuration, playlists, and [theme](https://drive.google.com/drive/folders/1Fo4Qnv9zLNjl-XHyuM3rqs4L4WMneion) used on **Raspberry Pi 400** and **ASUS Chromebox 3**: dual-boot using Ctrl/D developer mode into Chrome OS or Ctrl/L for legacy boot off a USB device
 
-## Fedora build
+## Linux / Potato
 
 Having this for my Intel machines provides much better A/V support over Lakka -- which is better suited for a Raspberry Pi dedicated console. After fetching the stable version of the [source](https://retroarch.com/index.php?page=linux-instructions), a working example follows:
 
@@ -23,11 +33,11 @@ Usage: retroarch [OPTIONS]... [FILE]
 ...
 ```
 
-## Bootable image
+## Windows
 
-make-image.sh applies these files onto a Lakka distribution image.
+## Knowledge Base
 
-## Netplay
+### Netplay
 
 ### MAME
 
@@ -124,3 +134,8 @@ For games like **Battlezone** and **Robotron** desiring to use both controller a
             </port>
 
 ```
+
+### Resources
+
+- Chrome OS: [legacy boot mode](<https://wiki.archlinux.org/title/Chrome_OS_devices#Introduction>)
+- Pi 4 (model B): [Lakka guide](<https://www.reddit.com/r/emulation/comments/pvv534/raspberry_pi_4_lakka_emulation_guide/>)
