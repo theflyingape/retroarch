@@ -10,11 +10,11 @@
 
 ## Lakka
 
-My configuration, playlists, and [theme](https://drive.google.com/drive/folders/1Fo4Qnv9zLNjl-XHyuM3rqs4L4WMneion) used on **Raspberry Pi 400** and **ASUS Chromebox 3**: dual-boot using Ctrl/D developer mode into Chrome OS or Ctrl/L for legacy boot off a USB device
+My configuration, playlists, and [theme](https://drive.google.com/drive/folders/1Fo4Qnv9zLNjl-XHyuM3rqs4L4WMneion) used on Raspberry Pi `400` and `4 model B` which provides reasonable Vulkan over OpenGL support in its emulation cores.
 
 ## Linux / Potato
 
-Having this for my Intel machines provides much better A/V support over Lakka -- which is better suited for a Raspberry Pi dedicated console. After fetching the stable version of the [source](https://retroarch.com/index.php?page=linux-instructions), a working example follows:
+Having a full [Fedora distro](https://getfedora.org/en/workstation/download/) loaded on my Intel machines (modern Vulkan or potato OpenGL) provides much better A/V support over Lakka - which is better suited as a Raspberry Pi dedicated gaming console. After fetching the stable version of the [source](https://retroarch.com/index.php?page=linux-instructions), a working example follows:
 
 ```bash
 $ sudo dnf install rpm-build rpmdevtools
@@ -35,9 +35,18 @@ Usage: retroarch [OPTIONS]... [FILE]
 
 ### Remote access
 
+It's easier to remote network into my consoles running in the mancave downstairs. While I am comfortable doing all things via SSH, it's convenient & comforting to use & see its autologin desktop. I use the `Remmina` tools:
+
 ```bash
 $ sudo dnf install remmina remmina-gnome-session remmina-plugins-spice remmina-plugins-www
+$ vncpasswd
+Password: [must be at least 6 characters]
+$ systemctl enable --user gnome-remote-desktop
+$ systemctl start --user gnome-remote-desktop
+$ sudo dnf install cool-retro-term htop gnome-tweaks
 ```
+
+Might as well replace `Terminal` with `Cool Retro Term` and resize it for a classic 80x25 screen. I use `htop` running in its window to help window sizing.
 
 ## Windows
 
