@@ -33,6 +33,12 @@ Usage: retroarch [OPTIONS]... [FILE]
 ...
 ```
 
+### Remote access
+
+```bash
+$ sudo dnf install remmina remmina-gnome-session remmina-plugins-spice remmina-plugins-www
+```
+
 ## Windows
 
 ## Knowledge Base
