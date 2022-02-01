@@ -1,19 +1,28 @@
 #!/bin/bash
 
+# if you have Gnome session set for autologin:
+# https://bugzilla.redhat.com/show_bug.cgi?id=1873592
+killall gnome-keyring-daemon
+echo -n "keyringpassword" | gnome-keyring-daemon -l -d
+gnome-keyring-daemon -s
+systemctl --user restart gnome-remote-desktop
+
 IMAGE=()
-INTERVAL=3600
 WALLPAPER=~/Pictures/Wallpaper
 
 while [ true ]; do
 
-	[ ${#IMAGE[@]} -eq 0 ] && IMAGE=( `ls -R $WALLPAPER | grep -v ':' | shuf`  )
+	[ ${#IMAGE[@]} -eq 0 ] && IMAGE=( `ls $WALLPAPER/**/* | grep -v ':' | shuf` )
 	bg="${IMAGE[0]}"
 	unset 'IMAGE[0]'
 	IMAGE=( ${IMAGE[@]} )
 
-	gsettings set org.gnome.desktop.background picture-uri "'file:///${WALLPAPER}/${bg}'"
+	# no spaces in filename please
+	gsettings set org.gnome.desktop.background picture-uri "'file:///${bg}'"
+	sleep 200
 
-	sleep $INTERVAL
+	# go idle when a fullscreen game is active, eh?
+	while pidof -q retroarch ; do sleep 60 ; done
 
 done
 

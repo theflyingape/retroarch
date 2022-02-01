@@ -38,12 +38,28 @@ Usage: retroarch [OPTIONS]... [FILE]
 It's easier to remote network into my consoles running in the mancave downstairs. While I am comfortable doing all things via SSH, it's convenient & comforting to use & see its autologin desktop. I use the `Remmina` tools:
 
 ```bash
-$ sudo dnf install remmina remmina-gnome-session remmina-plugins-spice remmina-plugins-www
-$ vncpasswd
-Password: [must be at least 6 characters]
+... on remote machine:
+$ gsettings list-recursively org.gnome.desktop.remote-desktop.vnc
+org.gnome.desktop.remote-desktop.vnc view-only false
+org.gnome.desktop.remote-desktop.vnc auth-method 'password'
+org.gnome.desktop.remote-desktop.vnc encryption ['tls-anon']
+$ killall gnome-keyring-daemon
+$ echo -n "userpassword" | gnome-keyring-daemon -l -d
+$ echo -n 'vncpassword' | secret-tool store --label="GNOME Remote Desktop VNC password" "xdg:schema" "org.gnome.RemoteDesktop.VncPassword"
 $ systemctl enable --user gnome-remote-desktop
 $ systemctl start --user gnome-remote-desktop
-$ sudo dnf install cool-retro-term htop gnome-tweaks
+$ sudo dnf install cool-retro-term gnome-tweaks htop
+
+... on client machine:
+$ sudo dnf install remmina remmina-gnome-session remmina-plugins-spice remmina-plugins-www
+$ nmap [remote-machine]
+Starting Nmap 7.91 ( https://nmap.org ) at 2022-02-01 10:36 EST
+Nmap scan report for [remote-machine] (192.168.1.xx)
+Host is up (0.0020s latency).
+Not shown: 998 closed ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+5900/tcp open  vnc
 ```
 
 Might as well replace `Terminal` with `Cool Retro Term` and resize it for a classic 80x25 screen. I use `htop` running in its window to help window sizing.
