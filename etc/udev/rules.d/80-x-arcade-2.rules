@@ -1,0 +1,5 @@
+# X-Arcade Tank Stick (Xbox 360 mode)
+# NOTE: might not re-register itself on a WARM RE-BOOT,
+# either COLD BOOT or slide its Mode switch right-left to toggle between KEY and PAD mode
+
+SUBSYSTEM=="input", ATTRS{idVendor}=="045e", ATTRS{idProduct}=="0719", MODE="0664"

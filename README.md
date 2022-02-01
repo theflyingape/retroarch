@@ -48,7 +48,7 @@ $ echo -n "userpassword" | gnome-keyring-daemon -l -d
 $ echo -n 'vncpassword' | secret-tool store --label="GNOME Remote Desktop VNC password" "xdg:schema" "org.gnome.RemoteDesktop.VncPassword"
 $ systemctl enable --user gnome-remote-desktop
 $ systemctl start --user gnome-remote-desktop
-$ sudo dnf install cool-retro-term gnome-tweaks htop
+$ sudo dnf install cool-retro-term gnome-tweaks htop linuxconsoletools
 
 ... on client machine:
 $ sudo dnf install remmina remmina-gnome-session remmina-plugins-spice remmina-plugins-www
