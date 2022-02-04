@@ -1,0 +1,851 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/storage/roms/MAME/10yard.zip",
+      "label": "10-Yard Fight (World, set 1)",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Replay/10th Frame.crt",
+      "label": "10th Frame",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Replay.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Replay/4th and Inches.crt",
+      "label": "4th and Inches",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Replay.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/asteroid.zip",
+      "label": "Asteroids (rev 4)",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/asteroid.zip#astroids.bin",
+      "label": "Asteroids (USA)",
+      "core_path": "/tmp/cores/prosystem_libretro.so",
+      "core_name": "Atari - 7800 (ProSystem)",
+      "crc32": "DFB93F40|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/astrob.zip",
+      "label": "Astro Blaster (version 3)",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 2600/Atlantis (USA).zip",
+      "label": "Atlantis (USA)",
+      "core_path": "/tmp/cores/stella_libretro.so",
+      "core_name": "Atari - 2600 (Stella)",
+      "crc32": "92560498|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Barbarian_v1.0_Palace_1784.lha",
+      "label": "Barbarian - The Ultimate Warrior",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Replay/Barbarian - The Ultimate Warrior (Side 2).crt",
+      "label": "Barbarian - The Ultimate Warrior (Side 2)",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Replay.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Replay/Battle Ships.crt",
+      "label": "Battle Ships",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Replay.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/bzone.zip",
+      "label": "Battle Zone (set 1)",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Replay/Beach-Head.crt",
+      "label": "Beach-Head",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Replay.lpl"
+    },
+    {
+      "path": "/storage/roms/homebrews/VIC20/16KB/berzerk-mmx-16k.prg",
+      "label": "Berzerk MMX (2011)",
+      "core_path": "/tmp/cores/vice_xvic_libretro.so",
+      "core_name": "Commodore - VIC-20 (VICE xvic)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Replay/Boulder Dash.crt",
+      "label": "Boulder Dash",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Replay.lpl"
+    },
+    {
+      "path": "/storage/roms/homebrews/VIC20/8KB/break-out!.prg",
+      "label": "Break-out! (2011)",
+      "core_path": "/tmp/cores/vice_xvic_libretro.so",
+      "core_name": "Commodore - VIC-20 (VICE xvic)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/BrutalFootball_v1.21_AGA_1837.lha",
+      "label": "Brutal Sports Football (AGA)",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/bublbobl.zip",
+      "label": "Bubble Bobble",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/btime.zip",
+      "label": "Burger Time (Data East set 1)",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Replay/Choplifter!.crt",
+      "label": "Choplifter!",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Replay.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 2600/Cosmic Ark (USA).zip",
+      "label": "Cosmic Ark (USA)",
+      "core_path": "/tmp/cores/stella_libretro.so",
+      "core_name": "Atari - 2600 (Stella)",
+      "crc32": "CB374F0E|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/cyberbal2p.zip",
+      "label": "Cyberball 2072 (2 player, rev 4)",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Dark Castle (USA).m3u",
+      "label": "Dark Castle (USA)",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Datastorm_v1.2_1555.lha",
+      "label": "Datastorm",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Replay/Druid.crt",
+      "label": "Druid",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Replay.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Ebonstar_v1.0_0915.lha",
+      "label": "Ebonstar",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/elevator.zip",
+      "label": "Elevator Action",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Replay/Elite.crt",
+      "label": "Elite",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Replay.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Replay/Enlightenment - Druid II.crt",
+      "label": "Enlightenment - Druid II",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Replay.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/fcombat.zip",
+      "label": "Field Combat",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/frogger.zip",
+      "label": "Frogger",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/galaga.zip",
+      "label": "Galaga (Namco rev. B)",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Garrison_v1.0_0800.lha",
+      "label": "Garrison",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/gaunt2.zip",
+      "label": "Gauntlet II",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/gng.zip",
+      "label": "Ghosts'n Goblins (World? set 1)",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/gladiatr.zip",
+      "label": "Gladiator (US)",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/gorf.zip",
+      "label": "Gorf",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Gridiron_v1.0_2124.lha",
+      "label": "Gridiron! (Europe)",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/gyruss.zip",
+      "label": "Gyruss (Konami)",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Replay/HardBall!.crt",
+      "label": "HardBall!",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Replay.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/hattrick.zip",
+      "label": "Hat Trick",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/joust.zip",
+      "label": "Joust (White/Green label)",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Replay/Jumpman Junior.crt",
+      "label": "Jumpman Junior",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Replay.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/junglek.zip",
+      "label": "Jungle King (Japan)",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/kchampvs.zip",
+      "label": "Karate Champ (US, VS version set 1)",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/krull.zip",
+      "label": "Krull",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Replay/Kung-Fu Master.crt",
+      "label": "Kung-Fu Master",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Replay.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/ladybug.zip",
+      "label": "Lady Bug",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/Leaderboard Golf.crt",
+      "label": "Leader Board (1986) (access)",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Lemmings_v1.5_Image_NTSC_0901.lha",
+      "label": "Lemmings",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 2600/Lock 'n' Chase (USA).zip",
+      "label": "Lock 'n' Chase (USA)",
+      "core_path": "/tmp/cores/stella_libretro.so",
+      "core_name": "Atari - 2600 (Stella)",
+      "crc32": "7994BF16|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Lotus2_v1.11_0497.lha",
+      "label": "Lotus 2",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Lotus3_v1.41_0217.lha",
+      "label": "Lotus 3",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/llander.zip",
+      "label": "Lunar Lander (rev 2)",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/mappy.zip",
+      "label": "Mappy (US)",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 2600/MegaMania - A Space Nightmare (USA).zip",
+      "label": "MegaMania - A Space Nightmare (USA)",
+      "core_path": "/tmp/cores/stella_libretro.so",
+      "core_name": "Atari - 2600 (Stella)",
+      "crc32": "33EDC33E|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/missile.zip",
+      "label": "Missile Command (set 1)",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/mpatrol.zip",
+      "label": "Moon Patrol",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/mrdo.zip",
+      "label": "Mr. Do!",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/mspacman.zip",
+      "label": "Ms. Pac-Man",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/homebrews/VIC20/16KB/omega-fury.prg",
+      "label": "Omega Fury (2011)",
+      "core_path": "/tmp/cores/vice_xvic_libretro.so",
+      "core_name": "Commodore - VIC-20 (VICE xvic)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/omegrace.zip",
+      "label": "Omega Race",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/ONFIELDFOOTBALL.prg",
+      "label": "On-Field Football (gamestar)",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/puckman.zip",
+      "label": "Pac-Man",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/phoenix.zip",
+      "label": "Phoenix (Amstar)",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/PinballDreams_v1.3_0377.lha",
+      "label": "Pinball Dreams",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/PinballFantasies_v2.6c_0025.lha",
+      "label": "Pinball Fantasies",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 2600/Pitfall II - Lost Caverns (USA).zip",
+      "label": "Pitfall II - Lost Caverns (USA)",
+      "core_path": "/tmp/cores/stella_libretro.so",
+      "core_name": "Atari - 2600 (Stella)",
+      "crc32": "097CE7AD|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 2600/Pitfall! - Pitfall Harry's Jungle Adventure (USA).zip",
+      "label": "Pitfall! - Pitfall Harry's Jungle Adventure (USA)",
+      "core_path": "/tmp/cores/stella_libretro.so",
+      "core_name": "Atari - 2600 (Stella)",
+      "crc32": "42AD47BF|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/storage/roms/homebrews/VIC20/pizza videogame.prg",
+      "label": "Pizza Videogame (1983)",
+      "core_path": "/tmp/cores/vice_xvic_libretro.so",
+      "core_name": "Commodore - VIC-20 (VICE xvic)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/homebrews/VIC20/8KB/quikman+8k.prg",
+      "label": "Quikman+ (2014)",
+      "core_path": "/tmp/cores/vice_xvic_libretro.so",
+      "core_name": "Commodore - VIC-20 (VICE xvic)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/radarrr.zip",
+      "label": "Radar Rat Race",
+      "core_path": "/tmp/cores/vice_xvic_libretro.so",
+      "core_name": "Commodore - VIC-20 (VICE xvic)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Replay/Raid on Bungeling Bay.crt",
+      "label": "Raid on Bungeling Bay",
+      "core_path": "/tmp/cores/vice_x128_libretro.so",
+      "core_name": "Commodore - C128 (VICE x128)",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Replay.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 2600/RealSports Tennis (USA).zip",
+      "label": "RealSports Tennis (USA)",
+      "core_path": "/tmp/cores/stella_libretro.so",
+      "core_name": "Atari - 2600 (Stella)",
+      "crc32": "379001A0|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/ripoff.zip",
+      "label": "Rip Off",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Risk_v1.0_1125.lha",
+      "label": "Risk",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 2600/River Raid (USA).zip",
+      "label": "River Raid (USA)",
+      "core_path": "/tmp/cores/stella_libretro.so",
+      "core_name": "Atari - 2600 (Stella)",
+      "crc32": "C3EB7E1E|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 2600/Robot Tank (USA).zip",
+      "label": "Robot Tank (USA)",
+      "core_path": "/tmp/cores/stella_libretro.so",
+      "core_name": "Atari - 2600 (Stella)",
+      "crc32": "E127C012|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/robotron.zip",
+      "label": "Robotron (Solid Blue label)",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/shollow.zip",
+      "label": "Satan's Hollow (set 1)",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/Seasons_Greetings.d64",
+      "label": "Seasons Greetings - retail demo (commodore)",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/seawolf2.zip",
+      "label": "Seawolf II",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/vic1001_cart/shamus.zip",
+      "label": "Shamus (Japan, USA)",
+      "core_path": "/tmp/cores/vice_xvic_libretro.so",
+      "core_name": "Commodore - VIC-20 (VICE xvic)",
+      "crc32": "21E7BDA6|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/invaders.zip",
+      "label": "Space Invaders / Space Invaders M",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/spiders.zip",
+      "label": "Spiders (set 1)",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/homebrews/VIC20/8KB/sprite invaders.prg",
+      "label": "Sprite Invaders (2011)",
+      "core_path": "/tmp/cores/vice_xvic_libretro.so",
+      "core_name": "Commodore - VIC-20 (VICE xvic)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Replay/Star League Baseball.crt",
+      "label": "Star League Baseball",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Replay.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/startrek.zip",
+      "label": "Star Trek",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 2600/Star Voyager (USA).zip",
+      "label": "Star Voyager (USA)",
+      "core_path": "/tmp/cores/stella_libretro.so",
+      "core_name": "Atari - 2600 (Stella)",
+      "crc32": "4FE8477F|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Stratego_v1.1.1.lha",
+      "label": "Stratego",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 2600/Super Challenge Baseball (USA).zip",
+      "label": "Super Challenge Baseball (USA)",
+      "core_path": "/tmp/cores/stella_libretro.so",
+      "core_name": "Atari - 2600 (Stella)",
+      "crc32": "F7E88EC2|crc",
+      "db_name": "Atari - 2600.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/tailg.zip",
+      "label": "Tailgunner",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/tempest.zip",
+      "label": "Tempest (rev 3)",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/timeplt.zip",
+      "label": "Time Pilot",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/TOUCHDOWN_FOOTBALL.t64",
+      "label": "Touchdown Football",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Replay/Toy Bizarre.crt",
+      "label": "Toy Bizarre",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Replay.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/turtles.zip",
+      "label": "Turtles",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/TVSportsBasketball_v1.0_2122.lha",
+      "label": "TV Sports: Basketball",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/TVSportsFootball_v1.03_0407.lha",
+      "label": "TV Sports: Football",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Ultimate Wizard (USA).m3u",
+      "label": "Ultimate Wizard (USA)",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/victroad.zip",
+      "label": "Victory Road",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/DOS/Warcraft Orcs And Humans 1.2 (1994)(Blizzard Entertainment).zip#war.exe",
+      "label": "WarCraft: Orcs & Humans",
+      "core_path": "/tmp/cores/dosbox_pure_libretro.so",
+      "core_name": "DOS (DOSBox-Pure)",
+      "crc32": "FC27BFE6|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/wizard.d64",
+      "label": "Wizard",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/wow.zip",
+      "label": "Wizard of Wor",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME/xevious.zip",
+      "label": "Xevious (Namco)",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Replay/Zorro.crt",
+      "label": "Zorro",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Replay.lpl"
+    }
+  ]
+}

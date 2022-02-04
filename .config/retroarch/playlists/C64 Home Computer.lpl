@@ -1,0 +1,3513 @@
+{
+  "version": "1.5",
+  "default_core_path": "/tmp/cores/vice_x64_libretro.so",
+  "default_core_name": "Commodore - C64 (VICE x64, fast)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "scan_content_dir": "/storage/roms/C64 Home Computer",
+  "scan_file_exts": "m3u",
+  "scan_dat_file_path": "",
+  "scan_search_recursively": false,
+  "scan_search_archives": false,
+  "scan_filter_dat_content": false,
+  "items": [
+    {
+      "path": "/storage/roms/C64 Home Computer/10 Top Classics (USA, Europe) (Compilation).m3u",
+      "label": "10 Top Classics (USA, Europe) (Compilation)",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/100% Dynamite (USA, Europe) (Compilation).m3u",
+      "label": "100% Dynamite (USA, Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/221B Baker Street (USA, Europe).m3u",
+      "label": "221B Baker Street (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/4x4 Off-Road Racing (USA, Europe).m3u",
+      "label": "4x4 Off-Road Racing (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/720 Degrees (USA).m3u",
+      "label": "720 Degrees (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Accolade Comics - Steve Keene, Private Spy (USA, Europe).m3u",
+      "label": "Accolade Comics - Steve Keene, Private Spy (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Action Pack (USA, Europe) (Compilation).m3u",
+      "label": "Action Pack (USA, Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Activision Action Demonstration (USA, Europe) (Promo).m3u",
+      "label": "Activision Action Demonstration (USA, Europe) (Promo)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Advanced Dungeons & Dragons - Dragon Lance - Dragons of Flame (Europe).m3u",
+      "label": "Advanced Dungeons & Dragons - Dragon Lance - Dragons of Flame (Europe)",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Advanced Dungeons & Dragons - Dragon Lance - Heroes of the Lance (USA).m3u",
+      "label": "Advanced Dungeons & Dragons - Dragon Lance - Heroes of the Lance (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Advanced Dungeons & Dragons - Dragon Lance Vol. I - Champions of Krynn (USA, Europe).m3u",
+      "label": "Advanced Dungeons & Dragons - Dragon Lance Vol. I - Champions of Krynn (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Advanced Dungeons & Dragons - Forgotten Realms - Hillsfar (USA, Europe).m3u",
+      "label": "Advanced Dungeons & Dragons - Forgotten Realms - Hillsfar (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Advanced Dungeons & Dragons - Forgotten Realms Vol. I - Pool of Radiance (USA, Europe) (v1.1).m3u",
+      "label": "Advanced Dungeons & Dragons - Forgotten Realms Vol. I - Pool of Radiance (USA, Europe) (v1.1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Advanced Dungeons & Dragons - Forgotten Realms Vol. II - Curse of the Azure Bonds (USA, Europe) (v1.3).m3u",
+      "label": "Advanced Dungeons & Dragons - Forgotten Realms Vol. II - Curse of the Azure Bonds (USA, Europe) (v1.3)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Advanced Dungeons & Dragons - Forgotten Realms Vol. III - Secret of the Silver Blades (USA, Europe).m3u",
+      "label": "Advanced Dungeons & Dragons - Forgotten Realms Vol. III - Secret of the Silver Blades (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Adventure Construction Set (USA, Europe).m3u",
+      "label": "Adventure Construction Set (USA, Europe)",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/After Burner (USA).m3u",
+      "label": "After Burner (USA)",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Airborne Ranger (USA, Europe).m3u",
+      "label": "Airborne Ranger (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Aliants - The Desperate Battle for Earth (USA).m3u",
+      "label": "Aliants - The Desperate Battle for Earth (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Alice in Wonderland (USA, Europe).m3u",
+      "label": "Alice in Wonderland (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Alien Syndrome (USA).m3u",
+      "label": "Alien Syndrome (USA)",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/All Star Hits (USA, Europe) (Compilation).m3u",
+      "label": "All Star Hits (USA, Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Alter Ego - Female Version (USA, Europe).m3u",
+      "label": "Alter Ego - Female Version (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Alter Ego - Male Version (USA, Europe).m3u",
+      "label": "Alter Ego - Male Version (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Alternate Reality - The Dungeon (USA, Europe) (v2.1).m3u",
+      "label": "Alternate Reality - The Dungeon (USA, Europe) (v2.1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Alternative World Games (Europe).m3u",
+      "label": "Alternative World Games (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Amazon (USA, Europe).m3u",
+      "label": "Amazon (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Antics (Europe).m3u",
+      "label": "Antics (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Apollo 18 - Mission to the Moon (USA).m3u",
+      "label": "Apollo 18 - Mission to the Moon (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Arcade Game Construction Kit (USA).m3u",
+      "label": "Arcade Game Construction Kit (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Argos Expedition, The (USA, Europe).m3u",
+      "label": "Argos Expedition, The (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Armalyte (Europe).m3u",
+      "label": "Armalyte (Europe)",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Asterix im Morgenland (Germany).m3u",
+      "label": "Asterix im Morgenland (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Atlantis (Germany).m3u",
+      "label": "Atlantis (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Autoduel (USA).m3u",
+      "label": "Autoduel (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Axe of Rage (USA).m3u",
+      "label": "Axe of Rage (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Baal (Europe).m3u",
+      "label": "Baal (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Back to the Future II (Europe).m3u",
+      "label": "Back to the Future II (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Back to the Future Part III (Europe).m3u",
+      "label": "Back to the Future Part III (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Bad Cat (Europe).m3u",
+      "label": "Bad Cat (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Barbarian - The Ultimate Warrior (Europe).m3u",
+      "label": "Barbarian - The Ultimate Warrior (Europe)",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Bard's Tale II, The - The Destiny Knight (USA, Europe).m3u",
+      "label": "Bard's Tale II, The - The Destiny Knight (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Bard's Tale III, The - Thief of Fate (USA, Europe).m3u",
+      "label": "Bard's Tale III, The - Thief of Fate (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Bard's Tale, The - Tales of the Unknown (USA).m3u",
+      "label": "Bard's Tale, The - Tales of the Unknown (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Batman - The Movie (Europe).m3u",
+      "label": "Batman - The Movie (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Battle Chess (USA).m3u",
+      "label": "Battle Chess (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Battle Island (USA, Europe).m3u",
+      "label": "Battle Island (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Battletech (USA, Europe).m3u",
+      "label": "Battletech (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Battletech (USA, Europe) (Power Hits Compilation).m3u",
+      "label": "Battletech (USA, Europe) (Power Hits Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Below the Root (USA, Europe).m3u",
+      "label": "Below the Root (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Beyond the Black Hole (USA, Europe).m3u",
+      "label": "Beyond the Black Hole (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Beyond Zork - The Coconut of Quendor (USA, Europe) (R47) (C128).m3u",
+      "label": "Beyond Zork - The Coconut of Quendor (USA, Europe) (R47) (C128)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Bitte Waehlen (Germany).m3u",
+      "label": "Bitte Waehlen (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Black Crystal (USA, Europe).m3u",
+      "label": "Black Crystal (USA, Europe)",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Board Genius (Europe) (Compilation).m3u",
+      "label": "Board Genius (Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Bonanza Bros (Europe).m3u",
+      "label": "Bonanza Bros (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Borrowed Time (USA, Europe).m3u",
+      "label": "Borrowed Time (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Breakers (USA, Europe).m3u",
+      "label": "Breakers (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Brian Bloodaxe + Revelation + Quovadis (USA, Europe).m3u",
+      "label": "Brian Bloodaxe + Revelation + Quovadis (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Buck Rogers - Countdown to Doomsday (USA, Europe).m3u",
+      "label": "Buck Rogers - Countdown to Doomsday (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Buffalo Bill's Wild West Show (USA, Europe).m3u",
+      "label": "Buffalo Bill's Wild West Show (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/California Games (USA).m3u",
+      "label": "California Games (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Captain Zzap (USA, Europe).m3u",
+      "label": "Captain Zzap (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Castlevania (USA).m3u",
+      "label": "Castlevania (USA)",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Cave of the Word Wizard (USA, Europe).m3u",
+      "label": "Cave of the Word Wizard (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Caveman Ugh-Lympics (USA, Europe).m3u",
+      "label": "Caveman Ugh-Lympics (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Centauri Alliance (USA, Europe).m3u",
+      "label": "Centauri Alliance (USA, Europe)",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Chessmaster 2000, The (Europe).m3u",
+      "label": "Chessmaster 2000, The (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Chessmaster 2000, The (USA) (Software Country).m3u",
+      "label": "Chessmaster 2000, The (USA) (Software Country)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Chessmaster 2000, The (USA) (Software Toolworks).m3u",
+      "label": "Chessmaster 2000, The (USA) (Software Toolworks)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Chessmaster 2100 - The Fidelity (Europe).m3u",
+      "label": "Chessmaster 2100 - The Fidelity (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Circus Attractions (USA, Europe).m3u",
+      "label": "Circus Attractions (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Circus Attractions (USA, Europe) (R2).m3u",
+      "label": "Circus Attractions (USA, Europe) (R2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Circus Games (Europe) (Mega Pack 2 Compilation).m3u",
+      "label": "Circus Games (Europe) (Mega Pack 2 Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Club House Sports (USA, Europe).m3u",
+      "label": "Club House Sports (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Computer Classics (USA, Europe) (Compilation).m3u",
+      "label": "Computer Classics (USA, Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Conan (USA, Europe).m3u",
+      "label": "Conan (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Corruption (USA, Europe) (v1.11).m3u",
+      "label": "Corruption (USA, Europe) (v1.11)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Cosmic Relief - Professor Renegade to the Rescue (USA).m3u",
+      "label": "Cosmic Relief - Professor Renegade to the Rescue (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Creatures (Europe) (The Hits 2 Compilation).m3u",
+      "label": "Creatures (Europe) (The Hits 2 Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Crossbow (USA, Europe).m3u",
+      "label": "Crossbow (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Crystal Fever Levels (Germany) (Golden Disk Ausgabe 9) (Diskmag).m3u",
+      "label": "Crystal Fever Levels (Germany) (Golden Disk Ausgabe 9) (Diskmag)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Daley Thompson's Olympic Challenge (Europe).m3u",
+      "label": "Daley Thompson's Olympic Challenge (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Dark Castle (USA).m3u",
+      "label": "Dark Castle (USA)",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Dark Lord (USA, Europe).m3u",
+      "label": "Dark Lord (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Darkman (Europe).m3u",
+      "label": "Darkman (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Data Manager 128 (USA, Europe) (C128-Program).m3u",
+      "label": "Data Manager 128 (USA, Europe) (C128-Program)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Death in the Caribbean (USA, Europe).m3u",
+      "label": "Death in the Caribbean (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Death Sword (USA).m3u",
+      "label": "Death Sword (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Defcon 5 (USA, Europe).m3u",
+      "label": "Defcon 5 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Defender of the Crown (USA, Europe).m3u",
+      "label": "Defender of the Crown (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Demon Stalkers - The Raid on Doomfane (USA, Europe).m3u",
+      "label": "Demon Stalkers - The Raid on Doomfane (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Demon's Winter (USA, Europe) (v1.1).m3u",
+      "label": "Demon's Winter (USA, Europe) (v1.1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Destiny (USA, Europe).m3u",
+      "label": "Destiny (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Dino Wars (Germany).m3u",
+      "label": "Dino Wars (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Doctor Doom's Revenge (USA, Europe).m3u",
+      "label": "Doctor Doom's Revenge (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Double Dragon II - The Revenge (Europe).m3u",
+      "label": "Double Dragon II - The Revenge (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Dragon Wars (USA, Europe).m3u",
+      "label": "Dragon Wars (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Dragonworld (USA, Europe).m3u",
+      "label": "Dragonworld (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Druid II - Enlightenment (Europe).m3u",
+      "label": "Druid II - Enlightenment (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Duck Tales - The Quest for Gold (USA, Europe).m3u",
+      "label": "Duck Tales - The Quest for Gold (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Dynamite Dux (Europe).m3u",
+      "label": "Dynamite Dux (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Earth Orbit Station (USA, Europe).m3u",
+      "label": "Earth Orbit Station (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Easy Working Writer (USA) (v2.0) (Program).m3u",
+      "label": "Easy Working Writer (USA) (v2.0) (Program)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Echelon (USA).m3u",
+      "label": "Echelon (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Electronic Checkbook, The (USA, Europe) (Program).m3u",
+      "label": "Electronic Checkbook, The (USA, Europe) (Program)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Elite Platinum Vol 1 (Europe) (Compilation).m3u",
+      "label": "Elite Platinum Vol 1 (Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Elvira - Mistress of the Dark (Germany).m3u",
+      "label": "Elvira - Mistress of the Dark (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Elvira II - The Jaws of Cerberus (USA, Europe).m3u",
+      "label": "Elvira II - The Jaws of Cerberus (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/F-14 Tomcat (Europe).m3u",
+      "label": "F-14 Tomcat (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Faery Tale Adventure, The (USA, Europe).m3u",
+      "label": "Faery Tale Adventure, The (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Fahrenheit 451 (USA, Europe) (Telarium).m3u",
+      "label": "Fahrenheit 451 (USA, Europe) (Telarium)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Fahrenheit 451 (USA, Europe) (Trillium).m3u",
+      "label": "Fahrenheit 451 (USA, Europe) (Trillium)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Family Feud (USA, Europe).m3u",
+      "label": "Family Feud (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Ferrari Formula One (USA, Europe).m3u",
+      "label": "Ferrari Formula One (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Fiendish Freddy's Big Top O' Fun (Europe).m3u",
+      "label": "Fiendish Freddy's Big Top O' Fun (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Fighter Bomber (Europe).m3u",
+      "label": "Fighter Bomber (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Fighter Bomber (Europe) (Compilation Power Hits).m3u",
+      "label": "Fighter Bomber (Europe) (Compilation Power Hits)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Final Fight (Europe) (SuperFighter Compilation).m3u",
+      "label": "Final Fight (Europe) (SuperFighter Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Fire King (USA, Europe).m3u",
+      "label": "Fire King (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Fire Track (Europe).m3u",
+      "label": "Fire Track (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Firefly (Europe).m3u",
+      "label": "Firefly (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Five Star Vol. 3 (USA, Europe) (Compilation).m3u",
+      "label": "Five Star Vol. 3 (USA, Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Flexidraw 5.5 (USA, Europe) (Program).m3u",
+      "label": "Flexidraw 5.5 (USA, Europe) (Program)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Flimbo's Quest (USA).m3u",
+      "label": "Flimbo's Quest (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Forgotten Worlds (Europe).m3u",
+      "label": "Forgotten Worlds (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Four Great Games Volume 3 (USA, Europe) (Compilation).m3u",
+      "label": "Four Great Games Volume 3 (USA, Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Frank Bruno's Boxing (Europe).m3u",
+      "label": "Frank Bruno's Boxing (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/G.I. Joe - A Real American Hero (USA).m3u",
+      "label": "G.I. Joe - A Real American Hero (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Galactic Games (USA, Europe).m3u",
+      "label": "Galactic Games (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Galdregon's Domain (Europe).m3u",
+      "label": "Galdregon's Domain (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Game, Set and Match (Europe) (Compilation).m3u",
+      "label": "Game, Set and Match (Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Game, Set and Match II (Europe) (Compilation).m3u",
+      "label": "Game, Set and Match II (Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/GameMaker (USA, Europe) (Program).m3u",
+      "label": "GameMaker (USA, Europe) (Program)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Games, The - Summer Edition (USA).m3u",
+      "label": "Games, The - Summer Edition (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Games, The - Winter Edition (USA).m3u",
+      "label": "Games, The - Winter Edition (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Gamma Force - The Pit of a Thousand Screams (USA, Europe).m3u",
+      "label": "Gamma Force - The Pit of a Thousand Screams (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Gauntlet III - The Final Fight (Europe).m3u",
+      "label": "Gauntlet III - The Final Fight (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Gem'X (Europe).m3u",
+      "label": "Gem'X (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/GEOS 1.2 (USA) (GEOS).m3u",
+      "label": "GEOS 1.2 (USA) (GEOS)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/GEOS 1.3 (USA, Europe) (GEOS).m3u",
+      "label": "GEOS 1.3 (USA, Europe) (GEOS)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/GEOS 128 2.0 (USA, Europe) (C128-GEOS).m3u",
+      "label": "GEOS 128 2.0 (USA, Europe) (C128-GEOS)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/GEOS 2.0 (USA, Europe) (GEOS).m3u",
+      "label": "GEOS 2.0 (USA, Europe) (GEOS)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/GEOS Font Pack Plus (USA, Europe) (GEOS).m3u",
+      "label": "GEOS Font Pack Plus (USA, Europe) (GEOS)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/GEOSPELL (USA, Europe) (GEOS).m3u",
+      "label": "GEOSPELL (USA, Europe) (GEOS)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Ghostbusters II (Europe).m3u",
+      "label": "Ghostbusters II (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Golden Axe (Europe).m3u",
+      "label": "Golden Axe (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Golden Disk (USA, Europe) (Compilation).m3u",
+      "label": "Golden Disk (USA, Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Grand Monster Slam (USA, Europe).m3u",
+      "label": "Grand Monster Slam (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Grandstand (Europe) (Compilation).m3u",
+      "label": "Grandstand (Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Graphics Scrapbook - Chapter I - Sports (USA, Europe) (Addon).m3u",
+      "label": "Graphics Scrapbook - Chapter I - Sports (USA, Europe) (Addon)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Graphics Scrapbook - Off the Wall (USA, Europe) (Addon).m3u",
+      "label": "Graphics Scrapbook - Off the Wall (USA, Europe) (Addon)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Grave Yardage (USA, Europe).m3u",
+      "label": "Grave Yardage (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Guild of Thieves, The (USA, Europe).m3u",
+      "label": "Guild of Thieves, The (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Gun.Smoke (USA, Europe).m3u",
+      "label": "Gun.Smoke (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Gunship (USA).m3u",
+      "label": "Gunship (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Hawkeye (Europe) (Thalamus Hits 1986-1988 Compilation).m3u",
+      "label": "Hawkeye (Europe) (Thalamus Hits 1986-1988 Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Head Coach (USA, Europe).m3u",
+      "label": "Head Coach (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Heavy Metal - Modern Land Combat Vol. I (USA, Europe) (v1).m3u",
+      "label": "Heavy Metal - Modern Land Combat Vol. I (USA, Europe) (v1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Hellowoon - Das Geheimnis des Zauberstabs (Germany).m3u",
+      "label": "Hellowoon - Das Geheimnis des Zauberstabs (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/High Voltage (Europe) (Compilation).m3u",
+      "label": "High Voltage (Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Hit Pack 2 (USA, Europe) (Compilation).m3u",
+      "label": "Hit Pack 2 (USA, Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Hit Sensation (USA, Europe) (Compilation).m3u",
+      "label": "Hit Sensation (USA, Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Hitchhiker's Guide to the Galaxy, The (USA, Europe) (R31) (C128).m3u",
+      "label": "Hitchhiker's Guide to the Galaxy, The (USA, Europe) (R31) (C128)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Hollywood Poker Pro (Europe).m3u",
+      "label": "Hollywood Poker Pro (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Hot Rod (Europe).m3u",
+      "label": "Hot Rod (Europe)",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Impossamole (USA, Europe).m3u",
+      "label": "Impossamole (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/In 80 Days Around the World (Europe).m3u",
+      "label": "In 80 Days Around the World (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/In Crowd, The (USA, Europe) (Compilation).m3u",
+      "label": "In Crowd, The (USA, Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Indoor Sports (USA, Europe).m3u",
+      "label": "Indoor Sports (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Infiltrator (USA).m3u",
+      "label": "Infiltrator (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Infiltrator Part II - The Next Day (USA, Europe).m3u",
+      "label": "Infiltrator Part II - The Next Day (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Infiltrator Part II - The Next Day (USA, Europe) (V-MAX 2).m3u",
+      "label": "Infiltrator Part II - The Next Day (USA, Europe) (V-MAX 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Instant Music (USA, Europe) (Program).m3u",
+      "label": "Instant Music (USA, Europe) (Program)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/International Team Sports (USA, Europe).m3u",
+      "label": "International Team Sports (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Iron Lord (Europe).m3u",
+      "label": "Iron Lord (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/It's a Kind of Magic (Europe) (Compilation).m3u",
+      "label": "It's a Kind of Magic (Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Jack Nicklaus Presents the International Course Disk Vol. II (USA, Europe) (Addon).m3u",
+      "label": "Jack Nicklaus Presents the International Course Disk Vol. II (USA, Europe) (Addon)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Jack Nicklaus' Greatest 18 Holes of Major Championship Golf (USA).m3u",
+      "label": "Jack Nicklaus' Greatest 18 Holes of Major Championship Golf (USA)",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Jeopardy! (USA, Europe).m3u",
+      "label": "Jeopardy! (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Jeopardy! II - The Second Edition (USA, Europe).m3u",
+      "label": "Jeopardy! II - The Second Edition (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Jinxter (USA, Europe).m3u",
+      "label": "Jinxter (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/John Madden Football (USA, Europe).m3u",
+      "label": "John Madden Football (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Jump Jet (Europe).m3u",
+      "label": "Jump Jet (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Kaiser (Germany).m3u",
+      "label": "Kaiser (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Katakis (USA, Europe).m3u",
+      "label": "Katakis (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Killed Until Dead (USA).m3u",
+      "label": "Killed Until Dead (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Kings of the Beach - Professional Beach Volleyball (USA).m3u",
+      "label": "Kings of the Beach - Professional Beach Volleyball (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Knight Games (USA).m3u",
+      "label": "Knight Games (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Konami Arcade Collection (USA, Europe) (Compilation).m3u",
+      "label": "Konami Arcade Collection (USA, Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/L.A. Crackdown (USA, Europe).m3u",
+      "label": "L.A. Crackdown (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Labyrinth (USA, Europe) (Six Sizzlers Compilation).m3u",
+      "label": "Labyrinth (USA, Europe) (Six Sizzlers Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Lancelot (USA).m3u",
+      "label": "Lancelot (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Lane Mastadon vs. the Blubbermen (USA, Europe).m3u",
+      "label": "Lane Mastadon vs. the Blubbermen (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Last Ninja 2 - Back with a Vengeance (USA).m3u",
+      "label": "Last Ninja 2 - Back with a Vengeance (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Last Ninja, The (Europe) (Six Sizzlers Compilation).m3u",
+      "label": "Last Ninja, The (Europe) (Six Sizzlers Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Last Ninja, The (USA).m3u",
+      "label": "Last Ninja, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Law of the West (USA, Europe).m3u",
+      "label": "Law of the West (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Leader Board Par 4 (Europe) (Compilation).m3u",
+      "label": "Leader Board Par 4 (Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Legacy of the Ancients (USA, Europe).m3u",
+      "label": "Legacy of the Ancients (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Legend of Blacksilver, The (USA).m3u",
+      "label": "Legend of Blacksilver, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Lotus Esprit Turbo Challenge (Europe).m3u",
+      "label": "Lotus Esprit Turbo Challenge (Europe)",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Main Street Database (USA, Europe) (Program).m3u",
+      "label": "Main Street Database (USA, Europe) (Program)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Maniac Mansion (Germany).m3u",
+      "label": "Maniac Mansion (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Maniac Mansion (USA) (Activision).m3u",
+      "label": "Maniac Mansion (USA) (Activision)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Maniac Mansion (USA) (Lucasfilm).m3u",
+      "label": "Maniac Mansion (USA) (Lucasfilm)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Marble Madness (USA, Europe) (Ariolasoft).m3u",
+      "label": "Marble Madness (USA, Europe) (Ariolasoft)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Marble Madness (USA, Europe) (Electronic Arts).m3u",
+      "label": "Marble Madness (USA, Europe) (Electronic Arts)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Mask of the Sun, The (USA, Europe).m3u",
+      "label": "Mask of the Sun, The (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Maverick (USA, Europe) (v5.04) (Program).m3u",
+      "label": "Maverick (USA, Europe) (v5.04) (Program)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Mayhem in Monsterland (Europe).m3u",
+      "label": "Mayhem in Monsterland (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Mean Streets (USA).m3u",
+      "label": "Mean Streets (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Mega Hits (USA, Europe) (Compilation).m3u",
+      "label": "Mega Hits (USA, Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Mega Play Vol. 1 (USA, Europe) (Compilation).m3u",
+      "label": "Mega Play Vol. 1 (USA, Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Megamix (Europe) (Compilation).m3u",
+      "label": "Megamix (Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Menace (USA, Europe).m3u",
+      "label": "Menace (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Michael Jordan vs Larry Bird - One On One (USA, Europe).m3u",
+      "label": "Michael Jordan vs Larry Bird - One On One (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Mickey's Space Adventure (USA, Europe).m3u",
+      "label": "Mickey's Space Adventure (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Micro-MUD (USA, Europe).m3u",
+      "label": "Micro-MUD (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Might and Magic - Book One - Secret of the Inner Sanctum (USA, Europe) (v2.0).m3u",
+      "label": "Might and Magic - Book One - Secret of the Inner Sanctum (USA, Europe) (v2.0)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Might and Magic - Book Two - Gates to Another World (USA, Europe) (v1.00).m3u",
+      "label": "Might and Magic - Book Two - Gates to Another World (USA, Europe) (v1.00)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Milestone (USA, Europe) (Compilation).m3u",
+      "label": "Milestone (USA, Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Mind Mirror (USA).m3u",
+      "label": "Mind Mirror (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Mindshadow (USA, Europe).m3u",
+      "label": "Mindshadow (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Mini Office II (USA, Europe) (v1.2) (Program).m3u",
+      "label": "Mini Office II (USA, Europe) (v1.2) (Program)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Mini-Putt - The Ultimate Challenge (USA, Europe).m3u",
+      "label": "Mini-Putt - The Ultimate Challenge (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Moebius - The Orb of Celestial Harmony (USA, Europe) (b-savegame).m3u",
+      "label": "Moebius - The Orb of Celestial Harmony (USA, Europe) (b-savegame)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Monday Night Football (USA, Europe).m3u",
+      "label": "Monday Night Football (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Mord an Bord (Germany).m3u",
+      "label": "Mord an Bord (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Movie Maker (USA, Europe) (Program).m3u",
+      "label": "Movie Maker (USA, Europe) (Program)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Movie Monster Game, The (USA, Europe).m3u",
+      "label": "Movie Monster Game, The (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Murder Party (USA, Europe).m3u",
+      "label": "Murder Party (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Musicalc (USA, Europe) (Program).m3u",
+      "label": "Musicalc (USA, Europe) (Program)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Mythos (Germany).m3u",
+      "label": "Mythos (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Navy Seal (USA, Europe).m3u",
+      "label": "Navy Seal (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Neuromancer (USA).m3u",
+      "label": "Neuromancer (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Never Outside (USA, Europe).m3u",
+      "label": "Never Outside (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Newsroom Clip Art Vol 1, The (USA, Europe) (Addon).m3u",
+      "label": "Newsroom Clip Art Vol 1, The (USA, Europe) (Addon)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Newsroom Clip Art Vol 2, The (USA, Europe) (Addon).m3u",
+      "label": "Newsroom Clip Art Vol 2, The (USA, Europe) (Addon)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Newsroom Clip Art Vol 3, The (USA, Europe) (Addon).m3u",
+      "label": "Newsroom Clip Art Vol 3, The (USA, Europe) (Addon)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Nightmare on Elm Street, A (USA, Europe) (v2.6).m3u",
+      "label": "Nightmare on Elm Street, A (USA, Europe) (v2.6)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Nine Princes in Amber (USA, Europe).m3u",
+      "label": "Nine Princes in Amber (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/North & South (Europe).m3u",
+      "label": "North & South (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Ocean Ranger (USA, Europe).m3u",
+      "label": "Ocean Ranger (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Oil Imperium (Germany).m3u",
+      "label": "Oil Imperium (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Omega (USA, Europe) (v03.032).m3u",
+      "label": "Omega (USA, Europe) (v03.032)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Operation - Frog (USA, Europe).m3u",
+      "label": "Operation - Frog (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Operation Feuersturm (Germany).m3u",
+      "label": "Operation Feuersturm (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Operation Hanoi (Europe).m3u",
+      "label": "Operation Hanoi (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Operation Hongkong (Germany).m3u",
+      "label": "Operation Hongkong (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Operation Merkur (Germany).m3u",
+      "label": "Operation Merkur (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Operation Thunderbolt (Europe).m3u",
+      "label": "Operation Thunderbolt (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Out Run (USA).m3u",
+      "label": "Out Run (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Out Run Europa (Europe).m3u",
+      "label": "Out Run Europa (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Outrageous Pages (USA, Europe) (Program).m3u",
+      "label": "Outrageous Pages (USA, Europe) (Program)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Overrun - Europe (USA, Europe).m3u",
+      "label": "Overrun - Europe (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Oxxonian (Europe).m3u",
+      "label": "Oxxonian (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/P.H.M. Pegasus (USA, Europe).m3u",
+      "label": "P.H.M. Pegasus (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/PaperClip Publisher (USA, Europe) (Program).m3u",
+      "label": "PaperClip Publisher (USA, Europe) (Program)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Paul Whiteheads Schachschule (Germany).m3u",
+      "label": "Paul Whiteheads Schachschule (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Pawn, The (USA, Europe) (v2.3).m3u",
+      "label": "Pawn, The (USA, Europe) (v2.3)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Perry Mason - The Case of the Mandarin Murder (USA, Europe).m3u",
+      "label": "Perry Mason - The Case of the Mandarin Murder (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Pharaoh's Revenge (USA, Europe).m3u",
+      "label": "Pharaoh's Revenge (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Pirates! (USA, Europe).m3u",
+      "label": "Pirates! (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Platoon (USA) (v1.1).m3u",
+      "label": "Platoon (USA) (v1.1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Power House, The (USA, Europe) (Compilation).m3u",
+      "label": "Power House, The (USA, Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Power Pack (USA, Europe) (Compilation).m3u",
+      "label": "Power Pack (USA, Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Power Pack (USA, Europe) (Program).m3u",
+      "label": "Power Pack (USA, Europe) (Program)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Predator (USA, Europe).m3u",
+      "label": "Predator (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Print Shop Companion, The (USA, Europe) (RG) (Program).m3u",
+      "label": "Print Shop Companion, The (USA, Europe) (RG) (Program)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Print Shop Graphics Library (USA, Europe) (Addon).m3u",
+      "label": "Print Shop Graphics Library (USA, Europe) (Addon)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Print Shop Graphics Library - Holiday Edition (USA, Europe) (Addon).m3u",
+      "label": "Print Shop Graphics Library - Holiday Edition (USA, Europe) (Addon)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Printer's Patriot (USA, Europe) (Program).m3u",
+      "label": "Printer's Patriot (USA, Europe) (Program)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Project Firestart (USA).m3u",
+      "label": "Project Firestart (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Project Stealth Fighter (USA, Europe).m3u",
+      "label": "Project Stealth Fighter (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Projekt Prometheus (Germany).m3u",
+      "label": "Projekt Prometheus (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Psi 5 Trading Company (USA) (RapidLok 1).m3u",
+      "label": "Psi 5 Trading Company (USA) (RapidLok 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Psi 5 Trading Company (USA) (RapidLok 5).m3u",
+      "label": "Psi 5 Trading Company (USA) (RapidLok 5)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Puffy's Saga (USA).m3u",
+      "label": "Puffy's Saga (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Quasimodo + Warriors of Zypar (USA, Europe).m3u",
+      "label": "Quasimodo + Warriors of Zypar (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Quest, The (USA, Europe).m3u",
+      "label": "Quest, The (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Questron (USA, Europe).m3u",
+      "label": "Questron (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Questron II (USA, Europe).m3u",
+      "label": "Questron II (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/R-Type (Europe).m3u",
+      "label": "R-Type (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Racing Destruction Set (USA, Europe).m3u",
+      "label": "Racing Destruction Set (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Real Ghostbusters, The (USA, Europe).m3u",
+      "label": "Real Ghostbusters, The (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Realm of the Trolls ~ Down at the Trolls (USA).m3u",
+      "label": "Realm of the Trolls ~ Down at the Trolls (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Red Storm Rising (USA, Europe) (143.U3).m3u",
+      "label": "Red Storm Rising (USA, Europe) (143.U3)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Red Storm Rising (USA, Europe) (143.X3).m3u",
+      "label": "Red Storm Rising (USA, Europe) (143.X3)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Reisende im Wind (Germany).m3u",
+      "label": "Reisende im Wind (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Rendezvous with Rama (USA, Europe) (Telarium).m3u",
+      "label": "Rendezvous with Rama (USA, Europe) (Telarium)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Rendezvous with Rama (USA, Europe) (Trillium).m3u",
+      "label": "Rendezvous with Rama (USA, Europe) (Trillium)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Renegade (USA, Europe) (v2.02) (Program).m3u",
+      "label": "Renegade (USA, Europe) (v2.02) (Program)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Retrograde (Europe).m3u",
+      "label": "Retrograde (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Ring der Nibelungen, Der (Germany).m3u",
+      "label": "Ring der Nibelungen, Der (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Rings of Medusa (Germany).m3u",
+      "label": "Rings of Medusa (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Riskant! - First Edition (Germany).m3u",
+      "label": "Riskant! - First Edition (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Roadwar 2000 (USA, Europe) (v1.2).m3u",
+      "label": "Roadwar 2000 (USA, Europe) (v1.2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Rocket Ranger (USA).m3u",
+      "label": "Rocket Ranger (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Run the Gauntlet (Europe).m3u",
+      "label": "Run the Gauntlet (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Sargon III (USA, Europe).m3u",
+      "label": "Sargon III (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Savage (Europe).m3u",
+      "label": "Savage (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Schatzjager (Germany).m3u",
+      "label": "Schatzjager (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Schwert Skar, Das (Germany).m3u",
+      "label": "Schwert Skar, Das (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Schwert und Magie - Folgen 1 und 2 (Germany).m3u",
+      "label": "Schwert und Magie - Folgen 1 und 2 (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Schwert und Magie - Folgen 3 und 4 (Germany).m3u",
+      "label": "Schwert und Magie - Folgen 3 und 4 (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Schwert und Magie - Folgen 5 und 6 (Germany).m3u",
+      "label": "Schwert und Magie - Folgen 5 und 6 (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Security Alert (USA, Europe).m3u",
+      "label": "Security Alert (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Serpent's Star, The (USA, Europe).m3u",
+      "label": "Serpent's Star, The (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/SEUCK - Shoot 'Em-Up Construction Kit (USA) (Program).m3u",
+      "label": "SEUCK - Shoot 'Em-Up Construction Kit (USA) (Program)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Seven Cities of Gold (USA, Europe).m3u",
+      "label": "Seven Cities of Gold (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Shard of Spring, The (USA, Europe).m3u",
+      "label": "Shard of Spring, The (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Shiloh - Grant's Trial in the West (USA, Europe).m3u",
+      "label": "Shiloh - Grant's Trial in the West (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Shooting Stars 2 (USA, Europe) (Compilation).m3u",
+      "label": "Shooting Stars 2 (USA, Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Shooting Stars 3 (USA, Europe) (Compilation).m3u",
+      "label": "Shooting Stars 3 (USA, Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Sidearms (USA, Europe).m3u",
+      "label": "Sidearms (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Silent Service - The Submarine Simulation (USA) (RapidLok 6).m3u",
+      "label": "Silent Service - The Submarine Simulation (USA) (RapidLok 6)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Simpsons Arcade Game, The (USA).m3u",
+      "label": "Simpsons Arcade Game, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Sinbad (USA).m3u",
+      "label": "Sinbad (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Skate or Die! (USA).m3u",
+      "label": "Skate or Die! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Ski or Die (USA, Europe).m3u",
+      "label": "Ski or Die (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Snow Strike (USA).m3u",
+      "label": "Snow Strike (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Soko-Ban (USA, Europe).m3u",
+      "label": "Soko-Ban (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Soul Crystal (Europe).m3u",
+      "label": "Soul Crystal (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Speed Pack (USA, Europe) (Compilation).m3u",
+      "label": "Speed Pack (USA, Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Speed Rumbler, The (USA, Europe).m3u",
+      "label": "Speed Rumbler, The (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Spell-Right (USA, Europe) (Program).m3u",
+      "label": "Spell-Right (USA, Europe) (Program)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Spherical (Europe).m3u",
+      "label": "Spherical (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Sport Games 4 (USA, Europe) (Compilation).m3u",
+      "label": "Sport Games 4 (USA, Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Sports Mix (USA, Europe) (Compilation).m3u",
+      "label": "Sports Mix (USA, Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Standing Stones, The (USA, Europe).m3u",
+      "label": "Standing Stones, The (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Starhopper (Germany).m3u",
+      "label": "Starhopper (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Starion (USA, Europe).m3u",
+      "label": "Starion (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Starship Andromeda (USA, Europe).m3u",
+      "label": "Starship Andromeda (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Street Rod (USA, Europe).m3u",
+      "label": "Street Rod (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Street Sports Football (USA, Europe).m3u",
+      "label": "Street Sports Football (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Strike Aces (USA).m3u",
+      "label": "Strike Aces (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Strike Fleet (USA, Europe).m3u",
+      "label": "Strike Fleet (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Sub Battle Simulator (USA, Europe).m3u",
+      "label": "Sub Battle Simulator (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Summer Challenge (USA).m3u",
+      "label": "Summer Challenge (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Summer Games II (Europe) (2 sides) (b-highscores).m3u",
+      "label": "Summer Games II (Europe) (2 sides) (b-highscores)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Summer Games II (Europe) (3 sides) (b-highscores).m3u",
+      "label": "Summer Games II (Europe) (3 sides) (b-highscores)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Summer Games II (USA) (b-highscores).m3u",
+      "label": "Summer Games II (USA) (b-highscores)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Summer Hits (USA, Europe) (Compilation).m3u",
+      "label": "Summer Hits (USA, Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Summer Olympiad (Europe).m3u",
+      "label": "Summer Olympiad (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Super Boulder Dash (USA).m3u",
+      "label": "Super Boulder Dash (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Super Kit 2.0 (USA) (Program).m3u",
+      "label": "Super Kit 2.0 (USA) (Program)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Super League (Europe).m3u",
+      "label": "Super League (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Super Space Invaders (Europe).m3u",
+      "label": "Super Space Invaders (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Super-Card (USA, Europe) (v6.0) (Program).m3u",
+      "label": "Super-Card (USA, Europe) (v6.0) (Program)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Super-Card+ (USA, Europe) (v2.0) (Program).m3u",
+      "label": "Super-Card+ (USA, Europe) (v2.0) (Program)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Superman - Man of Steel (USA, Europe).m3u",
+      "label": "Superman - Man of Steel (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Supersports (Europe) (Compilation).m3u",
+      "label": "Supersports (Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Supreme Challenge (USA, Europe) (Compilation).m3u",
+      "label": "Supreme Challenge (USA, Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Swap (Europe).m3u",
+      "label": "Swap (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Take Down (USA).m3u",
+      "label": "Take Down (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Tass Times in Tonetown (USA, Europe).m3u",
+      "label": "Tass Times in Tonetown (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/TechnoCop (Europe).m3u",
+      "label": "TechnoCop (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Technocop (USA).m3u",
+      "label": "Technocop (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Teenage Mutant Hero Turtles (Europe).m3u",
+      "label": "Teenage Mutant Hero Turtles (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Teenage Mutant Ninja Turtles - The Arcade Game (USA).m3u",
+      "label": "Teenage Mutant Ninja Turtles - The Arcade Game (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Ten Computer Hits (USA, Europe) (Compilation).m3u",
+      "label": "Ten Computer Hits (USA, Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Terminator 2 - Judgment Day (Europe) (En,De).m3u",
+      "label": "Terminator 2 - Judgment Day (Europe) (En,De)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Terramex (Europe).m3u",
+      "label": "Terramex (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Test Drive (USA, Europe).m3u",
+      "label": "Test Drive (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Thalamus Hits 1986-1988 (Europe) (Compilation).m3u",
+      "label": "Thalamus Hits 1986-1988 (Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/The Flying Ape.m3u",
+      "label": "The Flying Ape",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Three Stooges, The (USA).m3u",
+      "label": "Three Stooges, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Thunder Mountain Action Pak Vol. 1 (USA, Europe) (Compilation).m3u",
+      "label": "Thunder Mountain Action Pak Vol. 1 (USA, Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Thunder Mountain Action Pak Vol. 2 (USA, Europe) (Compilation).m3u",
+      "label": "Thunder Mountain Action Pak Vol. 2 (USA, Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Time Scanner (USA, Europe).m3u",
+      "label": "Time Scanner (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Tintin on the Moon (USA, Europe).m3u",
+      "label": "Tintin on the Moon (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Titbit (Germany) (Golden Disk Ausgabe 13) (Diskmag).m3u",
+      "label": "Titbit (Germany) (Golden Disk Ausgabe 13) (Diskmag)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/TNT (USA, Europe) (Compilation).m3u",
+      "label": "TNT (USA, Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Top 20 Solid Gold (USA, Europe) (Compilationb-disk).m3u",
+      "label": "Top 20 Solid Gold (USA, Europe) (Compilationb-disk)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Top Flight (USA, Europe) (Compilation).m3u",
+      "label": "Top Flight (USA, Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Top Gunner Collection (USA) (Compilation).m3u",
+      "label": "Top Gunner Collection (USA) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Transformers, The - Battle to Save the Earth (USA, Europe).m3u",
+      "label": "Transformers, The - Battle to Save the Earth (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Trinity (USA, Europe) (R11) (C128).m3u",
+      "label": "Trinity (USA, Europe) (R11) (C128)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Triple Crown (USA, Europe) (Compilation).m3u",
+      "label": "Triple Crown (USA, Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Triple Pack (USA) (Compilation).m3u",
+      "label": "Triple Pack (USA) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Trivial Pursuit - Commodore Genus-Edition (USA, Europe).m3u",
+      "label": "Trivial Pursuit - Commodore Genus-Edition (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Trivial Pursuit - Die neue Generation (Germany).m3u",
+      "label": "Trivial Pursuit - Die neue Generation (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Turbo Charge (Europe).m3u",
+      "label": "Turbo Charge (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Turbo Out Run (Europe).m3u",
+      "label": "Turbo Out Run (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Turrican (USA).m3u",
+      "label": "Turrican (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Turrican II - The Final Fight (USA, Europe) (Alt 1).m3u",
+      "label": "Turrican II - The Final Fight (USA, Europe) (Alt 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/TV Sports Football (USA, Europe).m3u",
+      "label": "TV Sports Football (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Twin World (USA, Europe) (Six Appeal Compilation).m3u",
+      "label": "Twin World (USA, Europe) (Six Appeal Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Typhoon (Europe).m3u",
+      "label": "Typhoon (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Ultima II - The Revenge of the Enchantress (USA, Europe).m3u",
+      "label": "Ultima II - The Revenge of the Enchantress (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Ultima III - Exodus (USA, Europe).m3u",
+      "label": "Ultima III - Exodus (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Ultima IV - Quest of the Avatar (USA, Europe).m3u",
+      "label": "Ultima IV - Quest of the Avatar (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Ultima V - Warriors of Destiny (USA).m3u",
+      "label": "Ultima V - Warriors of Destiny (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Ultima VI - The False Prophet (USA).m3u",
+      "label": "Ultima VI - The False Prophet (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Ultimate Wizard (USA).m3u",
+      "label": "Ultimate Wizard (USA)",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Uninvited (USA, Europe).m3u",
+      "label": "Uninvited (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Untouchables, The (Europe).m3u",
+      "label": "Untouchables, The (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/VizaWrite Classic 128 (Europe) (C128-Program).m3u",
+      "label": "VizaWrite Classic 128 (Europe) (C128-Program)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/War in Middle Earth (USA, Europe).m3u",
+      "label": "War in Middle Earth (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/War of the Lance (USA, Europe).m3u",
+      "label": "War of the Lance (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Wargame Construction Set (USA, Europe).m3u",
+      "label": "Wargame Construction Set (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Wasteland (USA, Europe).m3u",
+      "label": "Wasteland (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/We are the Champions (USA, Europe) (Ocean) (Compilation).m3u",
+      "label": "We are the Champions (USA, Europe) (Ocean) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Where in the USA is Carmen Sandiego (USA, Europe).m3u",
+      "label": "Where in the USA is Carmen Sandiego (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Who Framed Roger Rabbit (USA, Europe).m3u",
+      "label": "Who Framed Roger Rabbit (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Wicked Games (USA, Europe) (Compilation).m3u",
+      "label": "Wicked Games (USA, Europe) (Compilation)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Win, Lose or Draw (USA, Europe).m3u",
+      "label": "Win, Lose or Draw (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Winter Camp (Europe).m3u",
+      "label": "Winter Camp (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Winter Challenge (USA).m3u",
+      "label": "Winter Challenge (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Winter Games (USA, Europe) (Alt 1).m3u",
+      "label": "Winter Games (USA, Europe) (Alt 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Winter Games (USA, Europe) (b-highscores).m3u",
+      "label": "Winter Games (USA, Europe) (b-highscores)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Winter Games (USA, Europe) (Compilation Xmas Bonus) (b-highscores).m3u",
+      "label": "Winter Games (USA, Europe) (Compilation Xmas Bonus) (b-highscores)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Winter Games Gold (USA, Europe) (b-highscores).m3u",
+      "label": "Winter Games Gold (USA, Europe) (b-highscores)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Wishbringer - The Magick Stone of Dreams (USA, Europe) (R23) (C128).m3u",
+      "label": "Wishbringer - The Magick Stone of Dreams (USA, Europe) (R23) (C128)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Wizard of Oz, The (USA, Europe).m3u",
+      "label": "Wizard of Oz, The (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Wizard's Crown (USA, Europe) (v1.3).m3u",
+      "label": "Wizard's Crown (USA, Europe) (v1.3)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (USA, Europe) (Addon).m3u",
+      "label": "Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (USA, Europe) (Addon)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Wizardry Scenario 2 - Knight of Diamonds (USA, Europe) (Addon).m3u",
+      "label": "Wizardry Scenario 2 - Knight of Diamonds (USA, Europe) (Addon)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Wizardry Scenario 3 - Legacy of Llylgamyn (USA, Europe) (Addon).m3u",
+      "label": "Wizardry Scenario 3 - Legacy of Llylgamyn (USA, Europe) (Addon)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Wonder Boy in Monster Land (Europe) (Rainbow Collection).m3u",
+      "label": "Wonder Boy in Monster Land (Europe) (Rainbow Collection)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Woody the Worm + Space Quiz (Germany) (Golden Disk 4.93) (Diskmag).m3u",
+      "label": "Woody the Worm + Space Quiz (Germany) (Golden Disk 4.93) (Diskmag)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Word Writer 128 (USA, Europe) (C128-Program).m3u",
+      "label": "Word Writer 128 (USA, Europe) (C128-Program)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Word Writer 3 (USA) (Program).m3u",
+      "label": "Word Writer 3 (USA) (Program)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Word Writer 4 (USA) (Program).m3u",
+      "label": "Word Writer 4 (USA) (Program)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Wordmatch (Germany) (Program).m3u",
+      "label": "Wordmatch (Germany) (Program)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/World Class Leader Board (USA).m3u",
+      "label": "World Class Leader Board (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/World Games (USA, Europe) (b-highscores).m3u",
+      "label": "World Games (USA, Europe) (b-highscores)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/World Tour Golf (USA, Europe).m3u",
+      "label": "World Tour Golf (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/World's Greatest Baseball Game, The (USA).m3u",
+      "label": "World's Greatest Baseball Game, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/World's Greatest Baseball Game, The (USA, Europe) (Enhanced).m3u",
+      "label": "World's Greatest Baseball Game, The (USA, Europe) (Enhanced)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/World's Greatest Football Game (USA, Europe).m3u",
+      "label": "World's Greatest Football Game (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/WWF WrestleMania (Europe).m3u",
+      "label": "WWF WrestleMania (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/X-Men - Madness in Murderworld (USA, Europe).m3u",
+      "label": "X-Men - Madness in Murderworld (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/X-Out (Europe).m3u",
+      "label": "X-Out (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Zak McKracken and the Alien Mindbenders (Germany).m3u",
+      "label": "Zak McKracken and the Alien Mindbenders (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    },
+    {
+      "path": "/storage/roms/C64 Home Computer/Zork I - The Great Underground Empire (USA, Europe) (R52) (C128).m3u",
+      "label": "Zork I - The Great Underground Empire (USA, Europe) (R52) (C128)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "C64 Home Computer.lpl"
+    }
+  ]
+}

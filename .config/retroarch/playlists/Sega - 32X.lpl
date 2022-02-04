@@ -1,0 +1,307 @@
+{
+  "version": "1.5",
+  "default_core_path": "/tmp/cores/picodrive_libretro.so",
+  "default_core_name": "Sega - MS/MD/CD/32X (PicoDrive)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/storage/roms/Sega 32X/After Burner (Japan, USA).zip#After Burner (Japan, USA).32x",
+      "label": "After Burner (Japan, USA)",
+      "core_path": "/tmp/cores/picodrive_libretro.so",
+      "core_name": "Sega - MS/MD/CD/32X (PicoDrive)",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega 32X/Amazing Spider-Man, The - Web of Fire (USA).zip",
+      "label": "Amazing Spider-Man, The - Web of Fire (USA)",
+      "core_path": "/tmp/cores/picodrive_libretro.so",
+      "core_name": "Sega - MS/MD/CD/32X (PicoDrive)",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega 32X/BC Racers (USA).zip",
+      "label": "BC Racers (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega 32X/Blackthorne (USA).zip",
+      "label": "Blackthorne (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega 32X/Brutal Unleashed - Above the Claw (USA).zip",
+      "label": "Brutal Unleashed - Above the Claw (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega 32X/Cosmic Carnage (Japan, USA).zip",
+      "label": "Cosmic Carnage (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega 32X/Darxide (Europe).zip",
+      "label": "Darxide (Europe)",
+      "core_path": "/tmp/cores/picodrive_libretro.so",
+      "core_name": "Sega - MS/MD/CD/32X (PicoDrive)",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega 32X/Doom (Japan, USA).zip",
+      "label": "Doom (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega 32X/FIFA Soccer '96 (Europe).zip",
+      "label": "FIFA Soccer '96 (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega 32X/Golf Magazine 36 Great Holes Starring Fred Couples (Japan, USA).zip",
+      "label": "Golf Magazine 36 Great Holes Starring Fred Couples (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega 32X/Knuckles' Chaotix (Japan, USA).zip",
+      "label": "Knuckles' Chaotix (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega 32X/Kolibri (USA, Europe).zip",
+      "label": "Kolibri (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega 32X/Metal Head (Japan, USA).zip",
+      "label": "Metal Head (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega 32X/Mortal Kombat II (Japan, USA).zip",
+      "label": "Mortal Kombat II (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega 32X/Motocross Championship (USA).zip",
+      "label": "Motocross Championship (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega 32X/NBA Jam Tournament Edition (World).zip",
+      "label": "NBA Jam Tournament Edition (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega 32X/NFL Quarterback Club (World).zip",
+      "label": "NFL Quarterback Club (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega 32X/Pinocchio (Europe).zip",
+      "label": "Pinocchio (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega 32X/Pitfall - The Mayan Adventure (USA).zip",
+      "label": "Pitfall - The Mayan Adventure (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega 32X/Primal Rage (USA, Europe).zip",
+      "label": "Primal Rage (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega 32X/RBI Baseball '95 (USA).zip",
+      "label": "RBI Baseball '95 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega 32X/Sangokushi IV (Japan).zip",
+      "label": "Sangokushi IV (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega 32X/Shadow Squadron (USA, Europe).zip",
+      "label": "Shadow Squadron (USA, Europe)",
+      "core_path": "/tmp/cores/picodrive_libretro.so",
+      "core_name": "Sega - MS/MD/CD/32X (PicoDrive)",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega 32X/Soulstar X (USA).zip",
+      "label": "Soulstar X (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega 32X/Space Harrier (Japan, USA).zip",
+      "label": "Space Harrier (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega 32X/Star Trek Starfleet Academy - Starship Bridge Simulator (USA).zip",
+      "label": "Star Trek Starfleet Academy - Starship Bridge Simulator (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega 32X/Star Wars Arcade (USA).zip",
+      "label": "Star Wars Arcade (USA)",
+      "core_path": "/tmp/cores/picodrive_libretro.so",
+      "core_name": "Sega - MS/MD/CD/32X (PicoDrive)",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega 32X/T-Mek (USA, Europe).zip",
+      "label": "T-Mek (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega 32X/Tempo (Japan, USA).zip",
+      "label": "Tempo (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega 32X/Toughman Contest (USA, Europe).zip",
+      "label": "Toughman Contest (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega 32X/Virtua Fighter (Japan, USA).zip",
+      "label": "Virtua Fighter (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega 32X/Virtua Racing Deluxe (USA).zip",
+      "label": "Virtua Racing Deluxe (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega 32X/World Series Baseball Starring Deion Sanders (USA).zip",
+      "label": "World Series Baseball Starring Deion Sanders (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega 32X/WWF Raw (World).zip",
+      "label": "WWF Raw (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega 32X/WWF WrestleMania - The Arcade Game (USA).zip",
+      "label": "WWF WrestleMania - The Arcade Game (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega 32X/X-Men - Mind Games (USA).zip",
+      "label": "X-Men - Mind Games (USA)",
+      "core_path": "/tmp/cores/picodrive_libretro.so",
+      "core_name": "Sega - MS/MD/CD/32X (PicoDrive)",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega 32X/Zaxxon's Motherbase 2000 (Japan, USA).zip",
+      "label": "Zaxxon's Motherbase 2000 (Japan, USA)",
+      "core_path": "/tmp/cores/picodrive_libretro.so",
+      "core_name": "Sega - MS/MD/CD/32X (PicoDrive)",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - 32X.lpl"
+    }
+  ]
+}

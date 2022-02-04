@@ -1,0 +1,1569 @@
+{
+  "version": "1.5",
+  "default_core_path": "/tmp/cores/vice_x64_libretro.so",
+  "default_core_name": "Commodore - C64 (VICE x64, fast)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "scan_content_dir": "/storage/roms/C64",
+  "scan_file_exts": "",
+  "scan_dat_file_path": "",
+  "scan_search_recursively": true,
+  "scan_search_archives": false,
+  "scan_filter_dat_content": false,
+  "items": [
+    {
+      "path": "/storage/roms/C64/16K/64forth v1.2 (1983)(hesware).m3u",
+      "label": "64Forth v1.2 (1983)(hesware)",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/adventure creator (1984)(spinnaker software).m3u",
+      "label": "Adventure Creator (1984)(spinnaker software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/adventure series - viking raider (1984)(interphase).m3u",
+      "label": "Adventure Series - Viking Raider (1984)(interphase)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/aegean voyage (1984)(spinnaker software).m3u",
+      "label": "Aegean Voyage (1984)(spinnaker software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/alf in the color caves (1984)(spinnaker software).m3u",
+      "label": "Alf in the Color Caves (1984)(spinnaker software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/alien sidestep (19xx)(mr. computer).m3u",
+      "label": "Alien Sidestep (19xx)(mr. computer)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/alpha build (1984)(fisher price).m3u",
+      "label": "Alpha Build (1984)(fisher price)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/alphabet zoo (1983)(spinnaker software).m3u",
+      "label": "Alphabet Zoo (1983)(spinnaker software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/amazing maze (1983)(mr. computer).m3u",
+      "label": "Amazing Maze (1983)(mr. computer)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/arnie armchairs howzat cricket game (1984)(armchair entertainment).m3u",
+      "label": "Arnie Armchairs Howzat Cricket Game (1984)(armchair entertainment)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/astroblitz (1983)(creative software).m3u",
+      "label": "Astroblitz (1983)(creative software)",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/attack of the mutant camels (1983)(hesware).m3u",
+      "label": "Attack of the Mutant Camels (1983)(hesware)",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/Avenger MAX.crt",
+      "label": "Avenger MAX",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/basex (1989)(peter finch).m3u",
+      "label": "Basex (1989)(peter finch)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/battlezone (1983)(atarisoft).m3u",
+      "label": "Battlezone (1983)(atarisoft)",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/bc's quest for tires (1983)(sierra online).m3u",
+      "label": "BC's Quest for Tires (1983)(sierra online)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/beamrider (1984)(activision).m3u",
+      "label": "Beamrider (1984)(activision)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/big bird's funhouse (1984)(cbs software).m3u",
+      "label": "Big Bird's Funhouse (1984)(cbs software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/big bird's special delivery (1984)(cbs software).m3u",
+      "label": "Big Bird's Special Delivery (1984)(cbs software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/block hopper (1983)(fantasy soft).m3u",
+      "label": "Block Hopper (1983)(fantasy soft)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/blue print (1983)(commodore).m3u",
+      "label": "Blue Print (1983)(commodore)",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/bridge 64 (1983)(handic software).m3u",
+      "label": "Bridge 64 (1983)(handic software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/bubble burst (1984)(spinnaker software).m3u",
+      "label": "Bubble Burst (1984)(spinnaker software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/buck rogers - planet of zoom (1983)(sega).m3u",
+      "label": "Buck Rogers - Planet of Zoom (1983)(sega)",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/bug crusher (1983)(mr. computer).m3u",
+      "label": "Bug Crusher (1983)(mr. computer)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/castle hassle (1983)(roklan).m3u",
+      "label": "Castle Hassle (1983)(roklan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/centipede (1983)(atarisoft).m3u",
+      "label": "Centipede (1983)(atarisoft)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/checkers (1984)(micro-distributors).m3u",
+      "label": "Checkers (1984)(micro-distributors)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/choplifter (1982)(broderbund).m3u",
+      "label": "Choplifter! (1982)(broderbund)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/close encounters of the worst kind (1994)(mr. computer).m3u",
+      "label": "Close Encounters of the Worst Kind (1994)(mr. computer)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/Clowns-a.crt",
+      "label": "Clowns (commodore)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/coccinelle cherche dessinateur (1983)(spinnaker software)(fr).m3u",
+      "label": "Coccinelle Cherche Dessinateur (1983)(spinnaker software)(fr)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/coco-notes featuring... the jazz scats (1984)(cbs software).m3u",
+      "label": "CoCo-Notes Featuring... the Jazz Scats (1984)(cbs software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/congo bongo (1983)(sega).m3u",
+      "label": "Congo Bongo (1983)(sega)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/cosmic life (1983)(spinnaker software).m3u",
+      "label": "Cosmic Life (1983)(spinnaker software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/crisis mountain (1983)(creative software).m3u",
+      "label": "Crisis Mountain (1983)(creative software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/crystal castles (1984)(atarisoft).m3u",
+      "label": "Crystal Castles (1984)(atarisoft)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/dance fantasy (1984)(fisher price).m3u",
+      "label": "Dance Fantasy (1984)(fisher price)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/dancing feats (1983)(romox).m3u",
+      "label": "Dancing Feats (1983)(romox)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/decathlon (1983)(activision).m3u",
+      "label": "Decathlon (1983)(activision)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/defender (1983)(atarisoft).m3u",
+      "label": "Defender (1983)(atarisoft)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/delta drawing v3.23 (1983)(spinnaker software).m3u",
+      "label": "Delta Drawing v3.23 (1983)(spinnaker software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/designer's pencil, the (1984)(activision).m3u",
+      "label": "Designer's Pencil, the (1984)(activision)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/diamond mine (1983)(roklan).m3u",
+      "label": "Diamond Mine (1983)(roklan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/dig dug (1983)(atarisoft).m3u",
+      "label": "Dig Dug (1983)(atarisoft)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/donkey kong (1983)(atarisoft).m3u",
+      "label": "Donkey Kong (1983)(atarisoft)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/dot gobbler v2 (1983)(mr. computer).m3u",
+      "label": "Dot Gobbler v2 (1983)(mr. computer)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/dragon's den (1983)(commodore).m3u",
+      "label": "Dragon's Den (1983)(commodore)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/ducks ahoy (1984)(cbs software).m3u",
+      "label": "Ducks Ahoy! (1984)(cbs software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/ernie's magic shapes (1984)(cbs software).m3u",
+      "label": "Ernie's Magic Shapes (1984)(cbs software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/espial (1984)(tigervision).m3u",
+      "label": "Espial (1984)(tigervision)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/exbasic level ii v64.1 (1988)(markt & technik).m3u",
+      "label": "Exbasic Level II v64.1 (1988)(markt & technik)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/facemaker (1983)(spinnaker software).m3u",
+      "label": "Facemaker (1983)(spinnaker software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/falconian invaders (1983)(turbo software).m3u",
+      "label": "Falconian Invaders (1983)(turbo software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/financial advisor (1983)(commodore).m3u",
+      "label": "Financial Advisor (1983)(commodore)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/fort apocalypse (1982)(synapse)[pirate].m3u",
+      "label": "Fort Apocalypse (1982)(synapse)[pirate]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/fortress of narzod.m3u",
+      "label": "Fortress of Narzod",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/fourth sarcophagus, the (1983)(handic software).m3u",
+      "label": "Fourth Sarcophagus, the (1983)(handic software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/fraction fever (1983)(spinnaker software).m3u",
+      "label": "Fraction Fever (1983)(spinnaker software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/frog master (1983)(commodore).m3u",
+      "label": "Frog Master (1983)(commodore)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/frogger (1983)(parker brothers).m3u",
+      "label": "Frogger (1983)(parker brothers)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/frogger ii - threeedeep (1984)(parker brothers).m3u",
+      "label": "Frogger II - Threeedeep! (1984)(parker brothers)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/galaxian (1983)(atarisoft).m3u",
+      "label": "Galaxian (1983)(atarisoft)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/galaxions & munch man (1983)(solar software).m3u",
+      "label": "Galaxions & Munch Man (1983)(solar software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/gateway to apshai (1983)(epyx).m3u",
+      "label": "Gateway to Apshai (1983)(epyx)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/gorf (1983)(commodore).m3u",
+      "label": "Gorf (1983)(commodore)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/graf 64 (19xx)(handic software).m3u",
+      "label": "Graf 64 (19xx)(handic software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/gridrunner (1983)(hesware).m3u",
+      "label": "Gridrunner (1983)(hesware)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/gyruss (1984)(parker brothers).m3u",
+      "label": "Gyruss (1984)(parker brothers)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/h.e.r.o. (1984)(activision).m3u",
+      "label": "H.E.R.O. (1984)(activision)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/halftime battlin' bands (1984)(cbs software).m3u",
+      "label": "Halftime Battlin' Bands (1984)(cbs software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/hes mon 64 (1983)(hesware).m3u",
+      "label": "HES Mon 64 (1983)(hesware)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/hop along counting (1984)(fisher price).m3u",
+      "label": "Hop Along Counting (1984)(fisher price)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/human skeleton tutorial (1984)(s.m. thorpe).m3u",
+      "label": "Human Skeleton Tutorial (1984)(s.m. thorpe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/JackAttack.crt",
+      "label": "Jack Attack! (1983)(commodore)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/james bond (1984)(parker brothers).m3u",
+      "label": "James Bond (1984)(parker brothers)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/jars' revenge.m3u",
+      "label": "Jars' Revenge",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/jaw breaker (1983)(sierra online).m3u",
+      "label": "Jaw Breaker (1983)(sierra online)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/juice (1983)(tronix).m3u",
+      "label": "Juice! (1983)(tronix)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/juke box (1984)(spinnaker software).m3u",
+      "label": "Juke Box (1984)(spinnaker software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/Jumpman (1983)(Epyx).d64",
+      "label": "Jumpman (1983)(Epyx)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/jumpman junior (1983)(epyx).m3u",
+      "label": "Jumpman Junior (1983)(epyx)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/jungle hunt (1983)(atarisoft).m3u",
+      "label": "Jungle Hunt (1983)(atarisoft)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/Jupiter Lander.crt",
+      "label": "Jupiter Lander (1982)(commodore)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/Kickman.crt",
+      "label": "Kickman (1982)(commodore)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/kids on keys (1983)(spinnaker software).m3u",
+      "label": "Kids on Keys (1983)(spinnaker software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/kindercomp (1983)(spinnaker software).m3u",
+      "label": "Kindercomp (1983)(spinnaker software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/lazarian (1983)(commodore).m3u",
+      "label": "Lazarian (1983)(commodore)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/lazer zone (1983)(hesware).m3u",
+      "label": "Lazer Zone (1983)(hesware)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/Le Mans.crt",
+      "label": "Le Mans (1982) (commodore)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/Leaderboard Golf.crt",
+      "label": "Leader Board (1986) (access)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/learning with leeper (1983)(sierra online).m3u",
+      "label": "Learning with Leeper (1983)(sierra online)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/linking logic (1984)(fisher price).m3u",
+      "label": "Linking Logic (1984)(fisher price)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/lode runner (1983)(broderbund).m3u",
+      "label": "Lode Runner (1983)(broderbund)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/logic levels (1984)(fisher price).m3u",
+      "label": "Logic Levels (1984)(fisher price)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/lunar leeper (1982)(sierra online).m3u",
+      "label": "Lunar Leeper (1982)(sierra online)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/mario's brewery (1983)(mr. computer).m3u",
+      "label": "Mario's Brewery (1983)(mr. computer)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/mastertype (1983)(lightning software).m3u",
+      "label": "Mastertype (1983)(lightning software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/math mileage (1984)(cbs software).m3u",
+      "label": "Math Mileage (1984)(cbs software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/maze man (1983)(turbo software).m3u",
+      "label": "Maze Man (1983)(turbo software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/maze master (1983)(hesware).m3u",
+      "label": "Maze Master (1983)(hesware)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/memory manor (1984)(fisher price).m3u",
+      "label": "Memory Manor (1984)(fisher price)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/miner 2049er (1982)(big five software).m3u",
+      "label": "Miner 2049er (1982)(big five software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/minnesota fat's pool challenger (1983)(hesware).m3u",
+      "label": "Minnesota Fat's Pool Challenger (1983)(hesware)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/moon dust (1983)(creative software).m3u",
+      "label": "Moon Dust (1983)(creative software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/moon patrol (1983)(atarisoft).m3u",
+      "label": "Moon Patrol (1983)(atarisoft)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/motor mania (1982)(umi).m3u",
+      "label": "Motor Mania (1982)(umi)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/mountain king (1983)(beyond software).m3u",
+      "label": "Mountain King (1983)(beyond software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/movie musical madness (1984)(cbs software).m3u",
+      "label": "Movie Musical Madness (1984)(cbs software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/mr. cool (1983)(sierra online).m3u",
+      "label": "Mr. Cool (1983)(sierra online)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/mr. tnt (1984)(hesware).m3u",
+      "label": "Mr. TNT (1984)(hesware)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/Ms.Pacman-a2.crt",
+      "label": "Ms. Pac-Man",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/mutant spiders, the (1983)(handic software).m3u",
+      "label": "Mutant Spiders, the (1983)(handic software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/nova blast (1984)(imagic).m3u",
+      "label": "Nova Blast (1984)(imagic)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/number nabber - shape grabber (1983)(commodore).m3u",
+      "label": "Number Nabber - Shape Grabber (1983)(commodore)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/number tumbler (1984)(fisher price).m3u",
+      "label": "Number Tumbler (1984)(fisher price)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/oils well (1983)(sierra online).m3u",
+      "label": "Oils Well (1983)(sierra online)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/omega race (1982)(commodore).m3u",
+      "label": "Omega Race (1982)(commodore)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/ONFIELDFOOTBALL.prg",
+      "label": "On-Field Football (gamestar)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/pac-man (1983)(atarisoft).m3u",
+      "label": "Pac-Man (1983)(atarisoft)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/paint brush (1983)(hesware).m3u",
+      "label": "Paint Brush (1983)(hesware)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/pancho (1984)(romox)(fr).m3u",
+      "label": "Pancho (1984)(romox)(fr)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/panic analogue.m3u",
+      "label": "Panic Analogue",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/pastfinder (1984)(activision).m3u",
+      "label": "Pastfinder (1984)(activision)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/peanut butter panic (1984)(cbs software).m3u",
+      "label": "Peanut Butter Panic (1984)(cbs software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/pipes (1983)(creative software).m3u",
+      "label": "Pipes (1983)(creative software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/pit, the (1983)(hesware).m3u",
+      "label": "Pit, the (1983)(hesware)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/pitfall (1984)(activision).m3u",
+      "label": "Pitfall! (1984)(activision)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/pitfall 2 - lost caverns (1984)(activision).m3u",
+      "label": "Pitfall II - Lost Caverns (1984)(activision)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/pitstop (1983)(epyx).m3u",
+      "label": "Pitstop (1983)(epyx)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/pole position (1983)(atarisoft).m3u",
+      "label": "Pole Position (1983)(atarisoft)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/popeye (1983)(parker brothers).m3u",
+      "label": "Popeye (1983)(parker brothers)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/princess and the frog (1983)(romox).m3u",
+      "label": "Princess and the Frog (1983)(romox)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/q-bert (1983)(parker brothers).m3u",
+      "label": "Q-bert (1983)(parker brothers)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/rack 'em up (1983)(roklan).m3u",
+      "label": "Rack 'em Up! (1983)(roklan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/Radar Rat Race.crt",
+      "label": "Radar Rat Race (1982)(commodore)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/ranch (1984)(spinnaker software).m3u",
+      "label": "Ranch (1984)(spinnaker software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/retro ball (1982)(hesware).m3u",
+      "label": "Retro Ball (1982)(hesware)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/Risk.d64",
+      "label": "Risk",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/river raid (1984)(activision).m3u",
+      "label": "River Raid (1984)(activision)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/robotron 2084 (1983)(atarisoft).m3u",
+      "label": "Robotron 2084 (1983)(atarisoft)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/rootin' tootin' (1983)(hesware).m3u",
+      "label": "Rootin' Tootin' (1983)(hesware)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/sammy lightfoot (1983)(sierra online).m3u",
+      "label": "Sammy Lightfoot (1983)(sierra online)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/save new york (1983)(creative software).m3u",
+      "label": "Save New York (1983)(creative software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/sea speller (1984)(fisher price).m3u",
+      "label": "Sea Speller (1984)(fisher price)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/Sea Wolf.crt",
+      "label": "Sea Wolf (1982)(commodore)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/seafox (1982)(broderbund).m3u",
+      "label": "Seafox (1982)(broderbund)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/seahorse hide'n seek (1984)(cbs software).m3u",
+      "label": "Seahorse Hide'n Seek (1984)(cbs software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/Seasons_Greetings.d64",
+      "label": "Seasons Greetings - retail demo (commodore)",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/serpentine (1982)(broderbund).m3u",
+      "label": "Serpentine (1982)(broderbund)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/sesame street letter-go-round (1984)(cbs software).m3u",
+      "label": "Sesame Street Letter-Go-Round (1984)(cbs software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/solar fox (1983)(commodore).m3u",
+      "label": "Solar Fox (1983)(commodore)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/song maker (1985)(fisher price).m3u",
+      "label": "Song Maker (1985)(fisher price)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/space action (1983)(handic software).m3u",
+      "label": "Space Action (1983)(handic software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/space ric-o-shay (1983)(mr. computer).m3u",
+      "label": "Space Ric-o-Shay (1983)(mr. computer)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/space shuttle - a journey into space (1983)(activision).m3u",
+      "label": "Space Shuttle - A Journey into Space (1983)(activision)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/spitball (1983)(creative software).m3u",
+      "label": "Spitball (1983)(creative software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/spy hunter (1983)(u.s. gold).m3u",
+      "label": "Spy Hunter (1983)(u.s. gold)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/star post (1983)(commodore).m3u",
+      "label": "Star Post (1983)(commodore)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/star ranger (1983)(commodore).m3u",
+      "label": "Star Ranger (1983)(commodore)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/star trek - strategic operations simulator (1983)(sega).m3u",
+      "label": "Star Trek - Strategic Operations Simulator (1983)(sega)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/star wars - the arcade game (1983)(parker brothers).m3u",
+      "label": "Star Wars - the Arcade Game (1983)(parker brothers)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/states and capitals tutorial (1984)(s.m. thorpe).m3u",
+      "label": "States and Capitals Tutorial (1984)(s.m. thorpe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/stix (1983)(supersoft).m3u",
+      "label": "Stix (1983)(supersoft)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/story machine (1983)(spinnaker).m3u",
+      "label": "Story Machine (1983)(spinnaker)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/super sketch (1984)(personal peripherals).m3u",
+      "label": "Super Sketch (1984)(personal peripherals)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/super smash (1983)(commodore).m3u",
+      "label": "Super Smash (1983)(commodore)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/super zaxxon (1984)(hesware).m3u",
+      "label": "Super Zaxxon (1984)(hesware)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/tank wars (1983)(mr. computer).m3u",
+      "label": "Tank Wars (1983)(mr. computer)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/tapper (1984)(u.s. gold).m3u",
+      "label": "Tapper (1984)(u.s. gold)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/tenpins (1989)(entertainment software).m3u",
+      "label": "Tenpins (1989)(entertainment software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/threshold (1983)(sierra online).m3u",
+      "label": "Threshold (1983)(sierra online)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/timebound (1984)(cbs software).m3u",
+      "label": "Timebound (1984)(cbs software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/TOUCHDOWN_FOOTBALL.t64",
+      "label": "Touchdown Football",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/toy bizarre (1984)(activision).m3u",
+      "label": "Toy Bizarre (1984)(activision)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/trashman (1983)(creative software).m3u",
+      "label": "Trashman (1983)(creative software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/tsi cycles (1983)(turbo software).m3u",
+      "label": "TSI Cycles (1983)(turbo software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/turbo maze man (1983)(turbo software).m3u",
+      "label": "Turbo Maze Man (1983)(turbo software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/tyler's dungeon (1984)(turbo software).m3u",
+      "label": "Tyler's Dungeon (1984)(turbo software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/ultrex quadro maze (1983)(turbo software).m3u",
+      "label": "Ultrex Quadro Maze (1983)(turbo software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/up 'n add 'em (1984)(fisher price).m3u",
+      "label": "Up 'n Add 'em (1984)(fisher price)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/up 'n down (1984)(sega).m3u",
+      "label": "Up 'n Down (1984)(sega)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/up for grabs (1983)(spinnaker software).m3u",
+      "label": "Up for Grabs (1983)(spinnaker software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/8K/utah counties tutorial (1984)(s.m. thorpe).m3u",
+      "label": "Utah Counties Tutorial (1984)(s.m. thorpe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/vic-text 64 (1983)(handic software)(swe).m3u",
+      "label": "VIC-Text 64 (1983)(handic software)(swe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/viduzzles - computerized jigsaw puzzles (1983)(commodore).m3u",
+      "label": "Viduzzles - Computerized Jigsaw Puzzles (1983)(commodore)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/webster - the word game (1983)(cbs software).m3u",
+      "label": "Webster - the Word Game (1983)(cbs software)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/wizard.d64",
+      "label": "Wizard",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/wizard of id's wiztype, the (1984)(sierra online).m3u",
+      "label": "Wizard of Id's Wiztype, the (1984)(sierra online)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/wizard of wor (1984)(commodore).m3u",
+      "label": "Wizard of Wor (1984)(commodore)",
+      "core_path": "/tmp/cores/vice_x64_libretro.so",
+      "core_name": "Commodore - C64 (VICE x64, fast)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/write now 64 (1983)(computer applications).m3u",
+      "label": "Write Now! 64 (1983)(computer applications)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/zaxxon (1984)(synapse).m3u",
+      "label": "Zaxxon (1984)(synapse)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/zenji (1984)(activision).m3u",
+      "label": "Zenji (1984)(activision)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    },
+    {
+      "path": "/storage/roms/C64/16K/zone ranger (1984)(activision).m3u",
+      "label": "Zone Ranger (1984)(activision)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - 64.lpl"
+    }
+  ]
+}

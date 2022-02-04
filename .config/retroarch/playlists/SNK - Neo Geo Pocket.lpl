@@ -1,0 +1,58 @@
+{
+  "version": "1.2",
+  "default_core_path": "/tmp/cores/mednafen_ngp_libretro.so",
+  "default_core_name": "SNK - Neo Geo Pocket / Color (Beetle NeoPop)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "items": [
+    {
+      "path": "/storage/roms/Neo Geo Pocket/Baseball Stars - Pocket Sports Series (Japan, Europe).zip",
+      "label": "Baseball Stars - Pocket Sports Series (Japan, Europe)",
+      "core_path": "/tmp/cores/mednafen_ngp_libretro.so",
+      "core_name": "SNK - Neo Geo Pocket / Color (Beetle NeoPop)",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket.lpl"
+    },
+    {
+      "path": "/storage/roms/Neo Geo Pocket/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe).zip",
+      "label": "King of Fighters R-1 - Pocket Fighting Series (Japan, Europe)",
+      "core_path": "/tmp/cores/mednafen_ngp_libretro.so",
+      "core_name": "SNK - Neo Geo Pocket / Color (Beetle NeoPop)",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket.lpl"
+    },
+    {
+      "path": "/storage/roms/Neo Geo Pocket/Neo Cherry Master - Real Casino Series (Japan).zip",
+      "label": "Neo Cherry Master - Real Casino Series (Japan)",
+      "core_path": "/tmp/cores/mednafen_ngp_libretro.so",
+      "core_name": "SNK - Neo Geo Pocket / Color (Beetle NeoPop)",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket.lpl"
+    },
+    {
+      "path": "/storage/roms/Neo Geo Pocket/Neo Geo Cup '98 (Japan, Europe).zip",
+      "label": "Neo Geo Cup '98 (Japan, Europe)",
+      "core_path": "/tmp/cores/mednafen_ngp_libretro.so",
+      "core_name": "SNK - Neo Geo Pocket / Color (Beetle NeoPop)",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket.lpl"
+    },
+    {
+      "path": "/storage/roms/Neo Geo Pocket/Pocket Tennis - Pocket Sports Series (Japan, Europe).zip",
+      "label": "Pocket Tennis - Pocket Sports Series (Japan, Europe)",
+      "core_path": "/tmp/cores/mednafen_ngp_libretro.so",
+      "core_name": "SNK - Neo Geo Pocket / Color (Beetle NeoPop)",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket.lpl"
+    },
+    {
+      "path": "/storage/roms/Neo Geo Pocket/Samurai Shodown! - Pocket Fighting Series (Japan, Europe).zip",
+      "label": "Samurai Shodown! - Pocket Fighting Series (Japan, Europe)",
+      "core_path": "/tmp/cores/mednafen_ngp_libretro.so",
+      "core_name": "SNK - Neo Geo Pocket / Color (Beetle NeoPop)",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo Pocket.lpl"
+    }
+  ]
+}

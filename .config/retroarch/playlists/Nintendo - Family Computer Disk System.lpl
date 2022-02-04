@@ -1,0 +1,411 @@
+{
+  "version": "1.5",
+  "default_core_path": "/tmp/cores/nestopia_libretro.so",
+  "default_core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/19 (Japan).fds",
+      "label": "19 (Japan)",
+      "core_path": "/tmp/cores/nestopia_libretro.so",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/All Night Nippon Super Mario Brothers (Japan) (Promotion Card).fds",
+      "label": "All Night Nippon Super Mario Brothers (Japan) (Promotion Card)",
+      "core_path": "/tmp/cores/nestopia_libretro.so",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/BodyConQuest I - Girls Exposed (Japan) (Disk 1) (Unl).fds",
+      "label": "BodyConQuest I - Girls Exposed (Japan) (Disk 1) (Unl)",
+      "core_path": "/tmp/cores/nestopia_libretro.so",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/BodyConQuest I - Girls Exposed (Japan) (Disk 2) (Unl).fds",
+      "label": "BodyConQuest I - Girls Exposed (Japan) (Disk 2) (Unl)",
+      "core_path": "/tmp/cores/nestopia_libretro.so",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Boxxle - Warehouse Evening of Tears (Japan).fds",
+      "label": "Boxxle - Warehouse Evening of Tears (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Breeder (Japan).fds",
+      "label": "Breeder (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Clu Clu Land (Japan) (En).zip",
+      "label": "Clu Clu Land (Japan) (En)",
+      "core_path": "/tmp/cores/nestopia_libretro.so",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Crystal Dragon (Japan).fds",
+      "label": "Crystal Dragon (Japan)",
+      "core_path": "/tmp/cores/nestopia_libretro.so",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Cursed Treasure of Cleopatra (Japan).fds",
+      "label": "Cursed Treasure of Cleopatra (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Dandy - The Resurrection of Zeuon (Japan).fds",
+      "label": "Dandy - The Resurrection of Zeuon (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Dead Zone (Japan).fds",
+      "label": "Dead Zone (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Deep Dungeon - The Heretic War (Japan).fds",
+      "label": "Deep Dungeon - The Heretic War (Japan)",
+      "core_path": "/tmp/cores/nestopia_libretro.so",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Deep Dungeon II - The Hero's Crest (Japan).fds",
+      "label": "Deep Dungeon II - The Hero's Crest (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Dirty Pair - Project Eden (Japan).fds",
+      "label": "Dirty Pair - Project Eden (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Dream World - Doki Doki Panic! (Japan).fds",
+      "label": "Dream World - Doki Doki Panic! (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Egger Land (Japan).fds",
+      "label": "Egger Land (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Electrician (Japan).fds",
+      "label": "Electrician (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Emi-chan no Moero Yakyuuken! (Japan) (Unl).fds",
+      "label": "Emi-chan no Moero Yakyuuken! (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Esper Dream (Japan) (v1.1).fds",
+      "label": "Esper Dream (Japan) (v1.1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Famicom Grand Prix - F1 Race (Japan).fds",
+      "label": "Famicom Grand Prix - F1 Race (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Famicom Grand Prix II - 3D Hot Rally (Japan).fds",
+      "label": "Famicom Grand Prix II - 3D Hot Rally (Japan)",
+      "core_path": "/tmp/cores/nestopia_libretro.so",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Gall Force - Eternal Story (Japan).fds",
+      "label": "Gall Force - Eternal Story (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Ghost Manor (Japan).fds",
+      "label": "Ghost Manor (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Ginga Denshou - Galaxy Odyssey (Japan).fds",
+      "label": "Ginga Denshou - Galaxy Odyssey (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Gyruss (Japan).fds",
+      "label": "Gyruss (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Ishido (Japan).fds",
+      "label": "Ishido (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Knight Lore (Japan).fds",
+      "label": "Knight Lore (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Knight Move (Japan).fds",
+      "label": "Knight Move (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Lutter (Japan).fds",
+      "label": "Lutter (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Mahjong (Japan).fds",
+      "label": "Mahjong (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Metroid (Japan) (v1.2).fds",
+      "label": "Metroid (Japan) (v1.2)",
+      "core_path": "/tmp/cores/nestopia_libretro.so",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Miracle of Almana, The (Japan).fds",
+      "label": "Miracle of Almana, The (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Mobile Police Patlabor (Japan).fds",
+      "label": "Mobile Police Patlabor (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Monty on the Run (Japan).fds",
+      "label": "Monty on the Run (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Mysterious Murasame Castle, The (Japan).fds",
+      "label": "Mysterious Murasame Castle, The (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Pretty Girl's Sexy Derby (Japan) (Unl).fds",
+      "label": "Pretty Girl's Sexy Derby (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Pro Wres (Japan) (En).zip",
+      "label": "Pro Wres (Japan) (En)",
+      "core_path": "/tmp/cores/nestopia_libretro.so",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Puzzle Boys (Japan).fds",
+      "label": "Puzzle Boys (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Return of the Mario Bros (Japan).fds",
+      "label": "Return of the Mario Bros (Japan)",
+      "core_path": "/tmp/cores/nestopia_libretro.so",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Samurai Sword (Japan).fds",
+      "label": "Samurai Sword (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Santa Claus's Toybox (Japan).fds",
+      "label": "Santa Claus's Toybox (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/SD Gundam World - Gachapon Senshi - Scramble Wars (Japan).fds",
+      "label": "SD Gundam World - Gachapon Senshi - Scramble Wars (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Seiken Psychocalibur (Japan).fds",
+      "label": "Seiken Psychocalibur (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Silviana (Japan).fds",
+      "label": "Silviana (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Sword of Kalin, The (Japan).fds",
+      "label": "Sword of Kalin, The (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Temple Labyrinth Dababa (Japan).fds",
+      "label": "Temple Labyrinth Dababa (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/The Legend of Zelda - The Hyrule Fantasy (Japan) (Rev 1).fds",
+      "label": "The Legend of Zelda - The Hyrule Fantasy (Japan) (Rev 1)",
+      "core_path": "/tmp/cores/nestopia_libretro.so",
+      "core_name": "Nintendo - NES / Famicom (Nestopia UE)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Vs. Excitebike (Japan) (En).zip",
+      "label": "Vs. Excitebike (Japan) (En)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Yakyuuken Part II - Gal's Dungeon (Japan) (Unl).fds",
+      "label": "Yakyuuken Part II - Gal's Dungeon (Japan) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Famicom Disk System/Zelda II - The Adventure of Link (Japan) (Rev 1).fds",
+      "label": "Zelda II - The Adventure of Link (Japan) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Family Computer Disk System.lpl"
+    }
+  ]
+}

@@ -1,0 +1,2251 @@
+{
+  "version": "1.5",
+  "default_core_path": "/tmp/cores/genesis_plus_gx_libretro.so",
+  "default_core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/storage/roms/Sega Game Gear/5 in One FunPak (USA).zip",
+      "label": "5 in One FunPak (USA)",
+      "core_path": "/tmp/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Addams Family, The (World).zip",
+      "label": "Addams Family, The (World)",
+      "core_path": "/tmp/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Adventures of Batman & Robin, The (USA, Europe).zip",
+      "label": "Adventures of Batman & Robin, The (USA, Europe)",
+      "core_path": "/tmp/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Aerial Assault (World) (Rev 1).zip",
+      "label": "Aerial Assault (World) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Aladdin (USA, Europe, Brazil).zip",
+      "label": "Aladdin (USA, Europe, Brazil)",
+      "core_path": "/tmp/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Alien 3 (USA, Europe).zip",
+      "label": "Alien 3 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Alien Syndrome (Europe).zip",
+      "label": "Alien Syndrome (Europe)",
+      "core_path": "/tmp/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Andre Agassi Tennis (USA).zip",
+      "label": "Andre Agassi Tennis (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Arcade Classics (USA).zip",
+      "label": "Arcade Classics (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Arch Rivals - The Arcade Game (USA).zip",
+      "label": "Arch Rivals - The Arcade Game (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Arena - Maze of Death (USA, Europe).zip",
+      "label": "Arena - Maze of Death (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Ariel the Little Mermaid (USA, Europe, Brazil).zip",
+      "label": "Ariel the Little Mermaid (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Asterix and the Great Rescue (USA).zip",
+      "label": "Asterix and the Great Rescue (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Asterix and the Secret Mission (Europe).zip",
+      "label": "Asterix and the Secret Mission (Europe)",
+      "core_path": "/tmp/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Ayrton Senna's Super Monaco GP II (USA, Europe, Brazil).zip",
+      "label": "Ayrton Senna's Super Monaco GP II (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Baku Baku (USA).zip",
+      "label": "Baku Baku (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Batman Forever (World).zip",
+      "label": "Batman Forever (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Batman Returns (World).zip",
+      "label": "Batman Returns (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Batter Up (USA).zip",
+      "label": "Batter Up (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Battleship - The Classic Naval Combat Game (USA).zip",
+      "label": "Battleship - The Classic Naval Combat Game (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Battletoads (USA).zip",
+      "label": "Battletoads (USA)",
+      "core_path": "/tmp/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Beavis and Butt-Head (USA, Europe).zip",
+      "label": "Beavis and Butt-Head (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Berenstain Bears' Camping Adventure, The (USA).zip",
+      "label": "Berenstain Bears' Camping Adventure, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Bonkers Wax Up! (USA, Europe).zip",
+      "label": "Bonkers Wax Up! (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Bram Stoker's Dracula (USA).zip",
+      "label": "Bram Stoker's Dracula (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Bubble Bobble (USA).zip",
+      "label": "Bubble Bobble (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Bugs Bunny in Double Trouble (USA, Europe).zip",
+      "label": "Bugs Bunny in Double Trouble (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Bust-A-Move (USA).zip",
+      "label": "Bust-A-Move (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Caesars Palace (USA).zip",
+      "label": "Caesars Palace (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Captain America and the Avengers (USA).zip",
+      "label": "Captain America and the Avengers (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Casino FunPak (USA).zip",
+      "label": "Casino FunPak (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil).zip",
+      "label": "Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Chakan (USA, Europe).zip",
+      "label": "Chakan (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Championship Hockey (Europe).zip",
+      "label": "Championship Hockey (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Chase H.Q. (USA).zip",
+      "label": "Chase H.Q. (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Cheese Cat-Astrophe Starring Speedy Gonzales (USA, Europe).zip",
+      "label": "Cheese Cat-Astrophe Starring Speedy Gonzales (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Chessmaster, The (USA, Europe, Brazil).zip",
+      "label": "Chessmaster, The (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Chicago Syndicate (USA, Brazil).zip",
+      "label": "Chicago Syndicate (USA, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Choplifter III (USA).zip",
+      "label": "Choplifter III (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Chuck Rock (World).zip",
+      "label": "Chuck Rock (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Chuck Rock II - Son of Chuck (USA).zip",
+      "label": "Chuck Rock II - Son of Chuck (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/CJ Elephant Fugitive (USA, Europe).zip",
+      "label": "CJ Elephant Fugitive (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Cliffhanger (USA).zip",
+      "label": "Cliffhanger (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Clutch Hitter (USA).zip",
+      "label": "Clutch Hitter (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Coca Cola Kid (Japan).gg",
+      "label": "Coca Cola Kid (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Columns (USA, Europe, Brazil) (Rev 2).zip",
+      "label": "Columns (USA, Europe, Brazil) (Rev 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Cool Spot (USA).zip",
+      "label": "Cool Spot (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Cosmic Spacehead (USA, Europe).zip",
+      "label": "Cosmic Spacehead (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Crystal Warriors (USA, Europe).zip",
+      "label": "Crystal Warriors (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/CutThroat Island (USA).zip",
+      "label": "CutThroat Island (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Daffy Duck in Hollywood (Europe, Brazil).zip",
+      "label": "Daffy Duck in Hollywood (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Deep Duck Trouble Starring Donald Duck (USA, Europe).zip",
+      "label": "Deep Duck Trouble Starring Donald Duck (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Defenders of Oasis (USA, Europe).zip",
+      "label": "Defenders of Oasis (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Desert Speedtrap Starring Road Runner and Wile E. Coyote (USA, Brazil).zip",
+      "label": "Desert Speedtrap Starring Road Runner and Wile E. Coyote (USA, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Desert Strike - Return to the Gulf (USA).zip",
+      "label": "Desert Strike - Return to the Gulf (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Devilish (USA).zip",
+      "label": "Devilish (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Double Dragon (USA, Europe).zip",
+      "label": "Double Dragon (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Dr. Robotnik's Mean Bean Machine (USA, Europe).zip",
+      "label": "Dr. Robotnik's Mean Bean Machine (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Dragon - The Bruce Lee Story (USA).zip",
+      "label": "Dragon - The Bruce Lee Story (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Dragon Crystal (USA, Europe).zip",
+      "label": "Dragon Crystal (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Dropzone (Europe).zip",
+      "label": "Dropzone (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Dynamite Headdy (USA, Europe).zip",
+      "label": "Dynamite Headdy (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Earthworm Jim (USA).zip",
+      "label": "Earthworm Jim (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Ecco - The Tides of Time (USA, Europe).zip",
+      "label": "Ecco - The Tides of Time (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Ecco the Dolphin (USA, Europe, Brazil).zip",
+      "label": "Ecco the Dolphin (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Ernie Els Golf (Europe).zip",
+      "label": "Ernie Els Golf (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Evander Holyfield's 'Real Deal' Boxing (USA, Europe).zip",
+      "label": "Evander Holyfield's 'Real Deal' Boxing (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Excellent Dizzy Collection, The (Europe).zip",
+      "label": "Excellent Dizzy Collection, The (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/F-15 Strike Eagle (USA, Europe).zip",
+      "label": "F-15 Strike Eagle (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Factory Panic (Europe, Brazil).zip",
+      "label": "Factory Panic (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Fantastic Dizzy (Europe).zip",
+      "label": "Fantastic Dizzy (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Fantasy Zone (USA, Brazil).zip",
+      "label": "Fantasy Zone (USA, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Fatal Fury Special (USA).zip",
+      "label": "Fatal Fury Special (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/FIFA International Soccer (USA, Europe).zip",
+      "label": "FIFA International Soccer (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/FIFA Soccer 96 (USA, Europe).zip",
+      "label": "FIFA Soccer 96 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Foreman for Real (Japan, USA).zip",
+      "label": "Foreman for Real (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Formula One (USA, Europe).zip",
+      "label": "Formula One (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Frank Thomas Big Hurt Baseball (USA).zip",
+      "label": "Frank Thomas Big Hurt Baseball (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Fred Couples Golf (USA).zip",
+      "label": "Fred Couples Golf (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/G-LOC - Air Battle (USA, Europe, Brazil).zip",
+      "label": "G-LOC - Air Battle (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Galaga 2 (Europe).zip",
+      "label": "Galaga 2 (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Garfield - Caught in the Act (USA, Europe).zip",
+      "label": "Garfield - Caught in the Act (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Gear Works (USA).zip",
+      "label": "Gear Works (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/George Foreman's KO Boxing (USA, Europe).zip",
+      "label": "George Foreman's KO Boxing (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Global Gladiators (Europe).zip",
+      "label": "Global Gladiators (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Golden Axe (USA, Europe, Brazil).zip",
+      "label": "Golden Axe (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/GP Rider (World).zip",
+      "label": "GP Rider (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Greendog - The Beached Surfer Dude! (USA, Brazil).zip",
+      "label": "Greendog - The Beached Surfer Dude! (USA, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Halley Wars (USA, Europe, Brazil).zip",
+      "label": "Halley Wars (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Head Buster (Japan).gg",
+      "label": "Head Buster (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Home Alone (USA, Europe, Brazil).zip",
+      "label": "Home Alone (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Hook (USA).zip",
+      "label": "Hook (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Hurricanes (Europe).zip",
+      "label": "Hurricanes (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Incredible Crash Dummies, The (World).zip",
+      "label": "Incredible Crash Dummies, The (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Incredible Hulk, The (USA, Europe).zip",
+      "label": "Incredible Hulk, The (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Indiana Jones and the Last Crusade (USA, Europe, Brazil).zip",
+      "label": "Indiana Jones and the Last Crusade (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Iron Man X-O Manowar in Heavy Metal (USA).zip",
+      "label": "Iron Man X-O Manowar in Heavy Metal (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Itchy & Scratchy Game, The (USA, Europe).zip",
+      "label": "Itchy & Scratchy Game, The (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/James Bond 007 - The Duel (Europe).zip",
+      "label": "James Bond 007 - The Duel (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/James Pond 3 - Operation Starfi5h (Europe).zip",
+      "label": "James Pond 3 - Operation Starfi5h (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/James Pond II - Codename RoboCod (USA).zip",
+      "label": "James Pond II - Codename RoboCod (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Jeopardy! (USA).zip",
+      "label": "Jeopardy! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Jeopardy! - Sports Edition (USA).zip",
+      "label": "Jeopardy! - Sports Edition (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Joe Montana Football (USA, Europe).zip",
+      "label": "Joe Montana Football (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Journey from Darkness - Strider Returns (USA, Europe).zip",
+      "label": "Journey from Darkness - Strider Returns (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Judge Dredd (USA, Europe).zip",
+      "label": "Judge Dredd (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Junction (USA).zip",
+      "label": "Junction (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Jungle Book, The (USA).zip",
+      "label": "Jungle Book, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Jungle Strike (USA).zip",
+      "label": "Jungle Strike (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Jurassic Park (USA, Europe, Brazil).zip",
+      "label": "Jurassic Park (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Kawasaki Superbike Challenge (USA).zip",
+      "label": "Kawasaki Superbike Challenge (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/KLAX (USA, Europe).zip",
+      "label": "KLAX (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Krusty's Fun House (USA, Europe).zip",
+      "label": "Krusty's Fun House (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Land of Illusion Starring Mickey Mouse (USA, Europe, Brazil).zip",
+      "label": "Land of Illusion Starring Mickey Mouse (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Last Action Hero (USA).zip",
+      "label": "Last Action Hero (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Legend of Illusion Starring Mickey Mouse (USA, Europe).zip",
+      "label": "Legend of Illusion Starring Mickey Mouse (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Lemmings (World).zip",
+      "label": "Lemmings (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Lion King, The (USA).zip",
+      "label": "Lion King, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Lost World, The - Jurassic Park (USA).zip",
+      "label": "Lost World, The - Jurassic Park (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Lucky Dime Caper Starring Donald Duck, The (USA, Europe, Brazil).zip",
+      "label": "Lucky Dime Caper Starring Donald Duck, The (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Lunar - Walking School (Japan).gg",
+      "label": "Lunar - Walking School (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Madden 96 (USA, Europe).zip",
+      "label": "Madden 96 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Madden NFL 95 (USA).zip",
+      "label": "Madden NFL 95 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Madou Monogatari I - 3 Magic Spheres (Japan).gg",
+      "label": "Madou Monogatari I - 3 Magic Spheres (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Magical Puzzle Popils (World).zip",
+      "label": "Magical Puzzle Popils (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Majors, The - Pro Baseball (USA).zip",
+      "label": "Majors, The - Pro Baseball (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Man Overboard! (Europe).zip",
+      "label": "Man Overboard! (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Marble Madness (USA, Europe).zip",
+      "label": "Marble Madness (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Marko's Magic Football (Europe).zip",
+      "label": "Marko's Magic Football (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Master of Darkness (Europe).zip",
+      "label": "Master of Darkness (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Mega Man (USA).zip",
+      "label": "Mega Man (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Mickey's Ultimate Challenge (USA).zip",
+      "label": "Mickey's Ultimate Challenge (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Micro Machines (USA, Europe).zip",
+      "label": "Micro Machines (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Micro Machines 2 - Turbo Tournament (Europe).zip",
+      "label": "Micro Machines 2 - Turbo Tournament (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Mighty Morphin Power Rangers (USA, Europe).zip",
+      "label": "Mighty Morphin Power Rangers (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Mighty Morphin Power Rangers - The Movie (USA, Europe).zip",
+      "label": "Mighty Morphin Power Rangers - The Movie (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/MLBPA Baseball (USA).zip",
+      "label": "MLBPA Baseball (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Monster Truck Wars (USA, Europe).zip",
+      "label": "Monster Truck Wars (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Mortal Kombat (USA, Europe).zip",
+      "label": "Mortal Kombat (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Mortal Kombat 3 (Europe).zip",
+      "label": "Mortal Kombat 3 (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Mortal Kombat II (World).zip",
+      "label": "Mortal Kombat II (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Ms. Pac-Man (USA).zip",
+      "label": "Ms. Pac-Man (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/NBA Action Starring David Robinson (USA, Brazil).zip",
+      "label": "NBA Action Starring David Robinson (USA, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/NBA Jam (USA) (Rev 1).zip",
+      "label": "NBA Jam (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/NBA Jam - Tournament Edition (World).zip",
+      "label": "NBA Jam - Tournament Edition (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/NFL '95 (USA).zip",
+      "label": "NFL '95 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/NFL Quarterback Club (World).zip",
+      "label": "NFL Quarterback Club (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/NFL Quarterback Club 96 (USA).zip",
+      "label": "NFL Quarterback Club 96 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/NHL All-Star Hockey (USA).zip",
+      "label": "NHL All-Star Hockey (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/NHL Hockey (USA, Europe).zip",
+      "label": "NHL Hockey (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Ninja Gaiden (USA, Europe, Brazil).zip",
+      "label": "Ninja Gaiden (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Olympic Gold (Japan, USA, Brazil).zip",
+      "label": "Olympic Gold (Japan, USA, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Ottifants, The (Europe).zip",
+      "label": "Ottifants, The (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/OutRun (Europe, Brazil).zip",
+      "label": "OutRun (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/OutRun Europa (USA).zip",
+      "label": "OutRun Europa (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Pac-Attack (USA).zip",
+      "label": "Pac-Attack (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Pac-Man (USA).zip",
+      "label": "Pac-Man (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Paperboy (USA, Europe).zip",
+      "label": "Paperboy (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Paperboy 2 (USA).zip",
+      "label": "Paperboy 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Pengo (Europe).zip",
+      "label": "Pengo (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Pete Sampras Tennis (USA, Europe).zip",
+      "label": "Pete Sampras Tennis (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/PGA Tour 96 (USA, Europe).zip",
+      "label": "PGA Tour 96 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/PGA Tour Golf (USA) (Rev 1).zip",
+      "label": "PGA Tour Golf (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/PGA Tour Golf II (USA, Europe).zip",
+      "label": "PGA Tour Golf II (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Phantasy Star Adventure (Japan).gg",
+      "label": "Phantasy Star Adventure (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Phantasy Star Gaiden (Japan).gg",
+      "label": "Phantasy Star Gaiden (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Phantasy Star Gaiden (Japan) (Wide Font).gg",
+      "label": "Phantasy Star Gaiden (Japan) (Wide Font)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Phantom 2040 (USA, Europe).zip",
+      "label": "Phantom 2040 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Pinball Dreams (USA).zip",
+      "label": "Pinball Dreams (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Poker Face Paul's Blackjack (USA).zip",
+      "label": "Poker Face Paul's Blackjack (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Poker Face Paul's Gin (USA).zip",
+      "label": "Poker Face Paul's Gin (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Poker Face Paul's Poker (USA).zip",
+      "label": "Poker Face Paul's Poker (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Poker Face Paul's Solitaire (USA).zip",
+      "label": "Poker Face Paul's Solitaire (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Power Drive (Europe).zip",
+      "label": "Power Drive (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Predator 2 (USA, Europe).zip",
+      "label": "Predator 2 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Primal Rage (USA, Europe).zip",
+      "label": "Primal Rage (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Prince of Persia (USA, Europe).zip",
+      "label": "Prince of Persia (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Psychic World (USA, Europe, Brazil).zip",
+      "label": "Psychic World (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Putt & Putter - Miniature Golf (USA, Europe, Brazil).zip",
+      "label": "Putt & Putter - Miniature Golf (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Quest for the Shaven Yak Starring Ren Hoek & Stimpy (USA, Europe).zip",
+      "label": "Quest for the Shaven Yak Starring Ren Hoek & Stimpy (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/R.B.I. Baseball '94 (USA).zip",
+      "label": "R.B.I. Baseball '94 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/R.C. Grand Prix (USA).zip",
+      "label": "R.C. Grand Prix (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Revenge of Drancon (USA, Brazil).zip",
+      "label": "Revenge of Drancon (USA, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Riddick Bowe Boxing (USA).zip",
+      "label": "Riddick Bowe Boxing (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Rise of the Robots (USA, Europe).zip",
+      "label": "Rise of the Robots (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Ristar - The Shooting Star (World).zip",
+      "label": "Ristar - The Shooting Star (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Road Rash (USA).zip",
+      "label": "Road Rash (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/RoboCop 3 (World).zip",
+      "label": "RoboCop 3 (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/RoboCop versus The Terminator (USA, Europe).zip",
+      "label": "RoboCop versus The Terminator (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Samurai Shodown (USA).zip",
+      "label": "Samurai Shodown (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Scratch Golf (USA).zip",
+      "label": "Scratch Golf (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/SD Gundam - Winner's History (Japan).gg",
+      "label": "SD Gundam - Winner's History (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Sensible Soccer - European Champions (Europe).zip",
+      "label": "Sensible Soccer - European Champions (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Shaq Fu (USA).zip",
+      "label": "Shaq Fu (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Shining Force - The Sword of Hajya (USA).zip",
+      "label": "Shining Force - The Sword of Hajya (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Shining Force Gaiden - Final Conflict (Japan).gg",
+      "label": "Shining Force Gaiden - Final Conflict (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Shinobi (World) (Rev 1).zip",
+      "label": "Shinobi (World) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Shinobi II - The Silent Fury (World).zip",
+      "label": "Shinobi II - The Silent Fury (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Side Pocket (USA).zip",
+      "label": "Side Pocket (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Simpsons, The - Bart vs. the Space Mutants (USA, Europe).zip",
+      "label": "Simpsons, The - Bart vs. the Space Mutants (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Simpsons, The - Bart vs. the World (World).zip",
+      "label": "Simpsons, The - Bart vs. the World (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Simpsons, The - Bartman Meets Radioactive Man (USA).zip",
+      "label": "Simpsons, The - Bartman Meets Radioactive Man (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Slider (USA, Europe).zip",
+      "label": "Slider (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Smurfs Travel the World, The (Europe).zip",
+      "label": "Smurfs Travel the World, The (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Smurfs, The (Europe).zip",
+      "label": "Smurfs, The (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Solitaire FunPak (USA).zip",
+      "label": "Solitaire FunPak (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Solitaire Poker (USA, Europe).zip",
+      "label": "Solitaire Poker (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Sonic Blast (World).zip",
+      "label": "Sonic Blast (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Sonic Chaos (USA, Europe, Brazil).zip",
+      "label": "Sonic Chaos (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Sonic Drift Racing (World).zip",
+      "label": "Sonic Drift Racing (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Sonic Labyrinth (World).zip",
+      "label": "Sonic Labyrinth (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Sonic Spinball (USA, Europe).zip",
+      "label": "Sonic Spinball (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Sonic The Hedgehog (Japan, USA).zip",
+      "label": "Sonic The Hedgehog (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Sonic The Hedgehog - Triple Trouble (USA, Europe).zip",
+      "label": "Sonic The Hedgehog - Triple Trouble (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Sonic The Hedgehog 2 (World).zip",
+      "label": "Sonic The Hedgehog 2 (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Space Harrier (World).zip",
+      "label": "Space Harrier (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Spider-Man (USA, Europe).zip",
+      "label": "Spider-Man (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Spider-Man - Return of the Sinister Six (USA, Europe).zip",
+      "label": "Spider-Man - Return of the Sinister Six (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Spider-Man - X-Men - Arcade's Revenge (USA).zip",
+      "label": "Spider-Man - X-Men - Arcade's Revenge (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Sports Illustrated - Championship Football & Baseball (USA).zip",
+      "label": "Sports Illustrated - Championship Football & Baseball (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Sports Trivia (USA).zip",
+      "label": "Sports Trivia (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Sports Trivia - Championship Edition (USA).zip",
+      "label": "Sports Trivia - Championship Edition (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Star Trek - The Next Generation - The Advanced Holodeck Tutorial (USA).zip",
+      "label": "Star Trek - The Next Generation - The Advanced Holodeck Tutorial (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Star Trek Generations - Beyond the Nexus (USA).zip",
+      "label": "Star Trek Generations - Beyond the Nexus (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Star Wars (USA, Europe).zip",
+      "label": "Star Wars (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Stargate (World).zip",
+      "label": "Stargate (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Streets of Rage (World).zip",
+      "label": "Streets of Rage (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Streets of Rage 2 (World).zip",
+      "label": "Streets of Rage 2 (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Striker (Europe).zip",
+      "label": "Striker (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Super Battletank (USA).zip",
+      "label": "Super Battletank (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Super Columns (USA, Europe).zip",
+      "label": "Super Columns (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Super Golf (USA).zip",
+      "label": "Super Golf (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Super Kick Off (Europe).zip",
+      "label": "Super Kick Off (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Super Monaco GP (USA, Europe, Brazil).zip",
+      "label": "Super Monaco GP (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Super Off Road (USA, Europe).zip",
+      "label": "Super Off Road (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Super Smash T.V. (World).zip",
+      "label": "Super Smash T.V. (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Super Space Invaders (USA, Europe).zip",
+      "label": "Super Space Invaders (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Super Star Wars - Return of the Jedi (USA, Europe).zip",
+      "label": "Super Star Wars - Return of the Jedi (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Superman - The Man of Steel (Europe).zip",
+      "label": "Superman - The Man of Steel (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Surf Ninjas (USA, Europe, Brazil).zip",
+      "label": "Surf Ninjas (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Sylvan Tale (Japan).gg",
+      "label": "Sylvan Tale (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Sylvan Tale (Japan) (Alt Menu Music).gg",
+      "label": "Sylvan Tale (Japan) (Alt Menu Music)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/T2 - The Arcade Game (USA, Europe).zip",
+      "label": "T2 - The Arcade Game (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Tails Adventure (World).zip",
+      "label": "Tails Adventure (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/TaleSpin (USA, Europe, Brazil).zip",
+      "label": "TaleSpin (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Tarzan - Lord of the Jungle (Europe).zip",
+      "label": "Tarzan - Lord of the Jungle (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Taz in Escape from Mars (USA, Europe).zip",
+      "label": "Taz in Escape from Mars (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Taz-Mania (USA, Europe, Brazil).zip",
+      "label": "Taz-Mania (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Tempo Jr. (World).zip",
+      "label": "Tempo Jr. (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Tengen World Cup Soccer (USA, Europe).zip",
+      "label": "Tengen World Cup Soccer (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Terminator 2 - Judgment Day (World).zip",
+      "label": "Terminator 2 - Judgment Day (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Terminator, The (USA, Europe).zip",
+      "label": "Terminator, The (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Tesserae (USA).zip",
+      "label": "Tesserae (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Tintin in Tibet (Europe).zip",
+      "label": "Tintin in Tibet (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Tom and Jerry - The Movie (USA, Europe).zip",
+      "label": "Tom and Jerry - The Movie (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/True Lies (World).zip",
+      "label": "True Lies (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Urban Strike (USA).zip",
+      "label": "Urban Strike (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Vampire - Master of Darkness (USA).zip",
+      "label": "Vampire - Master of Darkness (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Virtua Fighter Animation (USA, Europe).zip",
+      "label": "Virtua Fighter Animation (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/VR Troopers (USA, Europe, Brazil).zip",
+      "label": "VR Troopers (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Wheel of Fortune (USA).zip",
+      "label": "Wheel of Fortune (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Wimbledon (World).zip",
+      "label": "Wimbledon (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Winter Olympic Games ~ Winter Olympics (USA, Europe).zip",
+      "label": "Winter Olympic Games ~ Winter Olympics (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Wizard Pinball (Europe).zip",
+      "label": "Wizard Pinball (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Wolfchild (Europe).zip",
+      "label": "Wolfchild (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Wonder Boy (Europe).zip",
+      "label": "Wonder Boy (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Wonder Boy - The Dragon's Trap (Europe).zip",
+      "label": "Wonder Boy - The Dragon's Trap (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Woody Pop (USA, Europe, Brazil).zip",
+      "label": "Woody Pop (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/World Class Leaderboard Golf ~ World Class Leader Board (USA, Europe).zip",
+      "label": "World Class Leaderboard Golf ~ World Class Leader Board (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/World Cup USA 94 (USA, Europe).zip",
+      "label": "World Cup USA 94 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/World Series Baseball '95 (USA).zip",
+      "label": "World Series Baseball '95 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/World Series Baseball (USA) (Rev 1).zip",
+      "label": "World Series Baseball (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/WWF Raw (USA, Europe).zip",
+      "label": "WWF Raw (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/WWF Wrestlemania - Steel Cage Challenge (USA, Europe).zip",
+      "label": "WWF Wrestlemania - Steel Cage Challenge (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/X-Men (USA).zip",
+      "label": "X-Men (USA)",
+      "core_path": "/tmp/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/X-Men - Gamemaster's Legacy (USA, Europe).zip",
+      "label": "X-Men - Gamemaster's Legacy (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/X-Men - Mojo World (USA).zip",
+      "label": "X-Men - Mojo World (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Yu Yu Hakusho 2 - Battle of the 7 Fighters (Japan).gg",
+      "label": "Yu Yu Hakusho 2 - Battle of the 7 Fighters (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Zool - Ninja of the 'Nth' Dimension (USA).zip",
+      "label": "Zool - Ninja of the 'Nth' Dimension (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Game Gear/Zoop (USA).zip",
+      "label": "Zoop (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Game Gear.lpl"
+    }
+  ]
+}

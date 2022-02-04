@@ -1,0 +1,1817 @@
+{
+  "version": "1.5",
+  "default_core_path": "/tmp/cores/puae_libretro.so",
+  "default_core_name": "Commodore - Amiga (PUAE)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 2,
+  "left_thumbnail_mode": 4,
+  "sort_mode": 0,
+  "scan_content_dir": "/storage/roms/WHDLoad",
+  "scan_file_exts": "",
+  "scan_dat_file_path": "",
+  "scan_search_recursively": true,
+  "scan_search_archives": false,
+  "scan_filter_dat_content": false,
+  "items": [
+    {
+      "path": "/storage/roms/WHDLoad/1869_v1.2_AGA.lha",
+      "label": "1869 (AGA)",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/4th&Inches_v1.1_1230.lha",
+      "label": "4th & Inches",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/A10TankKiller_v2.0_3Disk.lha",
+      "label": "A-10 Tank Killer",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/AdventureConstructionSet_v1.1_0904.lha",
+      "label": "Adventure Construction Set",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Aladdin_v1.6_AGA_0420.lha",
+      "label": "Aladdin (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/AlfredChicken_v1.01_AGA_0623.lha",
+      "label": "Alfred Chicken (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/AlienBreed3D_v1.2_AGA_0624.lha",
+      "label": "Alien Breed 3D (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/AllNewWorldOfLemmings_v1.0_AGA_0625.lha",
+      "label": "All New World of Lemmings (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/AlteredBeast_v2.0_0819.lha",
+      "label": "Altered Beast",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Amberstar_v1.2_1969.lha",
+      "label": "Amberstar",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/ArcadePool_v3.0_AGA_0298.lha",
+      "label": "Arcade Pool (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/ArcadeSnooker_v1.1_AGA.lha",
+      "label": "Arcade Snooker (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Archon_v1.2_0914.lha",
+      "label": "Archon",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Archon2_v1.1_0905.lha",
+      "label": "Archon II - Adept (1986)(Electronic Arts)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Banshee_v3.2_AGA_0633.lha",
+      "label": "Banshee (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Barbarian_v1.1b_Psygnosis_1011.lha",
+      "label": "Barbarian (Psygnosis)",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Barbarian_v1.0_Palace_1784.lha",
+      "label": "Barbarian - The Ultimate Warrior",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Barbarian2_v1.1_Psygnosis_0611.lha",
+      "label": "Barbarian 2 (Psygnosis)",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Barbarian2_v1.2_Palace_2264.lha",
+      "label": "Barbarian II (Palace)",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/BattleChess_v1.1_0263.lha",
+      "label": "Battle Chess",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/BattleChess2_v1.0_0264.lha",
+      "label": "Battle Chess 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Battleships_v1.0.lha",
+      "label": "Battleships",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/BeyondDarkCastle_v1.1_3004.lha",
+      "label": "Beyond Dark Castle",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/BlackViper_v1.0_AGA.lha",
+      "label": "Black Viper (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Blasteroids_v1.3_0239.lha",
+      "label": "Blasteroids",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Blobz_v1.0_AGA.lha",
+      "label": "Blobz (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Bloodnet_v2.0_AGA_1667.lha",
+      "label": "BloodNet - A Cyberpunk Gothic (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/BodyBlows_v1.2_AGA_1322.lha",
+      "label": "Body Blows (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/BodyBlowsGalactic_v2.1_AGA_0440.lha",
+      "label": "Body Blows Galactic (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/BrianTheLion_v1.4_AGA_0843.lha",
+      "label": "Brian the Lion (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/BrutalFootball_v1.21_AGA_1837.lha",
+      "label": "Brutal Sports Football (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Bubble&Squeak_v1.2_AGA_0210.lha",
+      "label": "Bubble & Squeak (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/BurningRubber_v1.3_AGA_2181.lha",
+      "label": "Burning Rubber (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Burntime_v1.2_AGA_2213.lha",
+      "label": "Burntime (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/CapitalPunishment_v1.1a_AGA_1758.lha",
+      "label": "Capital Punishment (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/ChampionsOfKrynn_v1.0_0986.lha",
+      "label": "Champions of Krynn",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/ChaosEngine2_v1.0_AGA_0173.lha",
+      "label": "Chaos Engine2 (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/CharlieJCool_v1.2_AGA.lha",
+      "label": "Charlie J Cool (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/CityDefence_v1.1.lha",
+      "label": "City Defence",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Civilization_v1.1_AGA_1633.lha",
+      "label": "Civilization (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Clockwiser_v1.1_AGA_1900.lha",
+      "label": "Clockwiser (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Clue_v1.1_AGA.lha",
+      "label": "Clue (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Coala_v1.0_AGA_0242.lha",
+      "label": "Coala (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Colonization_v1.0_AGA_0452.lha",
+      "label": "Colonization (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/DGeneration_v2.1_AGA.lha",
+      "label": "D-Generation (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Damage_v1.1.lha",
+      "label": "Damage",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/DangerousStreets_v1.2_AGA_1020.lha",
+      "label": "Dangerous Streets (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/DarkCastle_v1.01_1459.lha",
+      "label": "Dark Castle (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Datastorm_v1.2_1555.lha",
+      "label": "Datastorm (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/DeathKnightsOfKrynn_v1.1_0987.lha",
+      "label": "Death Knights of Krynn",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/DeathMask_v1.1_AGA_1326.lha",
+      "label": "Death Mask (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Deconstruction_v1.0_AGA.lha",
+      "label": "Deconstruction (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/DefenderOfTheCrown_v3.1_0317.lha",
+      "label": "Defender of the Crown",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/DeluxeGalaga_v1.1_AGA.lha",
+      "label": "Deluxe Galaga (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/DeluxePacman_v1.0_AGA.lha",
+      "label": "Deluxe Pacman (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Detroit_v1.0_AGA.lha",
+      "label": "Detroit (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Diggers_v1.0_AGA_1172.lha",
+      "label": "Diggers (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/DonkTheSamuraiDuck_v1.2_AGA_0647.lha",
+      "label": "Donk The Samurai Duck (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/DragonTiles_v1.0_AGA.lha",
+      "label": "Dragon Tiles (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/DragonsLair_v1.2a_1360.lha",
+      "label": "Dragon's Lair",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/DreamWeb_v1.1_AGA_1815.lha",
+      "label": "DreamWeb (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/DungeonMaster2_v1.0_AGA_0899.lha",
+      "label": "Dungeon Master 2 (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Ebonstar_v1.0_0915.lha",
+      "label": "Ebonstar (USA)",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Elite_v2.0_1572.lha",
+      "label": "Elite",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Enlightenment_v1.0_1948.lha",
+      "label": "Enlightenment",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Exile_v1.3_0032.lha",
+      "label": "Exile (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/FA18Interceptor_v1.4_0119.lha",
+      "label": "FA-18 Interceptor",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/FantasyFlyer_v1.0_AGA.lha",
+      "label": "Fantasy Flyer (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/FatmanTheCapedConsumer_v1.1_AGA_0480.lha",
+      "label": "Fatman - The Caped Consumer (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Fears_v3.4_AGA_1288.lha",
+      "label": "Fears (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/FightinSpirit_v1.2_AGA.lha",
+      "label": "Fightin Spirit (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Firepower_v1.0_0061.lha",
+      "label": "Firepower (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/FootballGlory_v1.1_AGA_0122.lha",
+      "label": "Football Glory (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/GalacticEmpire_v1.0_2012.lha",
+      "label": "Galactic Empire",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Galaga92_v1.0.lha",
+      "label": "Galaga '92",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Garrison_v1.0_0800.lha",
+      "label": "Garrison",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Garrison2_v1.0_0610.lha",
+      "label": "Garrison II",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Gauntlet3_v1.2_1550.lha",
+      "label": "Gauntlet III - The Final Quest",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/GBAChampionshipBasketball_v1.0_2948.lha",
+      "label": "GBA Championship Basketball - Two-on-Two (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/GeeBeeAirRally_v1.1.lha",
+      "label": "Gee Bee Air Rally",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Gloom_v1.2_AGA_0124.lha",
+      "label": "Gloom (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Gridiron_v1.0_2124.lha",
+      "label": "Gridiron! (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Guardian_v1.0_CD32.lha",
+      "label": "Guardian (AGA)",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/GunbeeF99_v1.1_AGA.lha",
+      "label": "Gunbee F99 (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Gunship2000_v3.1_AGA_0371.lha",
+      "label": "Gunship 2000 (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/HardBall_v1.0_0490.lha",
+      "label": "HardBall! (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/HardBall2_v1.0.lha",
+      "label": "HardBall II (USA)",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Heimdall2_v1.6_AGA_1166.lha",
+      "label": "Heimdall 2 (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/HighSeasTrader_v1.0_AGA_2108.lha",
+      "label": "High Seas Trader (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Humans3_v1.1_AGA_2382.lha",
+      "label": "Humans III - Evolution - Lost in Time (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/IkariWarriors_v0801.1_0771.lha",
+      "label": "Ikari Warriors",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/ImpossibleMission2025_v1.1_AGA_1833.lha",
+      "label": "Impossible Mission 2025 (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Ishar_v1.4_AGA.lha",
+      "label": "Ishar (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Ishar2_v1.4_AGA_0787.lha",
+      "label": "Ishar 2 - Messengers of Doom (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Ishar3_v1.4_AGA_2245.lha",
+      "label": "Ishar 3 - The Seven Gates of Infinity (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/JamesPond3_v1.0_AGA_0688.lha",
+      "label": "James Pond 3 - Operation Starfish (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/JamesPond2_v1.1_AGA_1354.lha",
+      "label": "James Pond II - Codename RoboCod (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Jetstrike_v1.1_AGA.lha",
+      "label": "Jetstrike (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/JohnMaddenFootball_v1.3_0071.lha",
+      "label": "John Madden Football",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/JurassicPark_v1.5_AGA_0836.lha",
+      "label": "Jurassic Park (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/KickOff3EuropeanChallenge_v1.0_AGA_1896.lha",
+      "label": "Kick Off 3 - European Challenge (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Kikstart2_v1.1.lha",
+      "label": "Kikstart 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Kingpin_v1.0_1Mb_2888.lha",
+      "label": "Kingpin",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/LeaderBoard_v1.01_0523.lha",
+      "label": "Leader Board",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Legends_v1.2_AGA_1346.lha",
+      "label": "Legends (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Lemmings_v1.5_Image_NTSC_0901.lha",
+      "label": "Lemmings",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Lemmings2_v1.4_1MB_0351.lha",
+      "label": "Lemmings 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/LionKing_v1.0_AGA_0527.lha",
+      "label": "Lion King (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/LordsOfTheRealm_v1.0_AGA_Fast.lha",
+      "label": "Lords of the Realm (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Lotus_v1.1_0774.lha",
+      "label": "Lotus",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Lotus2_v1.11_0497.lha",
+      "label": "Lotus 2",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Lotus3_v1.41_0217.lha",
+      "label": "Lotus 3",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/MarvinsMarvellousAdventure_v1.01_AGA_1152.lha",
+      "label": "Marvin's Marvellous Adventure (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/MegaBall_v1.02_1MB.lha",
+      "label": "MegaBall",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/MiniGolf_v1.0.lha",
+      "label": "Mini Golf",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/MiniGolfPlus_v1.0.lha",
+      "label": "Mini Golf Plus",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Minskies_v2.1_AGA.lha",
+      "label": "Minskies (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Morph_v1.0_AGA_1070.lha",
+      "label": "Morph (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/MortonStrikesBack_v1.0_AGA.lha",
+      "label": "Morton Strikes Back (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/NaughtyOnes_v1.1_AGA_1715.lha",
+      "label": "Naughty Ones (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/NickFaldosChampionshipGolf_v2.1b_1164.lha",
+      "label": "Nick Faldo's Championship Golf",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/NigelMansellsWorldChampionship_v1.3_AGA_0138.lha",
+      "label": "Nigel Mansell's World Championship (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Nitro_v1.2_NTSC.lha",
+      "label": "Nitro",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/NorthAndSouth_v1.7_Image_NTSC_1780.lha",
+      "label": "North & South",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/NuclearWar_v1.0_2014.lha",
+      "label": "Nuclear War",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Og_v1.0_AGA.lha",
+      "label": "Og (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Oscar_v1.8_AGA_1095.lha",
+      "label": "Oscar (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Overkill_v1.1_AGA_0707.lha",
+      "label": "Overkill (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/PGAEuropeanTour_v1.1_AGA_2435.lha",
+      "label": "PGA European Tour (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/PGATourGolf&TournamentCourseDisk_v1.01_0891.lha",
+      "label": "PGA Tour Golf",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/PierreLeChefIsOutToLunch_v2.3_AGA_0548.lha",
+      "label": "Pierre le Chef Is... Out to Lunch (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/PinballBrainDamage_v1.0_AGA.lha",
+      "label": "Pinball Brain Damage (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/PinballDreams_v1.3_0377.lha",
+      "label": "Pinball Dreams",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/PinballFantasies_v2.6c_0025.lha",
+      "label": "Pinball Fantasies",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/PinballMania_v1.4_AGA_0896.lha",
+      "label": "Pinball Mania (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/PinballPrelude_v1.2_AGA_2327.lha",
+      "label": "Pinball Prelude (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/PlayerManager2Extra_v1.01_AGA.lha",
+      "label": "Player Manager 2 Extra (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/PremierManager3_v1.0_AGA_2021.lha",
+      "label": "Premier Manager 3 (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/PrimalRage_v1.1_AGA.lha",
+      "label": "Primal Rage (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/ProTennisTour2_v1.4_3077.lha",
+      "label": "Pro Tennis Tour 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/PuttySquad_v1.0_AGA.lha",
+      "label": "Putty Squad (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/QuikTheThunderRabbit_v1.2a_AGA.lha",
+      "label": "Quik The Thunder Rabbit (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/RallyChampionships_v1.1_AGA.lha",
+      "label": "Rally Championships (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Reunion_v1.1_AGA.lha",
+      "label": "Reunion (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/RiseOfTheRobots_v1.2_AGA_1763.lha",
+      "label": "Rise of the Robots (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Risk_v1.0_1125.lha",
+      "label": "Risk",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Roadkill_v2.1b_AGA_1108.lha",
+      "label": "Roadkill (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/RobinsonsRequiem_v1.2_AGA_1866.lha",
+      "label": "Robinson's Requiem (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/RocketRanger_v1.5b_NTSC.lha",
+      "label": "Rocket Ranger",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Rockford_v1.0.lha",
+      "label": "Rockford",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Roketz_v1.1_AGA.lha",
+      "label": "Roketz (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/SabreTeam_v1.2_AGA_1158.lha",
+      "label": "Sabre Team (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/Commodore/Amiga/Scorched Tanks.zip",
+      "label": "Scorched Tanks (AGA)",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/SecondSamurai_v1.1_AGA_1624.lha",
+      "label": "Second Samurai (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Seek&Destroy_v1.1_AGA_0252.lha",
+      "label": "Seek & Destroy (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/SensibleGolf_v1.2_0200.lha",
+      "label": "Sensible Golf",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/SensibleWorldOfSoccer_v1.7_0840.lha",
+      "label": "Sensible World Of Soccer",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/ShadowFighter_v1.0_AGA_0203.lha",
+      "label": "Shadow Fighter (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/ShadowOfTheBeast_v2.2_1357.lha",
+      "label": "Shadow of the Beast",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/ShadowOfTheBeast2_v1.3a_NTSC.lha",
+      "label": "Shadow of the Beast 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/ShadowOfTheBeast3_v1.5_NTSC_1176.lha",
+      "label": "Shadow of the Beast 3",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/ShaqFu_v1.1_AGA_1761.lha",
+      "label": "Shaq-Fu (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/SideWinder_v1.2.lha",
+      "label": "Side Winder",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Silkworm_v1.3.lha",
+      "label": "Silkworm",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/SimLife_v1.0_AGA_0889.lha",
+      "label": "SimLife (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/SimonTheSorcerer_v1.3_AGA_0898.lha",
+      "label": "Simon the Sorcerer (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/SkeletonKrew_v1.0_AGA_0725.lha",
+      "label": "Skeleton Krew (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Skidmarks_v1.0_AGA_0204.lha",
+      "label": "Skidmarks (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/SlamTilt_v3.6_AGA_2MB_1151.lha",
+      "label": "Slamtilt (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Sleepwalker_v1.2_AGA_0577.lha",
+      "label": "Sleepwalker (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/SoccerKid_v1.1_AGA_1150.lha",
+      "label": "Soccer Kid (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/SoccerSuperstars_v1.0_AGA.lha",
+      "label": "Soccer Superstars (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/SpaceAce_v1.10_0085.lha",
+      "label": "Space Ace",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Speedball2_v1.0_NTSC_2006.lha",
+      "label": "Speedball 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/SperisLegacy_v1.1_AGA_1337.lha",
+      "label": "Speris Legacy (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/StarCrusader_v1.0_AGA_2349.lha",
+      "label": "Star Crusader (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/StarTrek25thAnniversary_v1.0_AGA_1466.lha",
+      "label": "Star Trek - 25th Anniversary (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/StarWars_v4.0_0403.lha",
+      "label": "Star Wars",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Stratego_v1.1.1.lha",
+      "label": "Stratego",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/StripPot_v1.1_AGA.lha",
+      "label": "Strip Pot (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Subwar2050_v1.2b_AGA_0146.lha",
+      "label": "Subwar 2050 (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/SuperCars2_v1.0_0224.lha",
+      "label": "Super Cars 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/SuperLoopz_v1.0_AGA.lha",
+      "label": "Super Loopz (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/SuperStardust_v1.0_AGA_0175.lha",
+      "label": "Super Stardust (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/SuperStreetFighter2Turbo_v1.1_AGA_0735.lha",
+      "label": "Super Street Fighter II Turbo (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Superfrog_v1.2_0035.lha",
+      "label": "Superfrog",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/SurfNinjas_v1.0_AGA_1291.lha",
+      "label": "Surf Ninjas (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/SWIV_v1.6_0038.lha",
+      "label": "SWIV",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/ThemePark_v2.0_AGA_0153.lha",
+      "label": "Theme Park (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/ThomasTheTankEnginePinball_v1.2_AGA.lha",
+      "label": "Thomas The Tank Engine Pinball (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/TinToyAdventure_v1.0_AGA.lha",
+      "label": "Tin Toy Adventure (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/TomLandryStrategyFootballDeluxe_v1.0_1845.lha",
+      "label": "Tom Landry Strategy Football Deluxe",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/TopGear2_v1.2_AGA_1858.lha",
+      "label": "Top Gear 2 (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Tornado_v1.1_AGA.lha",
+      "label": "Tornado (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/TotalCarnage_v1.1_AGA_1926.lha",
+      "label": "Total Carnage (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/TowerOfSouls_v1.0_AGA_2212.lha",
+      "label": "Tower of Souls (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Transarctica_v1.4_AGA.lha",
+      "label": "Transarctica (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Trolls_v1.2_AGA_0996.lha",
+      "label": "Trolls (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/TubeWarriors_v1.0_AGA.lha",
+      "label": "Tube Warriors (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/TubularWorlds_v1.0_AGA.lha",
+      "label": "Tubular Worlds (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/TVSportsBasketball_v1.0_2122.lha",
+      "label": "TV Sports: Basketball",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/TVSportsFootball_v1.03_0407.lha",
+      "label": "TV Sports: Football",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/UFOEnemyUnknown_v1.0_AGA_0157.lha",
+      "label": "UFO - Enemy Unknown (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Ultima3_v1.1.lha",
+      "label": "Ultima III - Exodus (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Ultima4_v1.1_1390.lha",
+      "label": "Ultima IV - Quest of the Avatar (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Ultima5_v1.2_0785.lha",
+      "label": "Ultima V - Warriors of Destiny (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Ultima6_v1.1_0294.lha",
+      "label": "Ultima VI - The False Prophet (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/UltimateXTremeRacing_v1.1_AGA_CD.lha",
+      "label": "Ultimate XTreme Racing (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Virocop_v1.3_AGA_1920.lha",
+      "label": "Virocop (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/WarInMiddleEarth_v1.0_0968.lha",
+      "label": "War in Middle Earth",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/WarlockTheAvenger_v1.00_1413.lha",
+      "label": "Warlock the Avenger",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/WarlocksQuest_v1.00_0398.lha",
+      "label": "Warlocks Quest",
+      "core_path": "/tmp/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (PUAE)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Watchtower_v1.0_AGA_1071.lha",
+      "label": "Watchtower (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/WembleyInternationalSoccer_v1.0_AGA_1704.lha",
+      "label": "Wembley International Soccer (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/WheelsOnFire_v1.0_AGA.lha",
+      "label": "Wheels On Fire (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Whizz_v1.1_AGA_0803.lha",
+      "label": "Whizz (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Wings_v1.0_0410.lha",
+      "label": "Wings",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/WorldClassLeaderBoard&DataDisks_v1.2.lha",
+      "label": "World Class Leader Board",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/WormsDirectorsCut_v1.2_AGA_0605.lha",
+      "label": "Worms - The Director's Cut (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/XP8_v1.2_AGA.lha",
+      "label": "XP8 (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/XTremeRacing&DataDisks_v1.1_AGA_0164&1807.lha",
+      "label": "XTreme Racing (Europe) (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/ZanyGolf_v1.1_1482.lha",
+      "label": "Zany Golf",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/ZombieApocalypse2_v1.0_AGA.lha",
+      "label": "Zombie Apocalypse 2 (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Zool_v2.0_AGA_1675.lha",
+      "label": "Zool - Ninja of the 'Nth' Dimension (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    },
+    {
+      "path": "/storage/roms/WHDLoad/Zool2_v1.0_AGA_0415.lha",
+      "label": "Zool 2 (AGA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - Amiga.lpl"
+    }
+  ]
+}

@@ -1,0 +1,1897 @@
+{
+  "version": "1.5",
+  "default_core_path": "/tmp/cores/atari800_libretro.so",
+  "default_core_name": "Atari - 800 (Atari800)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "scan_content_dir": "/storage/roms/Atari 800",
+  "scan_file_exts": "",
+  "scan_dat_file_path": "",
+  "scan_search_recursively": true,
+  "scan_search_archives": false,
+  "scan_filter_dat_content": false,
+  "items": [
+    {
+      "path": "/storage/roms/Atari 800/8KB/3d tic-tac-toe.atr",
+      "label": "3d tic-tac-toe",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/abracadabra.atr",
+      "label": "abracadabra",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/adventure creator.atr",
+      "label": "adventure creator",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/alf in the color caves.atr",
+      "label": "alf in the color caves",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/alien ambush.atr",
+      "label": "alien ambush",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/alien garden.atr",
+      "label": "alien garden",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/alpha shield.atr",
+      "label": "alpha shield",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/alphabet zoo.atr",
+      "label": "alphabet zoo",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/animated puzzle.atr",
+      "label": "animated puzzle",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/ant eater.atr",
+      "label": "ant eater",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/arex.atr",
+      "label": "arex",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/asteroids.atr",
+      "label": "asteroids",
+      "core_path": "/tmp/cores/atari800_libretro.so",
+      "core_name": "Atari - 5200 (Atari800)",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/astro chase (parker brothers)(1983).atr",
+      "label": "Astro Chase (Parker Brothers)(1983)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/astro grover.atr",
+      "label": "astro grover",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/atari logo computing language.atr",
+      "label": "atari logo computing language",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/atariartist.atr",
+      "label": "atariartist",
+      "core_path": "/tmp/cores/atari800_libretro.so",
+      "core_name": "Atari - 5200 (Atari800)",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/atarigraphics.atr",
+      "label": "atarigraphics",
+      "core_path": "/tmp/cores/atari800_libretro.so",
+      "core_name": "Atari - 5200 (Atari800)",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/atarinet v1.0 (2015)(slorsoft)(us).atr",
+      "label": "atarinet v1.0 (2015)(slorsoft)(us)",
+      "core_path": "/tmp/cores/atari800_libretro.so",
+      "core_name": "Atari - 5200 (Atari800)",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/atariwriter (rev. c).atr",
+      "label": "atariwriter (rev. c)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/atlantis.atr",
+      "label": "atlantis",
+      "core_path": "/tmp/cores/atari800_libretro.so",
+      "core_name": "Atari - 5200 (Atari800)",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/attack at ep-cyg-4.atr",
+      "label": "attack at ep-cyg-4",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/attack of the mutant camels.atr",
+      "label": "attack of the mutant camels",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/baseball.atr",
+      "label": "baseball",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/basketball.atr",
+      "label": "basketball",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/bc's quest for tires.atr",
+      "label": "bc's quest for tires",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/beamrider.atr",
+      "label": "beamrider",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/bearjam (fixed).atr",
+      "label": "bearjam (fixed)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/big bird's funhouse.atr",
+      "label": "big bird's funhouse",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/big bird's special delivery.atr",
+      "label": "big bird's special delivery",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/boulder dash.atr",
+      "label": "boulder dash",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/boulders and bombs.atr",
+      "label": "boulders and bombs",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/bristles.atr",
+      "label": "bristles",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/buck rogers - planet of zoom.atr",
+      "label": "buck rogers - planet of zoom",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/captain beeble.atr",
+      "label": "captain beeble",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/carnival massacre.atr",
+      "label": "carnival massacre",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/castle hassle.atr",
+      "label": "castle hassle",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/castles and keys.atr",
+      "label": "castles and keys",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/caverns of mars.atr",
+      "label": "caverns of mars",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/centipede.atr",
+      "label": "centipede",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/chess.atr",
+      "label": "chess",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/chicken.atr",
+      "label": "chicken",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/chiffres et des lettres, des.atr",
+      "label": "chiffres et des lettres, des",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/choplifter.atr",
+      "label": "choplifter",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/claim jumper.atr",
+      "label": "claim jumper",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/cloudburst.atr",
+      "label": "cloudburst",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/coconotes.atr",
+      "label": "coconotes",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/computer chess.atr",
+      "label": "computer chess",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/computer war.atr",
+      "label": "computer war",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/congo bongo.atr",
+      "label": "congo bongo",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/conquest of the crown.atr",
+      "label": "conquest of the crown",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/cosmic life.atr",
+      "label": "cosmic life",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/crossfire.atr",
+      "label": "crossfire",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/crystal raider.atr",
+      "label": "crystal raider",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/da' fuzz.atr",
+      "label": "da' fuzz",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/dance fantasy.atr",
+      "label": "dance fantasy",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/danger ranger.atr",
+      "label": "danger ranger",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/decathlon.atr",
+      "label": "decathlon",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/defender.atr",
+      "label": "Defender (1982)(Atari)(US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/defender rev. 2 (1982)(atari)(us).atr",
+      "label": "Defender rev. 2 (1982)(Atari)(US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/delta drawing - learning program.atr",
+      "label": "delta drawing - learning program",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/deluxe invaders.atr",
+      "label": "deluxe invaders",
+      "core_path": "/tmp/cores/atari800_libretro.so",
+      "core_name": "Atari - 5200 (Atari800)",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/demon attack.atr",
+      "label": "demon attack",
+      "core_path": "/tmp/cores/atari800_libretro.so",
+      "core_name": "Atari - 5200 (Atari800)",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/diamond mine.atr",
+      "label": "diamond mine",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/dig dug.atr",
+      "label": "dig dug",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/direct access.atr",
+      "label": "direct access",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/donkey kong.atr",
+      "label": "donkey kong",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/donkey kong jr.atr",
+      "label": "donkey kong junior",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/droids.atr",
+      "label": "droids",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/ducks ahoy.atr",
+      "label": "ducks ahoy",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/e.t. phone home.atr",
+      "label": "e.t. phone home",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/eastern front - 1941.atr",
+      "label": "eastern front (1941)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/embargo.atr",
+      "label": "embargo",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/ernie's magic shapes.atr",
+      "label": "ernie's magic shapes",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/espial.atr",
+      "label": "espial",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/excelsor.atr",
+      "label": "excelsor",
+      "core_path": "/tmp/cores/atari800_libretro.so",
+      "core_name": "Atari - 5200 (Atari800)",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/facemaker.atr",
+      "label": "facemaker",
+      "core_path": "/tmp/cores/atari800_libretro.so",
+      "core_name": "Atari - 5200 (Atari800)",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/fantastic voyage.atr",
+      "label": "fantastic voyage",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/fast eddie.atr",
+      "label": "fast eddie",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/final legacy (graphic menu version).atr",
+      "label": "final legacy (graphic menu version)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/final legacy (text menu version).atr",
+      "label": "final legacy (text menu version)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/final orbit.atr",
+      "label": "final orbit",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/firebird.atr",
+      "label": "firebird",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/flapper.atr",
+      "label": "flapper",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/flip and flop.atr",
+      "label": "flip and flop",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/fort apocalypse.atr",
+      "label": "fort apocalypse",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/fortune hunter.atr",
+      "label": "fortune hunter",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/fraction fever.atr",
+      "label": "fraction fever",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/frogger.atr",
+      "label": "frogger",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/frogger ii - threedeep.atr",
+      "label": "frogger ii - threedeep",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/fun with art.atr",
+      "label": "fun with art",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/galaxian.atr",
+      "label": "galaxian",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/gateway to apshai.atr",
+      "label": "gateway to apshai",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/gold mine.atr",
+      "label": "gold mine",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/gorf.atr",
+      "label": "GORF",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/gridrunner.atr",
+      "label": "gridrunner",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/gyruss.atr",
+      "label": "gyruss",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/halftime battlin' bands.atr",
+      "label": "halftime battlin' bands",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/hard hat willy.atr",
+      "label": "hard hat willy",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/hero.atr",
+      "label": "hero",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/hypnotic land.atr",
+      "label": "hypnotic land",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/in-store demonstration.atr",
+      "label": "in-store demonstration",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/instados.atr",
+      "label": "instados",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/james bond 007.atr",
+      "label": "james bond 007",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/jawbreaker 2.atr",
+      "label": "jawbreaker ii",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/journey to the planets.atr",
+      "label": "journey to the planets",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/joust.atr",
+      "label": "joust",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/jr pac-man (repro).atr",
+      "label": "jr pac-man (repro)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/jumbo jet pilot.atr",
+      "label": "jumbo jet pilot",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/jumpman junior.atr",
+      "label": "jumpman junior",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/jungle hunt.atr",
+      "label": "jungle hunt",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/k-razy antiks.atr",
+      "label": "K-razy Antiks (CBS)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/k-razy kritters (cbs).atr",
+      "label": "K-razy Kritters (CBS)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/k-razy shoot out (cbs).atr",
+      "label": "K-razy Shoot-out (CBS)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/k-star patrol.atr",
+      "label": "K-Star Patrol (CBS)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/kaboom.atr",
+      "label": "kaboom",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/keystone kapers.atr",
+      "label": "keystone kapers",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/kickback.atr",
+      "label": "kickback",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/kids on keys.atr",
+      "label": "kids on keys",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/kindercomp.atr",
+      "label": "kindercomp",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/koala painter.atr",
+      "label": "koala painter",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/laser gates.atr",
+      "label": "laser gates",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/learning with leeper.atr",
+      "label": "learning with leeper",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/leo's 'lectric paintbrush.atr",
+      "label": "leo's 'lectric paintbrush",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/linking logic.atr",
+      "label": "linking logic",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/logic levels.atr",
+      "label": "logic levels",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/logicmaster.atr",
+      "label": "logicmaster",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/magic dump 2.atr",
+      "label": "magic dump 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/major league hockey.atr",
+      "label": "major league hockey",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/mash.atr",
+      "label": "mash",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/master type.atr",
+      "label": "master type",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/math encounter.atr",
+      "label": "math encounter",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/math mileage.atr",
+      "label": "math mileage",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/math works - addition.atr",
+      "label": "math works - addition",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/math works - subtraction.atr",
+      "label": "math works - subtraction",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/matterhorn.atr",
+      "label": "matterhorn",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/mcdonald's pac-mac (beta 2).atr",
+      "label": "mcdonald's pac-mac (beta 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/megamania.atr",
+      "label": "megamania",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/memory manor.atr",
+      "label": "memory manor",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/meteor.atr",
+      "label": "meteor",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/microsoft basic ii programming language.atr",
+      "label": "microsoft basic ii programming language",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/millipede.atr",
+      "label": "millipede",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/miner 2049er.atr",
+      "label": "miner 2049er",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/missile command.atr",
+      "label": "missile command",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/mogul maniac.atr",
+      "label": "mogul maniac",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/monster maze.atr",
+      "label": "monster maze",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/moogles.atr",
+      "label": "moogles",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/moon patrol.atr",
+      "label": "moon patrol",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/mountain king.atr",
+      "label": "mountain king",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/movie musical madness.atr",
+      "label": "movie musical madness",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/mr cool.atr",
+      "label": "Mr. Cool",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/mr tnt.atr",
+      "label": "Mr. TNT",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/ms pac-man.atr",
+      "label": "Ms. Pac-Man",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/night strike.atr",
+      "label": "night strike",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/oil's well.atr",
+      "label": "oil's well",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/orc attack.atr",
+      "label": "orc attack",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/ozzy's orchard.atr",
+      "label": "ozzy's orchard",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/pac-man.atr",
+      "label": "Pac-Man",
+      "core_path": "/tmp/cores/atari800_libretro.so",
+      "core_name": "Atari - 5200 (Atari800)",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/pastfinder.atr",
+      "label": "pastfinder",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/peanut butter panic.atr",
+      "label": "peanut butter panic",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/pengo.atr",
+      "label": "pengo",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/picnic paranoia.atr",
+      "label": "picnic paranoia",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/pilot computing language.atr",
+      "label": "pilot computing language",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/pitfall.atr",
+      "label": "Pitfall!",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/pitfall 2 - lost caverns.atr",
+      "label": "Pitfall II - Lost Caverns",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/pitstop.atr",
+      "label": "Pit Stop",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/plato.atr",
+      "label": "plato",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/plattermania.atr",
+      "label": "plattermania",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/pole position.atr",
+      "label": "pole position",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/pool 400.atr",
+      "label": "pool 400",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/popeye (us).atr",
+      "label": "popeye (us)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/porky's.atr",
+      "label": "porky's",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/powerstar.atr",
+      "label": "powerstar",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/preppie.atr",
+      "label": "preppie",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/princess and the frog.atr",
+      "label": "princess and the frog",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/protector 2.atr",
+      "label": "protector 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/qbert.atr",
+      "label": "qbert",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/qix.atr",
+      "label": "qix",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/rally speedway.atr",
+      "label": "rally speedway",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/realsports football.atr",
+      "label": "realsports football",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/river raid.atr",
+      "label": "river raid",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/river rescue.atr",
+      "label": "river rescue",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/robotron 2084.atr",
+      "label": "robotron 2084",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/satan's hollow.atr",
+      "label": "satan's hollow",
+      "core_path": "/tmp/cores/atari800_libretro.so",
+      "core_name": "Atari - 5200 (Atari800)",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/sea chase.atr",
+      "label": "sea chase",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/sea fox.atr",
+      "label": "sea fox",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/sea horse hide 'n seek.atr",
+      "label": "sea horse hide 'n seek",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/serpentine.atr",
+      "label": "serpentine",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/sesame street letter-go-round.atr",
+      "label": "sesame street letter-go-round",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/shamus.atr",
+      "label": "shamus",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/silicon warrior.atr",
+      "label": "silicon warrior",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/sky writer.atr",
+      "label": "sky writer",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/slime.atr",
+      "label": "slime",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/soccer.atr",
+      "label": "soccer",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/space invaders.atr",
+      "label": "space invaders",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/space journey.atr",
+      "label": "space journey",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/space shuttle - a journey into space.atr",
+      "label": "space shuttle - a journey into space",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/spark bugs.atr",
+      "label": "spark bugs",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/speedway blast.atr",
+      "label": "speedway blast",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/spider city.atr",
+      "label": "spider city",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/springer.atr",
+      "label": "springer",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/spy hunter.atr",
+      "label": "spy hunter",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/squish 'em.atr",
+      "label": "squish 'em",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/star maze.atr",
+      "label": "star maze",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/star raiders.atr",
+      "label": "Star Raiders (USA)",
+      "core_path": "/tmp/cores/atari800_libretro.so",
+      "core_name": "Atari - 5200 (Atari800)",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/star trek - strategic operations simulator.atr",
+      "label": "star trek - strategic operations simulator",
+      "core_path": "/tmp/cores/atari800_libretro.so",
+      "core_name": "Atari - 5200 (Atari800)",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/star wars - return of the jedi - death star battle.atr",
+      "label": "star wars - return of the jedi - death star battle",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/star wars - the arcade game.atr",
+      "label": "star wars - the arcade game",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/starion.atr",
+      "label": "starion",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/story machine.atr",
+      "label": "story machine",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/submarine commander.atr",
+      "label": "submarine commander",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/super breakout.atr",
+      "label": "super breakout",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/super cobra.atr",
+      "label": "super cobra",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/super zaxxon.atr",
+      "label": "super zaxxon",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/survival of the fittest.atr",
+      "label": "survival of the fittest",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/tennis.atr",
+      "label": "tennis",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/the designer's pencil.atr",
+      "label": "the designer's pencil",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/the dreadnaught factor.atr",
+      "label": "the dreadnaught factor",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/timebound.atr",
+      "label": "timebound",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/topper.atr",
+      "label": "topper",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/track and field.atr",
+      "label": "track and field",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/trion.atr",
+      "label": "trion",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/turmoil.atr",
+      "label": "turmoil",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/twin pack.atr",
+      "label": "twin pack",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/typo.atr",
+      "label": "typo",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/typo attack.atr",
+      "label": "typo attack",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/up 'n down.atr",
+      "label": "up 'n down",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/up for grabs.atr",
+      "label": "up for grabs",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/video poker card game.atr",
+      "label": "video poker card game",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/webster - the word game.atr",
+      "label": "webster - the word game",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/whiz kid.atr",
+      "label": "whiz kid",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/wizard of wor.atr",
+      "label": "wizard of wor",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/worm war 1.atr",
+      "label": "worm war 1",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/zaxxon.atr",
+      "label": "zaxxon",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/8KB/zenji.atr",
+      "label": "zenji",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    },
+    {
+      "path": "/storage/roms/Atari 800/16KB/zone ranger.atr",
+      "label": "zone ranger",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Atari - 800.lpl"
+    }
+  ]
+}

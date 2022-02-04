@@ -1,0 +1,1513 @@
+{
+  "version": "1.5",
+  "default_core_path": "/tmp/cores/vice_xvic_libretro.so",
+  "default_core_name": "Commodore - VIC-20 (VICE xvic)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "scan_content_dir": "/storage/roms/VIC20",
+  "scan_file_exts": "",
+  "scan_dat_file_path": "",
+  "scan_search_recursively": false,
+  "scan_search_archives": false,
+  "scan_filter_dat_content": false,
+  "items": [
+    {
+      "path": "/storage/roms/VIC20/ae/ae.m3u",
+      "label": "A.E. (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/advland/advland.m3u",
+      "label": "Adventureland",
+      "core_path": "/tmp/cores/vice_xvic_libretro.so",
+      "core_name": "Commodore - VIC-20 (VICE xvic)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/agressor.zip",
+      "label": "Aggressor (Japan, USA)",
+      "core_path": "/tmp/cores/vice_xvic_libretro.so",
+      "core_name": "Commodore - VIC-20 (VICE xvic)",
+      "crc32": "505BA5EA|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/alien.zip",
+      "label": "Alien (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5118AB82|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/alienblz.zip",
+      "label": "Alien Blitz (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B53D9458|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/alienss.zip",
+      "label": "Alien Sidestep (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2C9232D5|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/Alphabet Zoo/Alphabet Zoo.m3u",
+      "label": "Alphabet Zoo",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/amaze.zip",
+      "label": "Amazing Maze (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E50E9E0D|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/amok.zip",
+      "label": "Amok! (World)",
+      "core_path": "/tmp/cores/vice_xvic_libretro.so",
+      "core_name": "Commodore - VIC-20 (VICE xvic)",
+      "crc32": "77738D0B|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/apescape.zip",
+      "label": "Ape Escape (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "771EFF92|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/Apple Panic/Apple Panic.m3u",
+      "label": "Apple Panic",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/Arachnoid/Arachanoid.m3u",
+      "label": "Arachnoid",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/Artillery Duel/Artillery Duel.m3u",
+      "label": "Artillery Duel",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/astblitz.zip",
+      "label": "Astroblitz (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0F6C5ED9|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/atlantis.zip",
+      "label": "Atlantis (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F1FF8B52|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/mtntcmls.zip",
+      "label": "Attack of the Mutant Camels (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D754B1ED|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/avenger.zip",
+      "label": "Avenger (Japan, USA)",
+      "core_path": "/tmp/cores/vice_xvic_libretro.so",
+      "core_name": "Commodore - VIC-20 (VICE xvic)",
+      "crc32": "8A7C3A97|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/bandits.zip",
+      "label": "Bandits (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "01EAEE5A|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/fortknox.zip",
+      "label": "Bank Robber (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4C19C3D8|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/Battlezone/Battlezone.m3u",
+      "label": "Battlezone",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/homebrews/VIC20/16KB/berzerk-mmx-16k.prg",
+      "label": "Berzerk MMX (2011)",
+      "core_path": "/tmp/cores/vice_xvic_libretro.so",
+      "core_name": "Commodore - VIC-20 (VICE xvic)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/blakhole.zip",
+      "label": "Black Hole (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "204EE9F6|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/homebrews/VIC20/8KB/break-out!.prg",
+      "label": "Break-out! (2011)",
+      "core_path": "/tmp/cores/vice_xvic_libretro.so",
+      "core_name": "Commodore - VIC-20 (VICE xvic)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/Buck Rogers/Buck Rogers.m3u",
+      "label": "Buck Rogers",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/bugcrush.zip",
+      "label": "Bug Crusher (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CFC4446E|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/capflag.zip",
+      "label": "Capture the Flag (Japan, USA) (Alt 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E6897978|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/ctchsnch.zip",
+      "label": "Catch-a-Snatch (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7CE85C78|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/cavein.zip",
+      "label": "Cave In",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/centiped/centiped.m3u",
+      "label": "Centipede",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/choplift.zip",
+      "label": "Choplifter (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B0F2B6BC|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/chucknor.zip",
+      "label": "Chuck Norris Superkicks (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2C3F7680|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/cloudbst.zip",
+      "label": "Cloudburst (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7BC4E9F3|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/clowns.zip",
+      "label": "Clowns (Japan, USA) (Joystick)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A6D0EBD5|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/compwar.zip",
+      "label": "Computer War (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F956C5D6|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/congo.zip",
+      "label": "Congo Bongo (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C8471C13|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/cosmic.zip",
+      "label": "Cosmic Cruncher (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "27C4962A|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/jailbrk.zip",
+      "label": "Cosmic Jailbreak (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "951AADA1|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/creepy.zip",
+      "label": "Creepy Corridors (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7CBE5443|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/xfire.zip",
+      "label": "Crossfire (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6042F7A3|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/cyclon.zip",
+      "label": "Cyclon (World)",
+      "core_path": "/home/theflyingape/.config/retroarch/cores/vice_xvic_libretro.so",
+      "core_name": "Commodore - VIC-20 (VICE xvic)",
+      "crc32": "D6C393AB|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/dncbear/dncbear.m3u",
+      "label": "Dancing Bear",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/deadduck.zip",
+      "label": "Deadly Duck (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BC0CF5D8|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/deadskys.zip",
+      "label": "Deadly Skies (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6EA53C70|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/defender/defender.m3u",
+      "label": "Defender",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/demonatk.zip",
+      "label": "Demon Attack (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/digdug/digdug.m3u",
+      "label": "Dig Dug",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/dkong/dkong.m3u",
+      "label": "Donkey Kong",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/dgobbler.zip",
+      "label": "Dot Gobbler (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C7C7B768|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/drgnfire.zip",
+      "label": "Dragonfire (World)",
+      "core_path": "/tmp/cores/vice_xvic_libretro.so",
+      "core_name": "Commodore - VIC-20 (VICE xvic)",
+      "crc32": "3A0B13AB|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/Draw Poker.zip",
+      "label": "Draw Poker",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/droids.zip",
+      "label": "Droids (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "42BF39BE|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/facemakr.zip",
+      "label": "Face Maker (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "965F0448|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/fasteddy.zip",
+      "label": "Fast Eddie (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "59323C50|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/finalorb.zip",
+      "label": "Final Orbit + Bumper Bash (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "18D872DE|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/4encntr.zip",
+      "label": "Fourth Encounter, The (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DA4A0922|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/frogger.zip",
+      "label": "Frogger (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F8BD8024|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/funmusic.zip",
+      "label": "Fun with Music (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FFF7E3D2|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/galaxian.zip",
+      "label": "Galaxian (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BDE05533|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/gardnwar.zip",
+      "label": "Garden Wars (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E5117308|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/ghostman.zip",
+      "label": "Ghost Manor (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "144DAF5A|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/goldfvr.zip",
+      "label": "Gold Fever (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "90C65375|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/gorf.zip",
+      "label": "Gorf (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3F06AC97|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/gridrunr.zip",
+      "label": "Gridrunner (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2B190AEA|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/hbabysit.zip",
+      "label": "Home Babysitter (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DEA14651|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/fltsim.zip",
+      "label": "IFR (Flight Simulator) (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FB97BD96|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/In the Chips/In the Chips.m3u",
+      "label": "In the Chips",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/jawbrek2.zip",
+      "label": "Jawbreaker II (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D58F2DF6|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/Jelly Monsters.zip",
+      "label": "Jelly Monsters",
+      "core_path": "/tmp/cores/vice_xvic_libretro.so",
+      "core_name": "Commodore - VIC-20 (VICE xvic)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/Junglehunt/Junglehunt.m3u",
+      "label": "Jungle Hunt",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/vlander.zip",
+      "label": "Jupiter Lander (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "18E177F1|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/kantiks/kantiks.m3u",
+      "label": "K-Razy Antiks (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/kpatrol/kpatrol.m3u",
+      "label": "K-Star Patrol",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/keyquest.zip",
+      "label": "Key Quest",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/kidskeys.zip",
+      "label": "Kids on Keys (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E695BD44|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/kindcomp/kindcomp.m3u",
+      "label": "Kindercomp",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/laserzne.zip",
+      "label": "Lazer Zone (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "019D102B|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/ldrun/ldrun.m3u",
+      "label": "Lode Runner (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/lleeper/lleeper.m3u",
+      "label": "Lunar Leeper (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AF98FF32|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/mstrtype/mstrtype.m3u",
+      "label": "Mastertype",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/maze.zip",
+      "label": "Maze (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "003F5D8D|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/mjoust.zip",
+      "label": "Medieval Joust (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8BCD8C00|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/vicmenag.zip",
+      "label": "Menagerie (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A3C74629|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/homebrews/VIC20/Merry VIC-mas.prg",
+      "label": "Merry VIC-mas",
+      "core_path": "/tmp/cores/vice_xvic_libretro.so",
+      "core_name": "Commodore - VIC-20 (VICE xvic)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/Meteor Run.zip",
+      "label": "Meteor Run",
+      "core_path": "/tmp/cores/vice_xvic_libretro.so",
+      "core_name": "Commodore - VIC-20 (VICE xvic)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/minemad.zip",
+      "label": "Mine Madness (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5D22791C|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/mine2049.zip",
+      "label": "Miner 2049'er (Europe) (Alt 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3AD92FDC|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/mission/mission.m3u",
+      "label": "Mission Impossible",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/moleattk.zip",
+      "label": "Mole Attack (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9C2D1185|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/moneywar.zip",
+      "label": "Money Wars (Japan, USA) (Alt 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2C20505C|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/monstrmz.zip",
+      "label": "Monster Maze (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3DD2F438|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/mpatrol/mpatrol.m3u",
+      "label": "Moon Patrol",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/mosquito.zip",
+      "label": "Mosquito Infestation (Europe)",
+      "core_path": "/tmp/cores/vice_xvic_libretro.so",
+      "core_name": "Commodore - VIC-20 (VICE xvic)",
+      "crc32": "AB89BE36|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/mtcracer.zip",
+      "label": "Motocross Racer (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1858A122|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/mking/mking.m3u",
+      "label": "Mountain King",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/mspacman/mspacman.m3u",
+      "label": "Ms Pacman",
+      "core_path": "/tmp/cores/vice_xvic_libretro.so",
+      "core_name": "Commodore - VIC-20 (VICE xvic)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/mutnthrd.zip",
+      "label": "Mutant Herd (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EF92C07E|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/numbrcrn.zip",
+      "label": "Number Crunch (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D769AB2E|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/numbrnab.zip",
+      "label": "Number Nabber, Shape Grabber (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9C66CC84|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/homebrews/VIC20/16KB/omega-fury.prg",
+      "label": "Omega Fury (2011)",
+      "core_path": "/tmp/cores/vice_xvic_libretro.so",
+      "core_name": "Commodore - VIC-20 (VICE xvic)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/omegrace.zip",
+      "label": "Omega Race (Japan, USA)",
+      "core_path": "/tmp/cores/vice_xvic_libretro.so",
+      "core_name": "Commodore - VIC-20 (VICE xvic)",
+      "crc32": "59581BF3|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/outworld/outworld.m3u",
+      "label": "Outworld (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F67A2B0F|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/pacman.zip",
+      "label": "Pac-Man (World) (Alt 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "659A30BA|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/pharaoh/pharaoh.m3u",
+      "label": "Pharaoh's Curse",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/pinspec/pinspec.m3u",
+      "label": "Pinball Spectacular",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/pipes.zip",
+      "label": "Pipes (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "24FB7693|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/piratecv/piratecv.m3u",
+      "label": "Pirates Cove",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/homebrews/VIC20/pizza videogame.prg",
+      "label": "Pizza Videogame (1983)",
+      "core_path": "/tmp/cores/vice_xvic_libretro.so",
+      "core_name": "Commodore - VIC-20 (VICE xvic)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/poker.zip",
+      "label": "Poker (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9FE0BD6D|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/polaris.zip",
+      "label": "Polaris (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9538B3AF|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/polepos/polepos.m3u",
+      "label": "Pole Position",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/predator.zip",
+      "label": "Predator (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F36ACBFC|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/princess.zip",
+      "label": "Princess and Frog (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7BC153F4|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/protectr.zip",
+      "label": "Protector (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "451D0E1E|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/qbert.zip",
+      "label": "Q-bert (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DA471219|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/quackers.zip",
+      "label": "Quackers (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "99833504|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/homebrews/VIC20/quikman.prg",
+      "label": "Quikman (1984)",
+      "core_path": "/tmp/cores/vice_xvic_libretro.so",
+      "core_name": "Commodore - VIC-20 (VICE xvic)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/homebrews/VIC20/quikman-rom.a0",
+      "label": "Quikman 2K8 (2008)",
+      "core_path": "/tmp/cores/vice_xvic_libretro.so",
+      "core_name": "Commodore - VIC-20 (VICE xvic)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/homebrews/VIC20/quikman-8k.a0",
+      "label": "Quikman Mega-Cart (2009)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/homebrews/VIC20/8KB/quikman+8k.prg",
+      "label": "Quikman+ (2014)",
+      "core_path": "/tmp/cores/vice_xvic_libretro.so",
+      "core_name": "Commodore - VIC-20 (VICE xvic)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/radarrr.zip",
+      "label": "Radar Rat Race",
+      "core_path": "/tmp/cores/vice_xvic_libretro.so",
+      "core_name": "Commodore - VIC-20 (VICE xvic)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/Raid on Fort Knox.zip",
+      "label": "Raid on Fort Knox",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/rathotel.zip",
+      "label": "Rat Hotel (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "12434785|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/renais/renais.m3u",
+      "label": "Renaissance",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/homebrews/VIC20/repel.prg",
+      "label": "Repel (1983)",
+      "core_path": "/tmp/cores/vice_xvic_libretro.so",
+      "core_name": "Commodore - VIC-20 (VICE xvic)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/rivrresc.zip",
+      "label": "River Rescue (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9176E97F|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/roadrace.zip",
+      "label": "Road Race (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "49ED41DA|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/robinh.zip",
+      "label": "Robin Hood (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AEFDB3AF|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/robopanc.zip",
+      "label": "Robot Panic (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9282DB33|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/robotron/robotron.m3u",
+      "label": "Robotron 2084",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/sargon2.zip",
+      "label": "Sargon II Chess (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CD1CA8EC|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/satpatrl.zip",
+      "label": "Satellite Patrol (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5F64F10B|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/satmet/satmet.m3u",
+      "label": "Satellites and Meteorites! (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BE390D00|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/scorpion.zip",
+      "label": "Scorpion (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CBC23EA1|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/seawolf.zip",
+      "label": "Sea Wolf (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6770E9BB|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/seafox/seafox.m3u",
+      "label": "Seafox",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/serptine.zip",
+      "label": "Serpentine (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0F4DF9CD|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/shamus.zip",
+      "label": "Shamus (Japan, USA)",
+      "core_path": "/tmp/cores/vice_xvic_libretro.so",
+      "core_name": "Commodore - VIC-20 (VICE xvic)",
+      "crc32": "21E7BDA6|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/lancelot.zip",
+      "label": "Sir Lancelot (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0A0DABEC|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/skibern.zip",
+      "label": "Skibbereen (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EAF65586|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/skyblazr/skyblazr.m3u",
+      "label": "Sky Blazer",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/skyfall.zip",
+      "label": "Sky is Falling",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/snakbyte.zip",
+      "label": "Snake Byte (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1840411B|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/ricoshay.zip",
+      "label": "Space Ric-O-Shay (Japan, USA) [b]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AF2FD976|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/spcsnake.zip",
+      "label": "Space Snake (Netherlands)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A52EF578|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/spedmath.zip",
+      "label": "Speed Math & Bingo Math (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A002F34C|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/spidcity.zip",
+      "label": "Spider City (Japan, USA) (Alt 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "12D40755|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/spidmars.zip",
+      "label": "Spiders of Mars",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/spikpeak.zip",
+      "label": "Spike's Peak (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CFFB4E0E|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/spills.zip",
+      "label": "Spills & Fills (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FDD7C24D|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/springer/springer.m3u",
+      "label": "Springer",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/homebrews/VIC20/8KB/sprite invaders.prg",
+      "label": "Sprite Invaders (2011)",
+      "core_path": "/tmp/cores/vice_xvic_libretro.so",
+      "core_name": "Commodore - VIC-20 (VICE xvic)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/squishem/squishem.m3u",
+      "label": "Squish'em (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/starbatl.zip",
+      "label": "Star Battle (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E222063C|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/starpost.zip",
+      "label": "Star Post (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "34E894F9|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/startrek.zip",
+      "label": "Star Trek - Strategic Operations Simulator (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DC95800F|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/storymac/storymac.m3u",
+      "label": "Story Machine (World) (Alt 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B691D4DF|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/subchase.zip",
+      "label": "Sub Chase (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "585A901F|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/subcomm/subcomm.m3u",
+      "label": "Submarine Commander (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E402FB1D|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/spramok.zip",
+      "label": "Super Amok (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DDC1A498|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/slot.zip",
+      "label": "Super Slot (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "64D4A871|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/sprsmash.zip",
+      "label": "Super Smash (Japan, USA) (Alt 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "67D30746|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/tankatak.zip",
+      "label": "Tank Atak (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4B6D5477|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/tankwars.zip",
+      "label": "Tank Wars",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/teragard.zip",
+      "label": "Terraguard (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3079A31B|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/thecount/thecount.m3u",
+      "label": "The Count",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/threshld.zip",
+      "label": "Threshold (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FC2DC4B0|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/titan.zip",
+      "label": "Titan (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B2625EC5|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/tomarc.zip",
+      "label": "Tomarc the Barbarian (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6678DAF4|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/toothinv.zip",
+      "label": "Tooth Invaders (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8364DBBD|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/topper.zip",
+      "label": "Topper (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8A655C87|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/trashman/trashman.m3u",
+      "label": "Trashman",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/turmoil.zip",
+      "label": "Turmoil (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "15A24C3E|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/tutankhm.zip",
+      "label": "Tutankham (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "BF4D8607|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/typeatak.zip",
+      "label": "Type Attack (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "693CB8D2|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/typo.zip",
+      "label": "Typo (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "55FB5912|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/vicgraph.zip",
+      "label": "VIC Graph (World)",
+      "core_path": "/tmp/cores/vice_xvic_libretro.so",
+      "core_name": "Commodore - VIC-20 (VICE xvic)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/vicstat.zip",
+      "label": "VIC Stat (World)",
+      "core_path": "/tmp/cores/vice_xvic_libretro.so",
+      "core_name": "Commodore - VIC-20 (VICE xvic)",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/victerm.zip",
+      "label": "VIC Term (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/vicdiag.zip",
+      "label": "VIC-20 Diagnostic (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/vidverm.zip",
+      "label": "Video Vermin (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A4FE2362|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/vidmania.zip",
+      "label": "Videomania (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5E62733D|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/vsolsys.zip",
+      "label": "Visible Solar System, The (World) (Alt 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0A9B0456|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/voodoo/voodoo.m3u",
+      "label": "Voodoo Castle",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/wacky/wacky.m3u",
+      "label": "Wacky Waiters (Europe) (SYS 48896)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "4C4A2E94|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/witchway.zip",
+      "label": "Witch Way",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/worldwar.zip",
+      "label": "World at War, A (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "89A8B4AF|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    },
+    {
+      "path": "/storage/roms/VIC20/writenow/writenow.m3u",
+      "label": "Write Now! (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "89A8B4AF|crc",
+      "db_name": "Commodore - VIC-20.lpl"
+    }
+  ]
+}

@@ -6,6 +6,7 @@ killall gnome-keyring-daemon
 echo -n "keyringpassword" | gnome-keyring-daemon -l -d
 gnome-keyring-daemon -s
 systemctl --user restart gnome-remote-desktop
+sleep 5
 
 IMAGE=()
 WALLPAPER=~/Pictures/Wallpaper
@@ -21,8 +22,8 @@ while [ true ]; do
 	gsettings set org.gnome.desktop.background picture-uri "'file:///${bg}'"
 	sleep 200
 
-	# go idle when a fullscreen game is active, eh?
-	while pidof -q retroarch ; do sleep 60 ; done
+	# go idle when user is busy with another app, eh?
+	while pidof -q chrome retroarch ; do sleep 60 ; done
 
 done
 

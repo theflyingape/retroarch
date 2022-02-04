@@ -1,0 +1,113 @@
+{
+  "version": "1.5",
+  "default_core_path": "/tmp/cores/neocd_libretro.so",
+  "default_core_name": "SNK - Neo Geo CD (NeoCD)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "scan_content_dir": "/storage/roms/NeoCD",
+  "scan_file_exts": "",
+  "scan_dat_file_path": "",
+  "scan_search_recursively": false,
+  "scan_search_archives": false,
+  "scan_filter_dat_content": false,
+  "items": [
+    {
+      "path": "/storage/roms/NeoCD/2020 super baseball (1995)(snk)(jp-us).chd",
+      "label": "2020 Super Baseball (Japan) (En,Ja)",
+      "core_path": "/tmp/cores/neocd_libretro.so",
+      "core_name": "SNK - Neo Geo CD (NeoCD)",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo CD.lpl"
+    },
+    {
+      "path": "/storage/roms/NeoCD/aero fighters 3 (1995)(snk)(jp-us)[sonic wings 3].chd",
+      "label": "Aero Fighters 3 (World)",
+      "core_path": "/tmp/cores/neocd_libretro.so",
+      "core_name": "SNK - Neo Geo CD (NeoCD)",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo CD.lpl"
+    },
+    {
+      "path": "/storage/roms/NeoCD/bust-a-move (1995)(snk)(jp-us)[puzzle bobble].chd",
+      "label": "Bust-A-Move (World)",
+      "core_path": "/tmp/cores/neocd_libretro.so",
+      "core_name": "SNK - Neo Geo CD (NeoCD)",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo CD.lpl"
+    },
+    {
+      "path": "/storage/roms/NeoCD/football frenzy (1994)(snk)(jp-us).chd",
+      "label": "Football Frenzy (Japan) (En,Ja)",
+      "core_path": "/tmp/cores/neocd_libretro.so",
+      "core_name": "SNK - Neo Geo CD (NeoCD)",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo CD.lpl"
+    },
+    {
+      "path": "/storage/roms/NeoCD/futsal - 5 on 5 mini soccer (1996)(saurus)(jp)[pleasuregoal - 5 on 5 mini soccer].chd",
+      "label": "Futsal - 5 on 5 Mini Soccer (Japan)",
+      "core_path": "/tmp/cores/neocd_libretro.so",
+      "core_name": "SNK - Neo Geo CD (NeoCD)",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo CD.lpl"
+    },
+    {
+      "path": "/storage/roms/NeoCD/king of fighters '96 neogeo collection, the (1997)(snk)(jp)[ngcd-229 mt b07].chd",
+      "label": "King of Fighters '96, The - NEOGEO Collection (Japan)",
+      "core_path": "/tmp/cores/neocd_libretro.so",
+      "core_name": "SNK - Neo Geo CD (NeoCD)",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo CD.lpl"
+    },
+    {
+      "path": "/storage/roms/NeoCD/league bowling (1994)(snk)(jp-us).chd",
+      "label": "League Bowling (Japan) (En,Ja)",
+      "core_path": "/tmp/cores/neocd_libretro.so",
+      "core_name": "SNK - Neo Geo CD (NeoCD)",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo CD.lpl"
+    },
+    {
+      "path": "/storage/roms/NeoCD/metal slug 2 (1998)(snk)(jp).chd",
+      "label": "Metal Slug 2 (Japan) (En,Ja)",
+      "core_path": "/tmp/cores/neocd_libretro.so",
+      "core_name": "SNK - Neo Geo CD (NeoCD)",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo CD.lpl"
+    },
+    {
+      "path": "/storage/roms/NeoCD/neo driftout (1996)(visco)(jp).chd",
+      "label": "Neo DriftOut (World)",
+      "core_path": "/tmp/cores/neocd_libretro.so",
+      "core_name": "SNK - Neo Geo CD (NeoCD)",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo CD.lpl"
+    },
+    {
+      "path": "/storage/roms/NeoCD/neo turf masters (1996)(snk)(jp)[big tournament golf].chd",
+      "label": "Neo Turf Masters (World)",
+      "core_path": "/tmp/cores/neocd_libretro.so",
+      "core_name": "SNK - Neo Geo CD (NeoCD)",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo CD.lpl"
+    },
+    {
+      "path": "/storage/roms/NeoCD/soccer brawl (1995)(snk)(jp-us).chd",
+      "label": "Soccer Brawl (Japan)",
+      "core_path": "/tmp/cores/neocd_libretro.so",
+      "core_name": "SNK - Neo Geo CD (NeoCD)",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo CD.lpl"
+    },
+    {
+      "path": "/storage/roms/NeoCD/street hoop (1995)(data east)(jp-us)[dunk dream].chd",
+      "label": "Street Hoop (World)",
+      "core_path": "/tmp/cores/neocd_libretro.so",
+      "core_name": "SNK - Neo Geo CD (NeoCD)",
+      "crc32": "00000000|crc",
+      "db_name": "SNK - Neo Geo CD.lpl"
+    }
+  ]
+}

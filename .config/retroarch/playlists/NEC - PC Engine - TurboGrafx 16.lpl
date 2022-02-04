@@ -1,0 +1,1363 @@
+{
+  "version": "1.5",
+  "default_core_path": "/tmp/cores/mednafen_pce_fast_libretro.so",
+  "default_core_name": "NEC - PC Engine / CD (Beetle PCE FAST)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/storage/roms/TurboGrafX-16/1943 Kai (Japan).zip",
+      "label": "1943 Kai (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Aero Blasters (USA).zip",
+      "label": "Aero Blasters (USA)",
+      "core_path": "DETECT",
+      "core_name": "NEC - PC Engine / CD (Beetle PCE FAST)",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/After Burner II (Japan).zip",
+      "label": "After Burner II (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Air Zonk (USA).zip",
+      "label": "Air Zonk (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Alice in Wonderdream (Japan).zip",
+      "label": "Alice in Wonderdream (Japan)",
+      "core_path": "/tmp/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "NEC - PC Engine / CD (Beetle PCE FAST)",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Alien Crush (USA).zip",
+      "label": "Alien Crush (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Altered Beast (Japan).zip",
+      "label": "Altered Beast (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Andre Panza Kick Boxing (USA).zip",
+      "label": "Andre Panza Kick Boxing (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Armed F (Japan).zip",
+      "label": "Armed F (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Atomic Robo-Kid Special (Japan).zip",
+      "label": "Atomic Robo-Kid Special (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Ballistix (USA).zip",
+      "label": "Ballistix (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Batman (Japan).zip",
+      "label": "Batman (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Battle Lode Runner (Japan).zip",
+      "label": "Battle Lode Runner (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Battle Royale (USA).zip",
+      "label": "Battle Royale (USA)",
+      "core_path": "/tmp/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "NEC - PC Engine / CD (Beetle PCE FAST)",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Blazing Lazers (USA).zip",
+      "label": "Blazing Lazers (USA)",
+      "core_path": "/tmp/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "NEC - PC Engine / CD (Beetle PCE FAST)",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Bloody Wolf (USA).zip",
+      "label": "Bloody Wolf (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Blue Blink (Japan).pce",
+      "label": "Blue Blink (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Bomber Man '93 (USA).zip",
+      "label": "Bomber Man '93 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Bomber Man '94 (Japan).zip",
+      "label": "Bomber Man '94 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Bomber Man (USA).zip",
+      "label": "Bomber Man (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Bomberman '93 - Special Version (Japan).zip",
+      "label": "Bomberman '93 - Special Version (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Bomberman - Users Battle (Japan).zip",
+      "label": "Bomberman - Users Battle (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Bonk 3 - Bonk's Big Adventure (USA).zip",
+      "label": "Bonk 3 - Bonk's Big Adventure (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Bonk's Adventure (USA).zip",
+      "label": "Bonk's Adventure (USA)",
+      "core_path": "/tmp/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "NEC - PC Engine / CD (Beetle PCE FAST)",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Bonk's Revenge (USA).zip",
+      "label": "Bonk's Revenge (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Boxyboy (USA).zip",
+      "label": "Boxyboy (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Bravoman (USA).zip",
+      "label": "Bravoman (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Bubblegum Crash! - Knight Sabers 2034 (Japan).pce",
+      "label": "Bubblegum Crash! - Knight Sabers 2034 (Japan)",
+      "core_path": "/tmp/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "NEC - PC Engine / CD (Beetle PCE FAST)",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Cadash (USA).zip",
+      "label": "Cadash (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Champions Forever Boxing (USA).zip",
+      "label": "Champions Forever Boxing (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Chase H.Q. (USA).zip",
+      "label": "Chase H.Q. (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Chew-Man-Fu (USA).zip",
+      "label": "Chew-Man-Fu (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/China Warrior (USA).zip",
+      "label": "China Warrior (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/City Hunter (Japan).pce",
+      "label": "City Hunter (Japan)",
+      "core_path": "/tmp/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "NEC - PC Engine / CD (Beetle PCE FAST)",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Columns (Japan).zip",
+      "label": "Columns (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Coryoon - Child of Dragon (Japan).zip",
+      "label": "Coryoon - Child of Dragon (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Cratermaze (USA).zip",
+      "label": "Cratermaze (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Crest of Gaia (Japan).pce",
+      "label": "Crest of Gaia (Japan)",
+      "core_path": "/tmp/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "NEC - PC Engine / CD (Beetle PCE FAST)",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Cyber Core (USA).zip",
+      "label": "Cyber Core (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Darkwing Duck (USA).zip",
+      "label": "Darkwing Duck (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Davis Cup Tennis (USA).zip",
+      "label": "Davis Cup Tennis (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Dead Moon (USA).zip",
+      "label": "Dead Moon (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Deep Blue (USA).zip",
+      "label": "Deep Blue (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Demon Prince Dorabo (Japan).zip",
+      "label": "Demon Prince Dorabo (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Devil's Crush (USA).zip",
+      "label": "Devil's Crush (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Die Hard (Japan).zip",
+      "label": "Die Hard (Japan)",
+      "core_path": "/tmp/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "NEC - PC Engine / CD (Beetle PCE FAST)",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Double Dungeons (USA).zip",
+      "label": "Double Dungeons (USA)",
+      "core_path": "/tmp/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "NEC - PC Engine / CD (Beetle PCE FAST)",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Download (Japan).zip",
+      "label": "Download (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Dragon Egg! (Japan).zip",
+      "label": "Dragon Egg! (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Dragon Saber (Japan).zip",
+      "label": "Dragon Saber (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Dragon Spirit (USA).zip",
+      "label": "Dragon Spirit (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Dragon's Curse (USA).zip",
+      "label": "Dragon's Curse (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Drop Off (USA).zip",
+      "label": "Drop Off (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Dungeon Explorer (USA).zip",
+      "label": "Dungeon Explorer (USA)",
+      "core_path": "/tmp/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "NEC - PC Engine / CD (Beetle PCE FAST)",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Dungeons & Dragons - Order of the Griffon (USA).zip",
+      "label": "Dungeons & Dragons - Order of the Griffon (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Energy (Japan).pce",
+      "label": "Energy (Japan)",
+      "core_path": "/tmp/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "NEC - PC Engine / CD (Beetle PCE FAST)",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Falcon (USA).zip",
+      "label": "Falcon (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Fantasy Zone (USA).zip",
+      "label": "Fantasy Zone (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Final Lap Twin (USA).zip",
+      "label": "Final Lap Twin (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Final Match Tennis (Japan).pce",
+      "label": "Final Match Tennis (Japan)",
+      "core_path": "/tmp/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "NEC - PC Engine / CD (Beetle PCE FAST)",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Flying Trooper X-SERD (Japan).pce",
+      "label": "Flying Trooper X-SERD (Japan)",
+      "core_path": "/tmp/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "NEC - PC Engine / CD (Beetle PCE FAST)",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Galaga '90 (USA).zip",
+      "label": "Galaga '90 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Ghost Manor (USA).zip",
+      "label": "Ghost Manor (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Gomola Speed (Japan).zip",
+      "label": "Gomola Speed (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Gradius (Japan).zip",
+      "label": "Gradius (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Gunboat (USA).zip",
+      "label": "Gunboat (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Gunhed - Special Version (Japan).zip",
+      "label": "Gunhed - Special Version (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Hana Taaka Daka! (Japan).zip",
+      "label": "Hana Taaka Daka! (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Hanii in the Sky (Japan).zip",
+      "label": "Hanii in the Sky (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Hanii on the Road (Japan).zip",
+      "label": "Hanii on the Road (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Hit the Ice - VHL - The Official Video Hockey League (USA).zip",
+      "label": "Hit the Ice - VHL - The Official Video Hockey League (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Impossamole (USA).zip",
+      "label": "Impossamole (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/J.J. & Jeff (USA).zip",
+      "label": "J.J. & Jeff (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Jack Nicklaus' Turbo Golf (USA).zip",
+      "label": "Jack Nicklaus' Turbo Golf (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Jackie Chan's Action Kung Fu (USA).zip",
+      "label": "Jackie Chan's Action Kung Fu (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Keith Courage in Alpha Zones (USA).zip",
+      "label": "Keith Courage in Alpha Zones (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Kiki Kaikai (Japan).zip",
+      "label": "Kiki Kaikai (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/King of Casino (USA).zip",
+      "label": "King of Casino (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Klax (USA).zip",
+      "label": "Klax (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Knight Rider Special (Japan).zip",
+      "label": "Knight Rider Special (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Lady Sword (Japan).pce",
+      "label": "Lady Sword (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Legend of Hero Tonma (USA).zip",
+      "label": "Legend of Hero Tonma (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Legendary Axe II (USA).zip",
+      "label": "Legendary Axe II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Legendary Axe, The (USA).zip",
+      "label": "Legendary Axe, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Liquid Kids (Japan).zip",
+      "label": "Liquid Kids (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Lode Runner - Lost Labyrinth (Japan).pce",
+      "label": "Lode Runner - Lost Labyrinth (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Maerchen Maze (Japan).pce",
+      "label": "Maerchen Maze (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Magical Chase (USA).zip",
+      "label": "Magical Chase (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Maison Ikkoku (Japan).pce",
+      "label": "Maison Ikkoku (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Makai Hakkenden Shada (Japan).pce",
+      "label": "Makai Hakkenden Shada (Japan)",
+      "core_path": "/tmp/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "NEC - PC Engine / CD (Beetle PCE FAST)",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Metal Stoker (Japan).zip",
+      "label": "Metal Stoker (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Military Madness (USA).zip",
+      "label": "Military Madness (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Moto Roader (USA).zip",
+      "label": "Moto Roader (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Moto Roader II (Japan).zip",
+      "label": "Moto Roader II (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Mr. Heli (Japan).zip",
+      "label": "Mr. Heli (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Neutopia (USA).zip",
+      "label": "Neutopia (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Neutopia II (USA).zip",
+      "label": "Neutopia II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/New Adventure Island (USA).zip",
+      "label": "New Adventure Island (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/New Zealand Story (Japan).zip",
+      "label": "New Zealand Story (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Night Creatures (USA).zip",
+      "label": "Night Creatures (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Ninja Gaiden (Japan).pce",
+      "label": "Ninja Gaiden (Japan)",
+      "core_path": "/tmp/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "NEC - PC Engine / CD (Beetle PCE FAST)",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Ninja Spirit (USA).zip",
+      "label": "Ninja Spirit (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Ninja Warriors, The (Japan).zip",
+      "label": "Ninja Warriors, The (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Operation Wolf (Japan).zip",
+      "label": "Operation Wolf (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Ordyne (USA).zip",
+      "label": "Ordyne (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Out Live (Japan).pce",
+      "label": "Out Live (Japan)",
+      "core_path": "/tmp/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "NEC - PC Engine / CD (Beetle PCE FAST)",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Out Run (Japan).zip",
+      "label": "Out Run (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Pac-Land (USA).zip",
+      "label": "Pac-Land (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Parasol Stars - The Story of Bubble Bobble III (USA).zip",
+      "label": "Parasol Stars - The Story of Bubble Bobble III (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Parodius! From Myth to Laughter (Japan).zip",
+      "label": "Parodius! From Myth to Laughter (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Photograph Boy (Japan).pce",
+      "label": "Photograph Boy (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Power Drift (Japan).zip",
+      "label": "Power Drift (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Power Golf (USA).zip",
+      "label": "Power Golf (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Psycho Chaser (Japan).zip",
+      "label": "Psycho Chaser (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Psychosis (USA).zip",
+      "label": "Psychosis (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Puzzle Boy (Japan).pce",
+      "label": "Puzzle Boy (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Puzznic (Japan).zip",
+      "label": "Puzznic (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/R-Type (USA).zip",
+      "label": "R-Type (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Raiden (USA).zip",
+      "label": "Raiden (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Rastan Saga II (Japan).zip",
+      "label": "Rastan Saga II (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/S.C.I. - Special Criminal Investigation (Japan).zip",
+      "label": "S.C.I. - Special Criminal Investigation (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Salamander (Japan).zip",
+      "label": "Salamander (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Samurai-Ghost (USA).zip",
+      "label": "Samurai-Ghost (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Shanghai (Japan).pce",
+      "label": "Shanghai (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Shinobi (Japan).zip",
+      "label": "Shinobi (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Shockman (USA).zip",
+      "label": "Shockman (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Shockman 2 (Japan).zip",
+      "label": "Shockman 2 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/SideArms (USA).zip",
+      "label": "SideArms (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Silent Debuggers (USA).zip",
+      "label": "Silent Debuggers (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Sinistron (USA).zip",
+      "label": "Sinistron (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Skweek (Japan).zip",
+      "label": "Skweek (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Soldier Blade (USA).zip",
+      "label": "Soldier Blade (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Soldier Blade - Special Version (Japan).zip",
+      "label": "Soldier Blade - Special Version (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Somer Assault (USA).zip",
+      "label": "Somer Assault (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Son Son II (Japan).pce",
+      "label": "Son Son II (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Sonic Spike - World Championship Beach Volleyball (USA).zip",
+      "label": "Sonic Spike - World Championship Beach Volleyball (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Space Harrier (USA).zip",
+      "label": "Space Harrier (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Splatterhouse (Japan) (En).zip",
+      "label": "Splatterhouse (Japan) (En)",
+      "core_path": "/tmp/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "NEC - PC Engine / CD (Beetle PCE FAST)",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Splatterhouse (USA).zip",
+      "label": "Splatterhouse (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Street Fighter II' - Champion Edition (Japan).zip",
+      "label": "Street Fighter II' - Champion Edition (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Super Metal Crusher (Japan).zip",
+      "label": "Super Metal Crusher (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Super Star Soldier (USA).zip",
+      "label": "Super Star Soldier (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Super Volleyball (USA).zip",
+      "label": "Super Volleyball (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Takin' It to the Hoop (USA).zip",
+      "label": "Takin' It to the Hoop (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/TaleSpin (USA).zip",
+      "label": "TaleSpin (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Tatsujin (Japan).zip",
+      "label": "Tatsujin (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Tiger Road (USA).zip",
+      "label": "Tiger Road (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Time Cruise (USA).zip",
+      "label": "Time Cruise (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Timeball (USA).zip",
+      "label": "Timeball (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Tower of Druaga (Japan).pce",
+      "label": "Tower of Druaga (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Toy Shop Boys (Japan).zip",
+      "label": "Toy Shop Boys (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Tricky Kick (USA).zip",
+      "label": "Tricky Kick (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Turrican (USA).zip",
+      "label": "Turrican (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/TV Sports Basketball (USA).zip",
+      "label": "TV Sports Basketball (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/TV Sports Football (USA).zip",
+      "label": "TV Sports Football (USA)",
+      "core_path": "/tmp/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "NEC - PC Engine / CD (Beetle PCE FAST)",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/TV Sports Hockey (USA).zip",
+      "label": "TV Sports Hockey (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Valkyrie no Densetsu (Japan).pce",
+      "label": "Valkyrie no Densetsu (Japan)",
+      "core_path": "/tmp/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "NEC - PC Engine / CD (Beetle PCE FAST)",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Veigues - Tactical Gladiator (USA).zip",
+      "label": "Veigues - Tactical Gladiator (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Victory Run (USA).zip",
+      "label": "Victory Run (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Vigilante (USA).zip",
+      "label": "Vigilante (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/War of the Dead (Japan).pce",
+      "label": "War of the Dead (Japan)",
+      "core_path": "/tmp/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "NEC - PC Engine / CD (Beetle PCE FAST)",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Wonder Momo (Japan).zip",
+      "label": "Wonder Momo (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/WonderBoy In Monster Land (Japan).zip",
+      "label": "WonderBoy In Monster Land (Japan)",
+      "core_path": "/tmp/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "NEC - PC Engine / CD (Beetle PCE FAST)",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/World Class Baseball (USA).zip",
+      "label": "World Class Baseball (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/World Court Tennis (USA).zip",
+      "label": "World Court Tennis (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/World Sports Competition (USA).zip",
+      "label": "World Sports Competition (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Yo, Bro (USA).zip",
+      "label": "Yo, Bro (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Youkai Douchuuki (Japan).pce",
+      "label": "Youkai Douchuuki (Japan)",
+      "core_path": "/tmp/cores/mednafen_pce_fast_libretro.so",
+      "core_name": "NEC - PC Engine / CD (Beetle PCE FAST)",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    },
+    {
+      "path": "/storage/roms/TurboGrafX-16/Zipang (Japan).zip",
+      "label": "Zipang (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "NEC - PC Engine - TurboGrafx 16.lpl"
+    }
+  ]
+}

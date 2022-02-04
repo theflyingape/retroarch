@@ -1,0 +1,2307 @@
+{
+  "version": "1.5",
+  "default_core_path": "/tmp/cores/genesis_plus_gx_libretro.so",
+  "default_core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/storage/roms/Sega Master System/Ace of Aces (Europe, Brazil).zip",
+      "label": "Ace of Aces (Europe, Brazil)",
+      "core_path": "/tmp/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Action Fighter (USA, Europe, Brazil) (Rev 1).zip",
+      "label": "Action Fighter (USA, Europe, Brazil) (Rev 1)",
+      "core_path": "/tmp/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Addams Family, The (Europe).zip",
+      "label": "Addams Family, The (Europe)",
+      "core_path": "/tmp/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Aerial Assault (USA).zip",
+      "label": "Aerial Assault (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/After Burner (World).zip",
+      "label": "After Burner (World)",
+      "core_path": "/tmp/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Air Rescue (Europe, Brazil).zip",
+      "label": "Air Rescue (Europe, Brazil)",
+      "core_path": "/tmp/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Aladdin (Europe, Brazil).zip",
+      "label": "Aladdin (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Alex Kidd - High-Tech World (USA, Europe, Brazil).zip",
+      "label": "Alex Kidd - High-Tech World (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Alex Kidd - The Lost Stars (World).zip",
+      "label": "Alex Kidd - The Lost Stars (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Alex Kidd in Miracle World (USA, Europe, Brazil) (Rev 1).zip",
+      "label": "Alex Kidd in Miracle World (USA, Europe, Brazil) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Alex Kidd in Shinobi World (USA, Europe, Brazil).zip",
+      "label": "Alex Kidd in Shinobi World (USA, Europe, Brazil)",
+      "core_path": "/tmp/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Alf (USA).zip",
+      "label": "Alf (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Alien 3 (Europe, Brazil).zip",
+      "label": "Alien 3 (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Alien Storm (Europe, Brazil).zip",
+      "label": "Alien Storm (Europe, Brazil)",
+      "core_path": "/tmp/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Alien Syndrome (USA, Europe, Brazil).zip",
+      "label": "Alien Syndrome (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Altered Beast (USA, Europe, Brazil).zip",
+      "label": "Altered Beast (USA, Europe, Brazil)",
+      "core_path": "/tmp/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/American Baseball (Europe, Brazil).zip",
+      "label": "American Baseball (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/American Pro Football (Europe).zip",
+      "label": "American Pro Football (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Andre Agassi Tennis (Europe, Brazil).zip",
+      "label": "Andre Agassi Tennis (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Arcade Smash Hits (Europe).zip",
+      "label": "Arcade Smash Hits (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Assault City (Joypad) (Europe).zip",
+      "label": "Assault City (Joypad) (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Assault City (USA, Europe, Brazil) (Light Phaser).zip",
+      "label": "Assault City (USA, Europe, Brazil) (Light Phaser)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Asterix (Europe, Brazil) (Rev 1).zip",
+      "label": "Asterix (Europe, Brazil) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Asterix and the Great Rescue (Europe, Brazil).zip",
+      "label": "Asterix and the Great Rescue (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Asterix and the Secret Mission (Europe, Brazil).zip",
+      "label": "Asterix and the Secret Mission (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Astro Warrior & Pit Pot (Europe).zip",
+      "label": "Astro Warrior & Pit Pot (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Astro Warrior (Japan, USA, Brazil).zip",
+      "label": "Astro Warrior (Japan, USA, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Ayrton Senna's Super Monaco GP II (Europe, Brazil).zip",
+      "label": "Ayrton Senna's Super Monaco GP II (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Aztec Adventure (World).zip",
+      "label": "Aztec Adventure (World)",
+      "core_path": "/tmp/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Back to the Future Part II (Europe, Brazil).zip",
+      "label": "Back to the Future Part II (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Back to the Future Part III (Europe).zip",
+      "label": "Back to the Future Part III (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Bank Panic (Europe, Brazil).zip",
+      "label": "Bank Panic (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Basketball Nightmare (Europe, Brazil).zip",
+      "label": "Basketball Nightmare (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Batman Returns (Europe, Brazil).zip",
+      "label": "Batman Returns (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Battle Out Run (Europe, Brazil).zip",
+      "label": "Battle Out Run (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Black Belt (USA, Europe, Brazil).zip",
+      "label": "Black Belt (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Blade Eagle (World).zip",
+      "label": "Blade Eagle (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Bomber Raid (World).zip",
+      "label": "Bomber Raid (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Bonanza Bros. (Europe, Brazil).zip",
+      "label": "Bonanza Bros. (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Bram Stoker's Dracula (Europe).zip",
+      "label": "Bram Stoker's Dracula (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Bubble Bobble (Europe, Brazil).zip",
+      "label": "Bubble Bobble (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Buggy Run (Europe, Brazil).zip",
+      "label": "Buggy Run (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/California Games (USA, Europe, Brazil).zip",
+      "label": "California Games (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/California Games II (Europe).zip",
+      "label": "California Games II (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Captain Silver (USA).zip",
+      "label": "Captain Silver (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Casino Games (USA, Europe).zip",
+      "label": "Casino Games (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (Rev 1).zip",
+      "label": "Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Champions of Europe (Europe).zip",
+      "label": "Champions of Europe (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Championship Hockey (Europe).zip",
+      "label": "Championship Hockey (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Cheese Cat-astrophe Starring Speedy Gonzales (Europe, Brazil).zip",
+      "label": "Cheese Cat-astrophe Starring Speedy Gonzales (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Choplifter (USA, Europe, Brazil).zip",
+      "label": "Choplifter (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Chuck Rock (Europe, Brazil).zip",
+      "label": "Chuck Rock (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Chuck Rock II - Son of Chuck (Europe).zip",
+      "label": "Chuck Rock II - Son of Chuck (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Cloud Master (USA, Europe, Brazil).zip",
+      "label": "Cloud Master (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Columns (USA, Europe, Brazil).zip",
+      "label": "Columns (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Cool Spot (Europe).zip",
+      "label": "Cool Spot (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Cosmic Spacehead (Europe).zip",
+      "label": "Cosmic Spacehead (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Cyber Shinobi, The (Europe, Brazil).zip",
+      "label": "Cyber Shinobi, The (Europe, Brazil)",
+      "core_path": "/tmp/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Cyborg Hunter (USA, Europe, Brazil).zip",
+      "label": "Cyborg Hunter (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Daffy Duck in Hollywood (Europe, Brazil).zip",
+      "label": "Daffy Duck in Hollywood (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Danan - The Jungle Fighter (Europe, Brazil).zip",
+      "label": "Danan - The Jungle Fighter (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Dead Angle (USA, Europe, Brazil).zip",
+      "label": "Dead Angle (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Deep Duck Trouble Starring Donald Duck (Europe, Brazil).zip",
+      "label": "Deep Duck Trouble Starring Donald Duck (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe, Brazil).zip",
+      "label": "Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Desert Strike (Europe).zip",
+      "label": "Desert Strike (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Dick Tracy (USA, Europe, Brazil).zip",
+      "label": "Dick Tracy (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Double Dragon (World).zip",
+      "label": "Double Dragon (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Double Hawk (Europe).zip",
+      "label": "Double Hawk (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Dr. Robotnik's Mean Bean Machine (Europe, Brazil).zip",
+      "label": "Dr. Robotnik's Mean Bean Machine (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Dragon - The Bruce Lee Story (Europe).zip",
+      "label": "Dragon - The Bruce Lee Story (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Dragon Crystal (Europe, Brazil).zip",
+      "label": "Dragon Crystal (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Dynamite Duke (Europe, Brazil).zip",
+      "label": "Dynamite Duke (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Dynamite Dux (Europe, Brazil).zip",
+      "label": "Dynamite Dux (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/E-SWAT (USA, Europe, Brazil) (Rev 1).zip",
+      "label": "E-SWAT (USA, Europe, Brazil) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Ecco the Dolphin (Europe, Brazil).zip",
+      "label": "Ecco the Dolphin (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Enduro Racer (USA, Europe, Brazil).zip",
+      "label": "Enduro Racer (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/F-16 Fighting Falcon (USA).zip",
+      "label": "F-16 Fighting Falcon (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/F1 (Europe, Brazil).zip",
+      "label": "F1 (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Fantastic Dizzy (Europe).zip",
+      "label": "Fantastic Dizzy (Europe)",
+      "core_path": "/tmp/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Fantasy Zone (World) (Rev 1).zip",
+      "label": "Fantasy Zone (World) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Fantasy Zone - The Maze (USA, Europe, Brazil).zip",
+      "label": "Fantasy Zone - The Maze (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Fantasy Zone II (USA, Europe, Brazil).zip",
+      "label": "Fantasy Zone II (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/FIFA International Soccer (Brazil).zip",
+      "label": "FIFA International Soccer (Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Fire & Forget II (Europe).zip",
+      "label": "Fire & Forget II (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Flash, The (Europe, Brazil).zip",
+      "label": "Flash, The (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Flintstones, The (Europe, Brazil).zip",
+      "label": "Flintstones, The (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Forgotten Worlds (Europe, Brazil).zip",
+      "label": "Forgotten Worlds (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/G-LOC Air Battle (Europe, Brazil).zip",
+      "label": "G-LOC Air Battle (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Gain Ground (Europe, Brazil).zip",
+      "label": "Gain Ground (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Galaxy Force (USA).zip",
+      "label": "Galaxy Force (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Gangster Town (USA, Europe, Brazil).zip",
+      "label": "Gangster Town (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Gauntlet (Europe, Brazil).zip",
+      "label": "Gauntlet (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/George Foreman's KO Boxing (Europe, Brazil).zip",
+      "label": "George Foreman's KO Boxing (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Ghost House (USA, Europe, Brazil).zip",
+      "label": "Ghost House (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Ghostbusters (USA, Europe, Brazil).zip",
+      "label": "Ghostbusters (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Ghouls'n Ghosts (USA, Europe, Brazil).zip",
+      "label": "Ghouls'n Ghosts (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Global Defense (USA, Europe, Brazil).zip",
+      "label": "Global Defense (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Global Gladiators (Europe, Brazil).zip",
+      "label": "Global Gladiators (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Golden Axe (USA, Europe, Brazil).zip",
+      "label": "Golden Axe (USA, Europe, Brazil)",
+      "core_path": "/tmp/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Golden Axe Warrior (USA, Europe, Brazil).zip",
+      "label": "Golden Axe Warrior (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Golfamania (Europe, Brazil).zip",
+      "label": "Golfamania (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Golvellius - Valley of Doom (USA, Europe, Brazil).zip",
+      "label": "Golvellius - Valley of Doom (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/GP Rider (Europe, Brazil).zip",
+      "label": "GP Rider (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Great Baseball (USA, Europe).zip",
+      "label": "Great Baseball (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Great Basketball (World).zip",
+      "label": "Great Basketball (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Great Football (World).zip",
+      "label": "Great Football (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Great Golf (World).zip",
+      "label": "Great Golf (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Great Ice Hockey (Japan, USA).zip",
+      "label": "Great Ice Hockey (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Great Soccer (Europe).zip",
+      "label": "Great Soccer (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Great Soccer (World).zip",
+      "label": "Great Soccer (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Great Volleyball (USA, Europe, Brazil).zip",
+      "label": "Great Volleyball (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Hang On & Astro Warrior (USA).zip",
+      "label": "Hang On & Astro Warrior (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Hang On (Europe).zip",
+      "label": "Hang On (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Hang-On & Safari Hunt (USA).zip",
+      "label": "Hang-On & Safari Hunt (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Heavyweight Champ (Europe).zip",
+      "label": "Heavyweight Champ (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Heroes of the Lance (Europe, Brazil).zip",
+      "label": "Heroes of the Lance (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/High School! Kimengumi (Japan).sms",
+      "label": "High School! Kimengumi (Japan)",
+      "core_path": "/tmp/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Home Alone (Europe).zip",
+      "label": "Home Alone (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Hoshi wo Sagasite... (Japan).sms",
+      "label": "Hoshi wo Sagasite... (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Impossible Mission (Europe, Brazil).zip",
+      "label": "Impossible Mission (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Incredible Crash Dummies, The (Europe, Brazil).zip",
+      "label": "Incredible Crash Dummies, The (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Incredible Hulk, The (Europe, Brazil).zip",
+      "label": "Incredible Hulk, The (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Indiana Jones and the Last Crusade (Europe, Brazil).zip",
+      "label": "Indiana Jones and the Last Crusade (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/James 'Buster' Douglas Knockout Boxing (USA).zip",
+      "label": "James 'Buster' Douglas Knockout Boxing (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/James Bond 007 - The Duel (Europe).zip",
+      "label": "James Bond 007 - The Duel (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/James Pond 2 - Codename RoboCod (Europe, Brazil).zip",
+      "label": "James Pond 2 - Codename RoboCod (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Joe Montana Football (USA, Europe, Brazil).zip",
+      "label": "Joe Montana Football (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Jungle Book, The (Europe, Brazil).zip",
+      "label": "Jungle Book, The (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Jurassic Park (Europe, Brazil).zip",
+      "label": "Jurassic Park (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Kenseiden (USA, Europe, Brazil).zip",
+      "label": "Kenseiden (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/King's Quest - Quest for the Crown (USA).zip",
+      "label": "King's Quest - Quest for the Crown (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/KLAX (Europe).zip",
+      "label": "KLAX (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Krusty's Fun House (Europe, Brazil).zip",
+      "label": "Krusty's Fun House (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Kung Fu Kid (USA, Europe, Brazil).zip",
+      "label": "Kung Fu Kid (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Land of Illusion Starring Mickey Mouse (Europe, Brazil).zip",
+      "label": "Land of Illusion Starring Mickey Mouse (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Laser Ghost (Europe).zip",
+      "label": "Laser Ghost (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Lemmings (Europe, Brazil).zip",
+      "label": "Lemmings (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Line of Fire (Europe, Brazil).zip",
+      "label": "Line of Fire (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Lion King, The (Europe, Brazil).zip",
+      "label": "Lion King, The (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Lord of the Sword (USA, Europe, Brazil).zip",
+      "label": "Lord of the Sword (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil).zip",
+      "label": "Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Marble Madness (Europe).zip",
+      "label": "Marble Madness (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Marksman Shooting & Trap Shooting & Safari Hunt (Europe).zip",
+      "label": "Marksman Shooting & Trap Shooting & Safari Hunt (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Marksman Shooting & Trap Shooting (USA, Brazil).zip",
+      "label": "Marksman Shooting & Trap Shooting (USA, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Master of Darkness (Europe, Brazil).zip",
+      "label": "Master of Darkness (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Masters of Combat (Europe, Brazil).zip",
+      "label": "Masters of Combat (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Maze Hunter 3-D (USA, Europe, Brazil).zip",
+      "label": "Maze Hunter 3-D (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Mercs (Europe, Brazil).zip",
+      "label": "Mercs (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Michael Jackson's Moonwalker (USA, Europe, Brazil).zip",
+      "label": "Michael Jackson's Moonwalker (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Micro Machines (Europe).zip",
+      "label": "Micro Machines (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Miracle Warriors - Seal of the Dark Lord (USA, Europe, Brazil).zip",
+      "label": "Miracle Warriors - Seal of the Dark Lord (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Missile Defense 3-D (USA, Europe, Brazil).zip",
+      "label": "Missile Defense 3-D (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Monopoly (USA).zip",
+      "label": "Monopoly (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Montezuma's Revenge featuring Panama Joe (USA).zip",
+      "label": "Montezuma's Revenge featuring Panama Joe (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Mortal Kombat (Europe, Brazil).zip",
+      "label": "Mortal Kombat (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Mortal Kombat II (Europe, Brazil).zip",
+      "label": "Mortal Kombat II (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Ms. Pac-Man (Europe, Brazil).zip",
+      "label": "Ms. Pac-Man (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/My Hero (USA, Europe, Brazil).zip",
+      "label": "My Hero (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/NewZealand Story, The (Europe).zip",
+      "label": "NewZealand Story, The (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Ninja Gaiden (Europe, Brazil).zip",
+      "label": "Ninja Gaiden (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Ninja, The (USA, Europe, Brazil).zip",
+      "label": "Ninja, The (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Olympic Gold (Europe).zip",
+      "label": "Olympic Gold (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Operation Wolf (Europe, Brazil).zip",
+      "label": "Operation Wolf (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Ottifants, The (Europe, Brazil).zip",
+      "label": "Ottifants, The (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/OutRun (World).zip",
+      "label": "OutRun (World)",
+      "core_path": "/tmp/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/OutRun 3-D (Europe, Brazil).zip",
+      "label": "OutRun 3-D (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/OutRun Europa (Europe, Brazil).zip",
+      "label": "OutRun Europa (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Pac-Mania (Europe).zip",
+      "label": "Pac-Mania (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Paperboy (USA, Brazil).zip",
+      "label": "Paperboy (USA, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Parlour Games (USA, Europe).zip",
+      "label": "Parlour Games (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Penguin Land (USA, Europe).zip",
+      "label": "Penguin Land (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/PGA Tour Golf (Europe).zip",
+      "label": "PGA Tour Golf (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Phantasy Star (Japan).sms",
+      "label": "Phantasy Star (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Phantasy Star (USA, Europe) (Rev 1).zip",
+      "label": "Phantasy Star (USA, Europe) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Pit-Fighter (Europe).zip",
+      "label": "Pit-Fighter (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Populous (Europe, Brazil).zip",
+      "label": "Populous (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Poseidon Wars 3-D (USA, Europe, Brazil).zip",
+      "label": "Poseidon Wars 3-D (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Power Strike (USA, Europe, Brazil).zip",
+      "label": "Power Strike (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Power Strike II (Europe, Brazil).zip",
+      "label": "Power Strike II (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Predator 2 (Europe).zip",
+      "label": "Predator 2 (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Prince of Persia (Europe, Brazil).zip",
+      "label": "Prince of Persia (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Pro Wrestling (USA, Europe, Brazil).zip",
+      "label": "Pro Wrestling (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Psychic World (Europe, Brazil).zip",
+      "label": "Psychic World (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Psycho Fox (USA, Europe, Brazil).zip",
+      "label": "Psycho Fox (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Putt & Putter Minigolf (Europe, Brazil).zip",
+      "label": "Putt & Putter Minigolf (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Quartet (USA, Europe).zip",
+      "label": "Quartet (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/R-Type (World).zip",
+      "label": "R-Type (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/R.C. Grand Prix (USA, Europe, Brazil).zip",
+      "label": "R.C. Grand Prix (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Rainbow Islands (Europe).zip",
+      "label": "Rainbow Islands (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Rambo - First Blood Part II (USA).zip",
+      "label": "Rambo - First Blood Part II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Rambo III (USA, Europe, Brazil).zip",
+      "label": "Rambo III (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Rampage (USA, Europe, Brazil).zip",
+      "label": "Rampage (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Rampart (Europe).zip",
+      "label": "Rampart (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Rastan (USA, Europe, Brazil).zip",
+      "label": "Rastan (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Reggie Jackson Baseball (USA).zip",
+      "label": "Reggie Jackson Baseball (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Renegade (Europe, Brazil).zip",
+      "label": "Renegade (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Rescue Mission (USA, Europe, Brazil).zip",
+      "label": "Rescue Mission (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Road Rash (Europe, Brazil).zip",
+      "label": "Road Rash (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/RoboCop 3 (Europe, Brazil).zip",
+      "label": "RoboCop 3 (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/RoboCop versus The Terminator (Europe, Brazil).zip",
+      "label": "RoboCop versus The Terminator (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Rocky (World).zip",
+      "label": "Rocky (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Running Battle (Europe, Brazil).zip",
+      "label": "Running Battle (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Sagaia (Europe, Brazil).zip",
+      "label": "Sagaia (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Scramble Spirits (Europe, Brazil).zip",
+      "label": "Scramble Spirits (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Secret Command (Europe).zip",
+      "label": "Secret Command (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Sega Chess (Europe, Brazil).zip",
+      "label": "Sega Chess (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Sega World Tournament Golf (Europe, Brazil).zip",
+      "label": "Sega World Tournament Golf (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Sensible Soccer (Europe).zip",
+      "label": "Sensible Soccer (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Shadow Dancer - The Secret of Shinobi ~ Shadow Dancer (Europe, Brazil).zip",
+      "label": "Shadow Dancer - The Secret of Shinobi ~ Shadow Dancer (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Shadow of the Beast (Europe, Brazil).zip",
+      "label": "Shadow of the Beast (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Shanghai (USA, Europe).zip",
+      "label": "Shanghai (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Shinobi (USA, Europe, Brazil) (Rev 1).zip",
+      "label": "Shinobi (USA, Europe, Brazil) (Rev 1)",
+      "core_path": "/tmp/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Shooting Gallery (USA, Europe, Brazil).zip",
+      "label": "Shooting Gallery (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Simpsons, The - Bart vs. the Space Mutants (Europe, Brazil).zip",
+      "label": "Simpsons, The - Bart vs. the Space Mutants (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Simpsons, The - Bart vs. the World (Europe, Brazil).zip",
+      "label": "Simpsons, The - Bart vs. the World (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Slap Shot (USA, Brazil).zip",
+      "label": "Slap Shot (USA, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Smurfs Travel the World (Europe).zip",
+      "label": "Smurfs Travel the World (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Smurfs, The (Europe, Brazil).zip",
+      "label": "Smurfs, The (Europe, Brazil)",
+      "core_path": "/tmp/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Sonic Chaos (Europe, Brazil).zip",
+      "label": "Sonic Chaos (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Sonic Spinball (Europe, Brazil).zip",
+      "label": "Sonic Spinball (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Sonic The Hedgehog (USA, Europe, Brazil).zip",
+      "label": "Sonic The Hedgehog (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Sonic The Hedgehog 2 (Europe, Brazil) (Rev 1).zip",
+      "label": "Sonic The Hedgehog 2 (Europe, Brazil) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Space Gun (Europe).zip",
+      "label": "Space Gun (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Space Harrier (Japan, USA).zip",
+      "label": "Space Harrier (Japan, USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Space Harrier 3-D (USA, Europe, Brazil).zip",
+      "label": "Space Harrier 3-D (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Special Criminal Investigation (Europe).zip",
+      "label": "Special Criminal Investigation (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Speedball (Europe) (Rev 1).zip",
+      "label": "Speedball (Europe) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Speedball 2 (Europe).zip",
+      "label": "Speedball 2 (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/SpellCaster (USA, Europe, Brazil).zip",
+      "label": "SpellCaster (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Spider-Man (USA, Europe, Brazil).zip",
+      "label": "Spider-Man (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Spider-Man - Return of the Sinister Six (Europe, Brazil).zip",
+      "label": "Spider-Man - Return of the Sinister Six (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Sports Pad Football (USA).zip",
+      "label": "Sports Pad Football (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Spy vs Spy (USA, Europe, Brazil).zip",
+      "label": "Spy vs Spy (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Star Wars (Europe, Brazil).zip",
+      "label": "Star Wars (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Streets of Rage (Europe, Brazil).zip",
+      "label": "Streets of Rage (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Streets of Rage II (Europe, Brazil).zip",
+      "label": "Streets of Rage II (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Strider (USA, Europe, Brazil).zip",
+      "label": "Strider (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Strider II (Europe, Brazil).zip",
+      "label": "Strider II (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Submarine Attack (Europe, Brazil).zip",
+      "label": "Submarine Attack (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan).sms",
+      "label": "Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Summer Games (Europe, Brazil).zip",
+      "label": "Summer Games (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Super Kick Off (Europe, Brazil).zip",
+      "label": "Super Kick Off (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Super Monaco GP (USA).zip",
+      "label": "Super Monaco GP (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Super Off Road (Europe).zip",
+      "label": "Super Off Road (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Super Smash T.V. (Europe).zip",
+      "label": "Super Smash T.V. (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Super Space Invaders (Europe).zip",
+      "label": "Super Space Invaders (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Super Tennis (USA, Europe).zip",
+      "label": "Super Tennis (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Superman - The Man of Steel (Europe, Brazil).zip",
+      "label": "Superman - The Man of Steel (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/T2 - The Arcade Game (Europe).zip",
+      "label": "T2 - The Arcade Game (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Taito Chase H.Q. (Europe).zip",
+      "label": "Taito Chase H.Q. (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Taz-Mania (Europe, Brazil).zip",
+      "label": "Taz-Mania (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Tecmo World Cup '93 (Europe).zip",
+      "label": "Tecmo World Cup '93 (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Teddy Boy (USA, Europe, Brazil).zip",
+      "label": "Teddy Boy (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Tennis Ace (Europe, Brazil).zip",
+      "label": "Tennis Ace (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Terminator 2 - Judgment Day (Europe).zip",
+      "label": "Terminator 2 - Judgment Day (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Terminator, The (Europe).zip",
+      "label": "Terminator, The (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Thunder Blade (USA, Europe, Brazil).zip",
+      "label": "Thunder Blade (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Time Soldiers (USA, Europe, Brazil).zip",
+      "label": "Time Soldiers (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Tom and Jerry - The Movie (Europe, Brazil).zip",
+      "label": "Tom and Jerry - The Movie (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/TransBot (USA, Europe, Brazil).zip",
+      "label": "TransBot (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Trivial Pursuit - Genus Edition (Europe).zip",
+      "label": "Trivial Pursuit - Genus Edition (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Ultima IV - Quest of the Avatar (Europe, Brazil).zip",
+      "label": "Ultima IV - Quest of the Avatar (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Ultimate Soccer (Europe, Brazil).zip",
+      "label": "Ultimate Soccer (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Vigilante (USA, Europe, Brazil).zip",
+      "label": "Vigilante (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Walter Payton Football (USA).zip",
+      "label": "Walter Payton Football (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Wanted (USA, Europe, Brazil).zip",
+      "label": "Wanted (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Where in the World is Carmen Sandiego (USA).zip",
+      "label": "Where in the World is Carmen Sandiego (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Wimbledon (Europe).zip",
+      "label": "Wimbledon (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Wimbledon II (Europe, Brazil).zip",
+      "label": "Wimbledon II (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Winter Olympics (Europe).zip",
+      "label": "Winter Olympics (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Wolfchild (Europe, Brazil).zip",
+      "label": "Wolfchild (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Wonder Boy (USA, Europe, Brazil) (Rev 1).zip",
+      "label": "Wonder Boy (USA, Europe, Brazil) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Wonder Boy III - The Dragon's Trap (USA, Europe).zip",
+      "label": "Wonder Boy III - The Dragon's Trap (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Wonder Boy in Monster Land (USA, Europe).zip",
+      "label": "Wonder Boy in Monster Land (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Wonder Boy in Monster World (Europe).zip",
+      "label": "Wonder Boy in Monster World (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/World Class Leader Board (Europe, Brazil).zip",
+      "label": "World Class Leader Board (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/World Cup Italia '90 (Europe, Brazil).zip",
+      "label": "World Cup Italia '90 (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/World Cup USA 94 (Europe, Brazil).zip",
+      "label": "World Cup USA 94 (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/World Games (Europe, Brazil).zip",
+      "label": "World Games (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/World Grand Prix (USA, Brazil).zip",
+      "label": "World Grand Prix (USA, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/WWF Wrestlemania - Steel Cage Challenge (Europe, Brazil).zip",
+      "label": "WWF Wrestlemania - Steel Cage Challenge (Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Xenon 2 - Megablast (Europe) (Rev 1).zip",
+      "label": "Xenon 2 - Megablast (Europe) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Ys - The Vanished Omens (USA, Europe, Brazil).zip",
+      "label": "Ys - The Vanished Omens (USA, Europe, Brazil)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Zaxxon 3-D (World).zip",
+      "label": "Zaxxon 3-D (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Zillion (USA, Europe) (Rev 1).zip",
+      "label": "Zillion (USA, Europe) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Zillion II - The Tri Formation (World).zip",
+      "label": "Zillion II - The Tri Formation (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    },
+    {
+      "path": "/storage/roms/Sega Master System/Zool - Ninja of the 'Nth' Dimension (Europe).zip",
+      "label": "Zool - Ninja of the 'Nth' Dimension (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Master System - Mark III.lpl"
+    }
+  ]
+}

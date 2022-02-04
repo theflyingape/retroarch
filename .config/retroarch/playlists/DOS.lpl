@@ -1,0 +1,259 @@
+{
+  "version": "1.5",
+  "default_core_path": "/tmp/cores/dosbox_pure_libretro.so",
+  "default_core_name": "DOS (DOSBox-Pure)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/storage/roms/DOS/Abuse (1995)(Crack Dot Com).zip",
+      "label": "Abuse (1995)",
+      "core_path": "/tmp/cores/dosbox_pure_libretro.so",
+      "core_name": "DOS (DOSBox-Pure)",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/storage/roms/DOS/Albion (1996)(Blue Byte).zip",
+      "label": "Albion (1996)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/storage/roms/DOS/Alien Carnage (1993)(Apogee Software)(Rev).zip",
+      "label": "Alien Carnage (1993)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/storage/roms/DOS/Alone In The Dark (1992)(Interplay).zip",
+      "label": "Alone in the Dark (1992)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/storage/roms/DOS/Alter Ego Male (1986)(Activision Publishing Inc).zip",
+      "label": "Alter Ego (1986)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/storage/roms/DOS/Battle Chess (1989)(Interplay).zip",
+      "label": "Battle Chess (1989)",
+      "core_path": "/tmp/cores/dosbox_pure_libretro.so",
+      "core_name": "DOS (DOSBox-Pure)",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/storage/roms/DOS/Betrayal At Krondor (1993)(Sierra Online).zip",
+      "label": "Betrayal At Krondor (1993)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/storage/roms/DOS/Blood (1997)(Monolith).zip",
+      "label": "Blood (1997)",
+      "core_path": "/tmp/cores/dosbox_pure_libretro.so",
+      "core_name": "DOS (DOSBox-Pure)",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/storage/roms/DOS/Blood Bowl (1995)(Microleague).zip",
+      "label": "Blood Bowl (1995)(Microleague)",
+      "core_path": "/tmp/cores/dosbox_pure_libretro.so",
+      "core_name": "DOS (DOSBox-Pure)",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/storage/roms/DOS/Budokan The Martial Spirit (1989)(Electronic Arts Inc).zip",
+      "label": "Budokan The Martial Spirit (1989)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/storage/roms/DOS/Civilization Master Edition (1993)(Microprose Software).zip",
+      "label": "Civilization Master Edition (1993)",
+      "core_path": "/tmp/cores/dosbox_pure_libretro.so",
+      "core_name": "DOS (DOSBox-Pure)",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/storage/roms/DOS/Command and Conquer Red Alert (1996)(Westwood Studios).zip",
+      "label": "Command & Conquer: Red Alert",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/storage/roms/DOS/bball/BBALL.EXE",
+      "label": "Deluxe Three Point Basketball",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1BBC33FC|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/storage/roms/DOS/dnd/DND.EXE",
+      "label": "DND",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "79E6A4CF|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/storage/roms/DOS/Doom (1993)(Id Software).zip",
+      "label": "Doom",
+      "core_path": "/tmp/cores/dosbox_pure_libretro.so",
+      "core_name": "DOS (DOSBox-Pure)",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/storage/roms/DOS/Epic Baseball (1995)(Micro League).zip",
+      "label": "Epic Baseball (Micro League)",
+      "core_path": "/tmp/cores/dosbox_pure_libretro.so",
+      "core_name": "DOS (DOSBox-Pure)",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/storage/roms/DOS/Epic Pinball Enhanced (1995)(Epic Megagames).zip",
+      "label": "Epic Pinball Enhanced",
+      "core_path": "/tmp/cores/dosbox_pure_libretro.so",
+      "core_name": "DOS (DOSBox-Pure)",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/storage/roms/DOS/Front Page Sports Football Pro 96 Season (1995)(Sierra Online).zip",
+      "label": "Front Page Sports Football Pro 96 Season (1995)(Sierra Online)",
+      "core_path": "/tmp/cores/dosbox_pure_libretro.so",
+      "core_name": "DOS (DOSBox-Pure)",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/storage/roms/DOS/lotr/1/lord.exe",
+      "label": "J.R.R. Tolkien's The Lord of the Rings, Vol. I",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ACE12C16|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/storage/roms/DOS/lotr/2/towers.exe",
+      "label": "J.R.R. Tolkien's The Lord of the Rings, Vol. II- The Two Towers",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CA20CA3B|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/storage/roms/DOS/jazzxmas/JAZZ.EXE",
+      "label": "Jazz Jackrabbit Christmas Edition",
+      "core_path": "/tmp/cores/dosbox_pure_libretro.so",
+      "core_name": "DOS (DOSBox-Pure)",
+      "crc32": "6C91A6EC|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/storage/roms/DOS/Net Hack 3.22 (1996)(M Stephenson).zip",
+      "label": "Net Hack",
+      "core_path": "/tmp/cores/dosbox_pure_libretro.so",
+      "core_name": "DOS (DOSBox-Pure)",
+      "crc32": "C69A3E99|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/storage/roms/DOS/Scorched Earth (1995)(Wendell Hicken).zip",
+      "label": "Scorched Earth",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/storage/roms/DOS/Sim City (1989)(Broderbund).zip",
+      "label": "Sim City",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/storage/roms/DOS/trw/logon.exe",
+      "label": "The Rhode Warrior BBS",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3F16AC43|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/storage/roms/DOS/tyrian/TYRIAN.EXE",
+      "label": "Tyrian",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3F16AC43|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/storage/roms/DOS/tyrian/FILE0002.EXE",
+      "label": "Tyrian 2000",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AAB4C398|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/storage/roms/DOS/Ultima Underworld 1 The Stygian Abyss (1992)(Blue Sky Productions).zip",
+      "label": "Ultima Underworld",
+      "core_path": "/tmp/cores/dosbox_pure_libretro.so",
+      "core_name": "DOS (DOSBox-Pure)",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/storage/roms/DOS/ultima7/blckgate/ultima7.com",
+      "label": "Ultima VII- The Black Gate",
+      "core_path": "/tmp/cores/dosbox_pure_libretro.so",
+      "core_name": "DOS (DOSBox-Pure)",
+      "crc32": "E79371F8|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/storage/roms/DOS/Warcraft 2 Tides Of Darkness (1995)(Blizzard Entertainment).zip",
+      "label": "WarCraft II: Tides of Darkness",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "59A87A0F|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/storage/roms/DOS/Warcraft Orcs And Humans 1.2 (1994)(Blizzard Entertainment).zip",
+      "label": "WarCraft: Orcs & Humans",
+      "core_path": "/tmp/cores/dosbox_pure_libretro.so",
+      "core_name": "DOS (DOSBox-Pure)",
+      "crc32": "FC27BFE6|crc",
+      "db_name": "DOS.lpl"
+    }
+  ]
+}

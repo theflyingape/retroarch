@@ -1,0 +1,2595 @@
+{
+  "version": "1.5",
+  "default_core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+  "default_core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/storage/roms/Nintendo 64/007 - The World Is Not Enough (USA).zip",
+      "label": "007 - The World Is Not Enough (USA)",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/1080 Snowboarding (Japan, USA).zip",
+      "label": "1080 Snowboarding (Japan, USA)",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/AeroFighters Assault (USA).zip",
+      "label": "AeroFighters Assault (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/AeroGauge (USA).zip",
+      "label": "AeroGauge (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Aidyn Chronicles - The First Mage (USA) (Rev 1).zip",
+      "label": "Aidyn Chronicles - The First Mage (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Airboarder 64 (Europe).zip",
+      "label": "Airboarder 64 (Europe)",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/All Star Tennis 99 (USA).zip",
+      "label": "All Star Tennis 99 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/All-Star Baseball 2000 (USA).zip",
+      "label": "All-Star Baseball 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/All-Star Baseball 2001 (USA).zip",
+      "label": "All-Star Baseball 2001 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/All-Star Baseball 99 (USA).zip",
+      "label": "All-Star Baseball 99 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Animal Crossing (Japan).zip",
+      "label": "Animal Crossing (Japan)",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Armorines - Project S.W.A.R.M. (USA).zip",
+      "label": "Armorines - Project S.W.A.R.M. (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Army Men - Air Combat (USA).zip",
+      "label": "Army Men - Air Combat (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Army Men - Sarge's Heroes (USA).zip",
+      "label": "Army Men - Sarge's Heroes (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Army Men - Sarge's Heroes 2 (USA).zip",
+      "label": "Army Men - Sarge's Heroes 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Asteroids Hyper 64 (USA).zip",
+      "label": "Asteroids Hyper 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Automobili Lamborghini (USA).zip",
+      "label": "Automobili Lamborghini (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Banjo-Kazooie (USA) (Rev 1).zip",
+      "label": "Banjo-Kazooie (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Banjo-Tooie (USA).zip",
+      "label": "Banjo-Tooie (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Bassmasters 2000 (USA).zip",
+      "label": "Bassmasters 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Batman Beyond - Return of the Joker (USA).zip",
+      "label": "Batman Beyond - Return of the Joker (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/BattleTanx (USA).zip",
+      "label": "BattleTanx (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/BattleTanx - Global Assault (USA).zip",
+      "label": "BattleTanx - Global Assault (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Battlezone - Rise of the Black Dogs (USA).zip",
+      "label": "Battlezone - Rise of the Black Dogs (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Beetle Adventure Racing! (USA).zip",
+      "label": "Beetle Adventure Racing! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Big Mountain 2000 (USA).zip",
+      "label": "Big Mountain 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Bio F.R.E.A.K.S. (USA).zip",
+      "label": "Bio F.R.E.A.K.S. (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Blast Corps (USA) (Rev 1).zip",
+      "label": "Blast Corps (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Blues Brothers 2000 (USA).zip",
+      "label": "Blues Brothers 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Body Harvest (USA).zip",
+      "label": "Body Harvest (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Bomberman - Arcade Edition (Japan).zip",
+      "label": "Bomberman - Arcade Edition (Japan)",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Bomberman 64 (USA).zip",
+      "label": "Bomberman 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Bomberman 64 - The Second Attack! (USA).zip",
+      "label": "Bomberman 64 - The Second Attack! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Bomberman Hero (USA).zip",
+      "label": "Bomberman Hero (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Bottom of the 9th (USA).zip",
+      "label": "Bottom of the 9th (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Brunswick Circuit Pro Bowling (USA).zip",
+      "label": "Brunswick Circuit Pro Bowling (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Buck Bumble (USA).zip",
+      "label": "Buck Bumble (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Bug's Life, A (USA).zip",
+      "label": "Bug's Life, A (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Bust-A-Move '99 (USA).zip",
+      "label": "Bust-A-Move '99 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Bust-A-Move 2 - Arcade Edition (USA).zip",
+      "label": "Bust-A-Move 2 - Arcade Edition (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Bust-A-Move 3 DX (Europe).zip",
+      "label": "Bust-A-Move 3 DX (Europe)",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/California Speed (USA).zip",
+      "label": "California Speed (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Carmageddon 64 (USA).zip",
+      "label": "Carmageddon 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Castlevania (USA) (Rev 2).zip",
+      "label": "Castlevania (USA) (Rev 2)",
+      "core_path": "/home/rhurst/.config/retroarch/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Castlevania - Legacy of Darkness (USA).zip",
+      "label": "Castlevania - Legacy of Darkness (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Chameleon Twist (Japan).zip",
+      "label": "Chameleon Twist (Japan)",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Chameleon Twist (USA) (Rev 1).zip",
+      "label": "Chameleon Twist (USA) (Rev 1)",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Chameleon Twist 2 (USA).zip",
+      "label": "Chameleon Twist 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Charlie Blast's Territory (USA).zip",
+      "label": "Charlie Blast's Territory (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Chopper Attack (USA).zip",
+      "label": "Chopper Attack (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Clay Fighter - Sculptor's Cut (USA).zip",
+      "label": "Clay Fighter - Sculptor's Cut (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Clay Fighter 63 1-3 (USA).zip",
+      "label": "Clay Fighter 63 1-3 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Command & Conquer (USA).zip",
+      "label": "Command & Conquer (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Conker's Bad Fur Day (USA).zip",
+      "label": "Conker's Bad Fur Day (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Cruis'n Exotica (USA).zip",
+      "label": "Cruis'n Exotica (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Cruis'n USA (USA) (Rev 2).zip",
+      "label": "Cruis'n USA (USA) (Rev 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Cruis'n World (USA).zip",
+      "label": "Cruis'n World (USA)",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Custom Robo (Japan).zip",
+      "label": "Custom Robo (Japan)",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/CyberTiger (USA).zip",
+      "label": "CyberTiger (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Dark Rift (USA).zip",
+      "label": "Dark Rift (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Deadly Arts (USA).zip",
+      "label": "Deadly Arts (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Densha de Go! 64 (Japan).zip",
+      "label": "Densha de Go! 64 (Japan)",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Destruction Derby 64 (USA).zip",
+      "label": "Destruction Derby 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Diddy Kong Racing (USA) (Rev 1).zip",
+      "label": "Diddy Kong Racing (USA) (Rev 1)",
+      "core_path": "/home/rhurst/.config/retroarch/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Donald Duck - Goin' Quackers (USA).zip",
+      "label": "Donald Duck - Goin' Quackers (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Donkey Kong 64 (USA).zip",
+      "label": "Donkey Kong 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Doom 64 (USA) (Rev 1).zip",
+      "label": "Doom 64 (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Dr. Mario 64 (USA).zip",
+      "label": "Dr. Mario 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Dual Heroes (USA).zip",
+      "label": "Dual Heroes (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Duck Dodgers Starring Daffy Duck (USA).zip",
+      "label": "Duck Dodgers Starring Daffy Duck (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Duke Nukem - Zero Hour (USA).zip",
+      "label": "Duke Nukem - Zero Hour (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Duke Nukem 64 (USA).zip",
+      "label": "Duke Nukem 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Earthworm Jim 3D (USA).zip",
+      "label": "Earthworm Jim 3D (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/ECW Hardcore Revolution (USA).zip",
+      "label": "ECW Hardcore Revolution (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Excitebike 64 (USA) (Rev 1).zip",
+      "label": "Excitebike 64 (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Extreme-G (USA).zip",
+      "label": "Extreme-G (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Extreme-G XG2 (USA).zip",
+      "label": "Extreme-G XG2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/F-1 World Grand Prix (USA).zip",
+      "label": "F-1 World Grand Prix (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/F-Zero X (USA).zip",
+      "label": "F-Zero X (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/F1 Pole Position 64 (USA).zip",
+      "label": "F1 Pole Position 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/FIFA - Road to World Cup 98 (USA).zip",
+      "label": "FIFA - Road to World Cup 98 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/FIFA 99 (USA).zip",
+      "label": "FIFA 99 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/FIFA Soccer 64 (USA).zip",
+      "label": "FIFA Soccer 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Fighter Destiny 2 (USA).zip",
+      "label": "Fighter Destiny 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Fighters Destiny (USA).zip",
+      "label": "Fighters Destiny (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Fighting Force 64 (USA).zip",
+      "label": "Fighting Force 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Flying Dragon (USA).zip",
+      "label": "Flying Dragon (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Forsaken 64 (USA).zip",
+      "label": "Forsaken 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Fox Sports College Hoops '99 (USA).zip",
+      "label": "Fox Sports College Hoops '99 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/G.A.S.P!! Fighters' NEXTream (Europe).zip",
+      "label": "G.A.S.P!! Fighters' NEXTream (Europe)",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Gauntlet Legends (USA).zip",
+      "label": "Gauntlet Legends (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Gex 3 - Deep Cover Gecko (USA).zip",
+      "label": "Gex 3 - Deep Cover Gecko (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Gex 64 - Enter the Gecko (USA).zip",
+      "label": "Gex 64 - Enter the Gecko (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Glover (USA).zip",
+      "label": "Glover (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Goemon's Great Adventure (USA).zip",
+      "label": "Goemon's Great Adventure (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Golden Nugget 64 (USA).zip",
+      "label": "Golden Nugget 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/GoldenEye 007 (USA).zip",
+      "label": "GoldenEye 007 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/GT 64 - Championship Edition (USA).zip",
+      "label": "GT 64 - Championship Edition (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Harvest Moon 64 (USA).zip",
+      "label": "Harvest Moon 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Hercules - The Legendary Journeys (USA).zip",
+      "label": "Hercules - The Legendary Journeys (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Hexen (USA).zip",
+      "label": "Hexen (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Hey You, Pikachu! (USA).zip",
+      "label": "Hey You, Pikachu! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Holy Magic Century (Europe).zip",
+      "label": "Holy Magic Century (Europe)",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Hot Wheels - Turbo Racing (USA).zip",
+      "label": "Hot Wheels - Turbo Racing (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/HSV Adventure Racing! (Australia).zip",
+      "label": "HSV Adventure Racing! (Australia)",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Hybrid Heaven (USA).zip",
+      "label": "Hybrid Heaven (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Hydro Thunder (USA).zip",
+      "label": "Hydro Thunder (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Iggy's Reckin' Balls (USA).zip",
+      "label": "Iggy's Reckin' Balls (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/In-Fisherman - Bass Hunter 64 (USA).zip",
+      "label": "In-Fisherman - Bass Hunter 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Indiana Jones and the Infernal Machine (USA).zip",
+      "label": "Indiana Jones and the Infernal Machine (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Indy Racing 2000 (USA).zip",
+      "label": "Indy Racing 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/International Superstar Soccer '98 (USA).zip",
+      "label": "International Superstar Soccer '98 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/International Superstar Soccer 2000 (USA) (Rev 1).zip",
+      "label": "International Superstar Soccer 2000 (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/International Superstar Soccer 64 (USA).zip",
+      "label": "International Superstar Soccer 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/International Track & Field 2000 (USA).zip",
+      "label": "International Track & Field 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Jeopardy! (USA).zip",
+      "label": "Jeopardy! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Jeremy McGrath Supercross 2000 (USA).zip",
+      "label": "Jeremy McGrath Supercross 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Jet Force Gemini (USA).zip",
+      "label": "Jet Force Gemini (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/John Romero's Daikatana (USA).zip",
+      "label": "John Romero's Daikatana (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Ken Griffey Jr.'s Slugfest (USA).zip",
+      "label": "Ken Griffey Jr.'s Slugfest (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Killer Instinct Gold (USA) (Rev 2).zip",
+      "label": "Killer Instinct Gold (USA) (Rev 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Kirby 64 - The Crystal Shards (USA).zip",
+      "label": "Kirby 64 - The Crystal Shards (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Knife Edge - Nose Gunner (USA).zip",
+      "label": "Knife Edge - Nose Gunner (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Knockout Kings 2000 (USA).zip",
+      "label": "Knockout Kings 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Kobe Bryant in NBA Courtside (USA).zip",
+      "label": "Kobe Bryant in NBA Courtside (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Last Legion UX (Japan).zip",
+      "label": "Last Legion UX (Japan)",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Legend of Zelda, The - Majora's Mask (USA).zip",
+      "label": "Legend of Zelda, The - Majora's Mask (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Legend of Zelda, The - Ocarina of Time (USA) (Rev 2).zip",
+      "label": "Legend of Zelda, The - Ocarina of Time (USA) (Rev 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Legend of Zelda, The - Ocarina of Time - Master Quest (USA).zip",
+      "label": "Legend of Zelda, The - Ocarina of Time - Master Quest (USA)",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/LEGO Racers (USA).zip",
+      "label": "LEGO Racers (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Lode Runner 3-D (USA).zip",
+      "label": "Lode Runner 3-D (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Lylat Wars (Europe).zip",
+      "label": "Lylat Wars (Europe)",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Mace - The Dark Age (USA).zip",
+      "label": "Mace - The Dark Age (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Madden Football 64 (USA).zip",
+      "label": "Madden Football 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Madden NFL 2000 (USA).zip",
+      "label": "Madden NFL 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Madden NFL 2001 (USA).zip",
+      "label": "Madden NFL 2001 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Madden NFL 2002 (USA).zip",
+      "label": "Madden NFL 2002 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Madden NFL 99 (USA) (Rev 1).zip",
+      "label": "Madden NFL 99 (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Magical Tetris Challenge (USA).zip",
+      "label": "Magical Tetris Challenge (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Major League Baseball featuring Ken Griffey Jr. (USA).zip",
+      "label": "Major League Baseball featuring Ken Griffey Jr. (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Mario Golf (USA).zip",
+      "label": "Mario Golf (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Mario Kart 64 (USA).zip",
+      "label": "Mario Kart 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Mario Party (USA).zip",
+      "label": "Mario Party (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Mario Party 2 (USA).zip",
+      "label": "Mario Party 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Mario Party 3 (USA).zip",
+      "label": "Mario Party 3 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Mario Tennis (USA).zip",
+      "label": "Mario Tennis (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Mega Man 64 (USA).zip",
+      "label": "Mega Man 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Mia Hamm Soccer 64 (USA).zip",
+      "label": "Mia Hamm Soccer 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Michael Owen's WLS 2000 (Europe).zip",
+      "label": "Michael Owen's WLS 2000 (Europe)",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Mickey's Speedway USA (USA).zip",
+      "label": "Mickey's Speedway USA (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Micro Machines 64 Turbo (USA).zip",
+      "label": "Micro Machines 64 Turbo (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Midway's Greatest Arcade Hits - Volume 1 (USA).zip",
+      "label": "Midway's Greatest Arcade Hits - Volume 1 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Mike Piazza's Strike Zone (USA).zip",
+      "label": "Mike Piazza's Strike Zone (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Milo's Astro Lanes (USA).zip",
+      "label": "Milo's Astro Lanes (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Mini Racers (USA).zip",
+      "label": "Mini Racers (USA)",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Mischief Makers (USA) (Rev 1).zip",
+      "label": "Mischief Makers (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Mission - Impossible (USA).zip",
+      "label": "Mission - Impossible (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Monaco Grand Prix (USA).zip",
+      "label": "Monaco Grand Prix (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Monopoly (USA).zip",
+      "label": "Monopoly (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Monster Truck Madness 64 (USA).zip",
+      "label": "Monster Truck Madness 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Mortal Kombat 4 (USA).zip",
+      "label": "Mortal Kombat 4 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Mortal Kombat Mythologies - Sub-Zero (USA).zip",
+      "label": "Mortal Kombat Mythologies - Sub-Zero (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Mortal Kombat Trilogy (USA) (Rev 2).zip",
+      "label": "Mortal Kombat Trilogy (USA) (Rev 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/MRC - Multi-Racing Championship (USA).zip",
+      "label": "MRC - Multi-Racing Championship (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Ms. Pac-Man - Maze Madness (USA).zip",
+      "label": "Ms. Pac-Man - Maze Madness (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Mystical Ninja 2 Starring Goemon (Europe).zip",
+      "label": "Mystical Ninja 2 Starring Goemon (Europe)",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Mystical Ninja Starring Goemon (USA).zip",
+      "label": "Mystical Ninja Starring Goemon (USA)",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Nagano Winter Olympics '98 (USA).zip",
+      "label": "Nagano Winter Olympics '98 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Namco Museum 64 (USA).zip",
+      "label": "Namco Museum 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/NASCAR 2000 (USA).zip",
+      "label": "NASCAR 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/NASCAR 99 (USA).zip",
+      "label": "NASCAR 99 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/NBA Courtside 2 featuring Kobe Bryant (USA).zip",
+      "label": "NBA Courtside 2 featuring Kobe Bryant (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/NBA Hangtime (USA).zip",
+      "label": "NBA Hangtime (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/NBA in the Zone '98 (USA).zip",
+      "label": "NBA in the Zone '98 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/NBA in the Zone '99 (USA).zip",
+      "label": "NBA in the Zone '99 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/NBA in the Zone 2000 (USA).zip",
+      "label": "NBA in the Zone 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/NBA Jam 2000 (USA).zip",
+      "label": "NBA Jam 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/NBA Jam 99 (USA).zip",
+      "label": "NBA Jam 99 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/NBA Live 2000 (USA).zip",
+      "label": "NBA Live 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/NBA Live 99 (USA).zip",
+      "label": "NBA Live 99 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/NBA Showtime - NBA on NBC (USA).zip",
+      "label": "NBA Showtime - NBA on NBC (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/New Tetris, The (USA).zip",
+      "label": "New Tetris, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/NFL Blitz (USA).zip",
+      "label": "NFL Blitz (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/NFL Blitz - Special Edition (USA).zip",
+      "label": "NFL Blitz - Special Edition (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/NFL Blitz 2000 (USA) (Rev 1).zip",
+      "label": "NFL Blitz 2000 (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/NFL Blitz 2001 (USA).zip",
+      "label": "NFL Blitz 2001 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/NFL QB Club 2001 (USA).zip",
+      "label": "NFL QB Club 2001 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/NFL Quarterback Club 2000 (USA).zip",
+      "label": "NFL Quarterback Club 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/NFL Quarterback Club 98 (USA).zip",
+      "label": "NFL Quarterback Club 98 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/NFL Quarterback Club 99 (USA).zip",
+      "label": "NFL Quarterback Club 99 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/NHL 99 (USA).zip",
+      "label": "NHL 99 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/NHL Blades of Steel '99 (USA).zip",
+      "label": "NHL Blades of Steel '99 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/NHL Breakaway 98 (USA).zip",
+      "label": "NHL Breakaway 98 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/NHL Breakaway 99 (USA).zip",
+      "label": "NHL Breakaway 99 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Nightmare Creatures (USA).zip",
+      "label": "Nightmare Creatures (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Nuclear Strike 64 (USA).zip",
+      "label": "Nuclear Strike 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Off Road Challenge (USA).zip",
+      "label": "Off Road Challenge (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1).zip",
+      "label": "Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Olympic Hockey 98 (USA).zip",
+      "label": "Olympic Hockey 98 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Paper Mario (USA).zip",
+      "label": "Paper Mario (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Paperboy (USA).zip",
+      "label": "Paperboy (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Penny Racers (USA).zip",
+      "label": "Penny Racers (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Penny Racers II - Choro Q 64 Grand Prix (Japan).zip",
+      "label": "Penny Racers II - Choro Q 64 Grand Prix (Japan)",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Perfect Dark (USA) (Rev 1).zip",
+      "label": "Perfect Dark (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/PGA European Tour (USA).zip",
+      "label": "PGA European Tour (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Pilotwings 64 (USA).zip",
+      "label": "Pilotwings 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Pokemon Puzzle League (USA).zip",
+      "label": "Pokemon Puzzle League (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Pokemon Snap (USA).zip",
+      "label": "Pokemon Snap (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Pokemon Stadium (USA) (Rev 2).zip",
+      "label": "Pokemon Stadium (USA) (Rev 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Pokemon Stadium 2 (USA).zip",
+      "label": "Pokemon Stadium 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Polaris SnoCross (USA).zip",
+      "label": "Polaris SnoCross (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Power Rangers - Lightspeed Rescue (USA).zip",
+      "label": "Power Rangers - Lightspeed Rescue (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Powerpuff Girls, The - Chemical X-Traction (USA).zip",
+      "label": "Powerpuff Girls, The - Chemical X-Traction (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Premier Manager 64 (Europe).zip",
+      "label": "Premier Manager 64 (Europe)",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Puyo Puyo Sun 64 (Japan).zip",
+      "label": "Puyo Puyo Sun 64 (Japan)",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Quake (USA).zip",
+      "label": "Quake (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Quake II (USA).zip",
+      "label": "Quake II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Quest 64 (USA).zip",
+      "label": "Quest 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Rakugakids (Europe).zip",
+      "label": "Rakugakids (Europe)",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Rally Challenge 2000 (USA).zip",
+      "label": "Rally Challenge 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Rampage - World Tour (USA).zip",
+      "label": "Rampage - World Tour (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Rampage 2 - Universal Tour (USA).zip",
+      "label": "Rampage 2 - Universal Tour (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Rat Attack! (USA).zip",
+      "label": "Rat Attack! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Rayman 2 - The Great Escape (USA).zip",
+      "label": "Rayman 2 - The Great Escape (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Razor Freestyle Scooter (USA).zip",
+      "label": "Razor Freestyle Scooter (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Re-Volt (USA).zip",
+      "label": "Re-Volt (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Ready 2 Rumble Boxing (USA).zip",
+      "label": "Ready 2 Rumble Boxing (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Ready 2 Rumble Boxing - Round 2 (USA).zip",
+      "label": "Ready 2 Rumble Boxing - Round 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Resident Evil 2 (USA) (Rev 1).zip",
+      "label": "Resident Evil 2 (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Road Rash 64 (USA).zip",
+      "label": "Road Rash 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Roadsters (USA).zip",
+      "label": "Roadsters (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Robotron 64 (USA).zip",
+      "label": "Robotron 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Rocket - Robot on Wheels (USA).zip",
+      "label": "Rocket - Robot on Wheels (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/RR64 - Ridge Racer 64 (USA).zip",
+      "label": "RR64 - Ridge Racer 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Rugrats - Scavenger Hunt (USA).zip",
+      "label": "Rugrats - Scavenger Hunt (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Rugrats in Paris - The Movie (USA).zip",
+      "label": "Rugrats in Paris - The Movie (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Rush 2 - Extreme Racing USA (USA).zip",
+      "label": "Rush 2 - Extreme Racing USA (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/S.C.A.R.S. (USA).zip",
+      "label": "S.C.A.R.S. (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/San Francisco Rush - Extreme Racing (USA) (Rev 1).zip",
+      "label": "San Francisco Rush - Extreme Racing (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/San Francisco Rush 2049 (USA).zip",
+      "label": "San Francisco Rush 2049 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Scooby-Doo! - Classic Creep Capers (USA) (Rev 1).zip",
+      "label": "Scooby-Doo! - Classic Creep Capers (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Sesame Street - Elmo's Letter Adventure (USA).zip",
+      "label": "Sesame Street - Elmo's Letter Adventure (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Sesame Street - Elmo's Number Journey (USA).zip",
+      "label": "Sesame Street - Elmo's Number Journey (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Shadow Man (USA).zip",
+      "label": "Shadow Man (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Shadowgate 64 - Trials of the Four Towers (USA).zip",
+      "label": "Shadowgate 64 - Trials of the Four Towers (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Sin and Punishment - Successor of the Earth (Japan).zip",
+      "label": "Sin and Punishment - Successor of the Earth (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Snowboard Kids (USA).zip",
+      "label": "Snowboard Kids (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Snowboard Kids 2 (USA).zip",
+      "label": "Snowboard Kids 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Sonic Wings Assault (Japan).zip",
+      "label": "Sonic Wings Assault (Japan)",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/South Park (USA).zip",
+      "label": "South Park (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/South Park - Chef's Luv Shack (USA).zip",
+      "label": "South Park - Chef's Luv Shack (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/South Park Rally (USA).zip",
+      "label": "South Park Rally (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Space Invaders (USA).zip",
+      "label": "Space Invaders (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/SpaceStation Silicon Valley (USA) (Rev 1).zip",
+      "label": "SpaceStation Silicon Valley (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Spider-Man (USA).zip",
+      "label": "Spider-Man (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Star Fox 64 (USA) (Rev 1).zip",
+      "label": "Star Fox 64 (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Star Soldier - Vanishing Earth (USA).zip",
+      "label": "Star Soldier - Vanishing Earth (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Star Wars - Rogue Squadron (USA) (Rev 1).zip",
+      "label": "Star Wars - Rogue Squadron (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Star Wars - Shadows of the Empire (USA) (Rev 2).zip",
+      "label": "Star Wars - Shadows of the Empire (USA) (Rev 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Star Wars Episode I - Battle for Naboo (USA).zip",
+      "label": "Star Wars Episode I - Battle for Naboo (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Star Wars Episode I - Racer (USA).zip",
+      "label": "Star Wars Episode I - Racer (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/StarCraft 64 (USA).zip",
+      "label": "StarCraft 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Starshot - Space Circus Fever (USA).zip",
+      "label": "Starshot - Space Circus Fever (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Stunt Racer 64 (USA).zip",
+      "label": "Stunt Racer 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Super Bowling (USA).zip",
+      "label": "Super Bowling (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Super Mario 64 (USA).zip",
+      "label": "Super Mario 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Super Smash Bros. (USA).zip",
+      "label": "Super Smash Bros. (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Supercross 2000 (USA).zip",
+      "label": "Supercross 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Superman - The New Superman Aventures (USA).zip",
+      "label": "Superman - The New Superman Aventures (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Sydney 2000 (USA).zip",
+      "label": "Sydney 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Tarzan (USA).zip",
+      "label": "Tarzan (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Taz Express (USA).zip",
+      "label": "Taz Express (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Tetris 64 (Japan).zip",
+      "label": "Tetris 64 (Japan)",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Tetrisphere (USA).zip",
+      "label": "Tetrisphere (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Tigger's Honey Hunt (USA).zip",
+      "label": "Tigger's Honey Hunt (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Tom and Jerry in Fists of Furry (USA).zip",
+      "label": "Tom and Jerry in Fists of Furry (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Tom Clancy's Rainbow Six (USA).zip",
+      "label": "Tom Clancy's Rainbow Six (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Tonic Trouble (USA) (Rev 1).zip",
+      "label": "Tonic Trouble (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Tony Hawk's Pro Skater (USA) (Rev 1).zip",
+      "label": "Tony Hawk's Pro Skater (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Tony Hawk's Pro Skater 2 (USA).zip",
+      "label": "Tony Hawk's Pro Skater 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Tony Hawk's Pro Skater 3 (USA).zip",
+      "label": "Tony Hawk's Pro Skater 3 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Top Gear Hyper-Bike (USA).zip",
+      "label": "Top Gear Hyper-Bike (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Top Gear Overdrive (USA).zip",
+      "label": "Top Gear Overdrive (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Top Gear Rally (USA).zip",
+      "label": "Top Gear Rally (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Top Gear Rally 2 (USA).zip",
+      "label": "Top Gear Rally 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Toy Story 2 - Buzz Lightyear to the Rescue! (USA) (Rev 1).zip",
+      "label": "Toy Story 2 - Buzz Lightyear to the Rescue! (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Transformers - Beast Wars Transmetals (USA).zip",
+      "label": "Transformers - Beast Wars Transmetals (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Triple Play 2000 (USA).zip",
+      "label": "Triple Play 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Turok - Dinosaur Hunter (USA) (Rev 2).zip",
+      "label": "Turok - Dinosaur Hunter (USA) (Rev 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Turok - Rage Wars (USA) (Rev 1).zip",
+      "label": "Turok - Rage Wars (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Turok 2 - Seeds of Evil (USA) (Rev 1).zip",
+      "label": "Turok 2 - Seeds of Evil (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Turok 3 - Shadow of Oblivion (USA).zip",
+      "label": "Turok 3 - Shadow of Oblivion (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Twisted Edge - Extreme Snowboarding (USA).zip",
+      "label": "Twisted Edge - Extreme Snowboarding (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/V-Rally Edition 99 (USA).zip",
+      "label": "V-Rally Edition 99 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Vigilante 8 (USA).zip",
+      "label": "Vigilante 8 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Vigilante 8 - 2nd Offense (USA).zip",
+      "label": "Vigilante 8 - 2nd Offense (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Virtual Chess 64 (USA).zip",
+      "label": "Virtual Chess 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Virtual Pool 64 (USA).zip",
+      "label": "Virtual Pool 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Virtual Pro Wrestling 2 (Japan).zip",
+      "label": "Virtual Pro Wrestling 2 (Japan)",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Waialae Country Club - True Golf Classics (USA) (Rev 1).zip",
+      "label": "Waialae Country Club - True Golf Classics (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/War Gods (USA).zip",
+      "label": "War Gods (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1).zip",
+      "label": "Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Wayne Gretzky's 3D Hockey '98 (USA).zip",
+      "label": "Wayne Gretzky's 3D Hockey '98 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Wayne Gretzky's 3D Hockey (USA) (Rev 1).zip",
+      "label": "Wayne Gretzky's 3D Hockey (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/WCW Backstage Assault (USA).zip",
+      "label": "WCW Backstage Assault (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/WCW Mayhem (USA).zip",
+      "label": "WCW Mayhem (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/WCW Nitro (USA).zip",
+      "label": "WCW Nitro (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/WCW vs. nWo - World Tour (USA) (Rev 1).zip",
+      "label": "WCW vs. nWo - World Tour (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/WCW-nWo Revenge (USA).zip",
+      "label": "WCW-nWo Revenge (USA)",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Wetrix (USA).zip",
+      "label": "Wetrix (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Wheel of Fortune (USA).zip",
+      "label": "Wheel of Fortune (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/WinBack - Covert Operations (USA).zip",
+      "label": "WinBack - Covert Operations (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Wipeout 64 (USA).zip",
+      "label": "Wipeout 64 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Wonder Project J2 - Josette from Corlo Forest (Japan).n64",
+      "label": "Wonder Project J2 - Josette from Corlo Forest (Japan)",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/World Cup 98 (USA).zip",
+      "label": "World Cup 98 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/World Driver Championship (USA).zip",
+      "label": "World Driver Championship (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Worms Armageddon (USA).zip",
+      "label": "Worms Armageddon (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/WWF Attitude (USA).zip",
+      "label": "WWF Attitude (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/WWF No Mercy (USA) (Rev 1).zip",
+      "label": "WWF No Mercy (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/WWF War Zone (USA).zip",
+      "label": "WWF War Zone (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/WWF WrestleMania 2000 (USA).zip",
+      "label": "WWF WrestleMania 2000 (USA)",
+      "core_path": "/tmp/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Xena - Warrior Princess - The Talisman of Fate (USA).zip",
+      "label": "Xena - Warrior Princess - The Talisman of Fate (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo 64/Yoshi's Story (USA).zip",
+      "label": "Yoshi's Story (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    }
+  ]
+}

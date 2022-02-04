@@ -1,0 +1,2641 @@
+{
+  "version": "1.5",
+  "default_core_path": "/tmp/cores/mame2010_libretro.so",
+  "default_core_name": "Arcade (MAME 2010)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "scan_content_dir": "/storage/roms/MAME 2010",
+  "scan_file_exts": "",
+  "scan_dat_file_path": "/storage/system/mame2010/mame2010.xml",
+  "scan_search_recursively": true,
+  "scan_search_archives": true,
+  "scan_filter_dat_content": false,
+  "items": [
+    {
+      "path": "/storage/roms/MAME 2010/10yard.zip",
+      "label": "10-Yard Fight (World, set 1)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME - Current)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/1941.zip",
+      "label": "1941: Counter Attack (World)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/1942.zip",
+      "label": "1942 (Revision B)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/1943.zip",
+      "label": "1943: The Battle of Midway (Euro)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/1944.zip",
+      "label": "1944: The Loop Master (USA 000620)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/19xx.zip",
+      "label": "19XX: The War Against Destiny (USA 951207)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/openice.zip",
+      "label": "2 On 2 Open Ice Challenge (rev 1.21)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/39in1.zip",
+      "label": "39 in 1 MAME bootleg",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/aburner2.zip",
+      "label": "After Burner II",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/aliensyn.zip",
+      "label": "Alien Syndrome (set 4, System 16B, unprotected)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/altbeast.zip",
+      "label": "Altered Beast (set 8, 8751 317-0078)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/arkanoidu.zip",
+      "label": "Arkanoid (US)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/arkanoid.zip",
+      "label": "Arkanoid (World)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/arknoid2.zip",
+      "label": "Arkanoid - Revenge of DOH (World)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/armora.zip",
+      "label": "Armor Attack",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/asteroid.zip",
+      "label": "Asteroids (rev 4)",
+      "core_path": "/home/theflyingape/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME - Current)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/astdelux.zip",
+      "label": "Asteroids Deluxe (rev 3)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/astrob.zip",
+      "label": "Astro Blaster (version 3)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/astrof.zip",
+      "label": "Astro Fighter (set 1)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/astinvad.zip",
+      "label": "Astro Invader",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/abaseb.zip",
+      "label": "Atari Baseball (set 1)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/atarifb.zip",
+      "label": "Atari Football (revision 2)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/mgolf.zip",
+      "label": "Atari Mini Golf (prototype)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/soccer.zip",
+      "label": "Atari Soccer",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/bagman.zip",
+      "label": "Bagman",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/basebal2.zip",
+      "label": "Baseball: The Season II",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/bsktball.zip",
+      "label": "Basketball",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/batman.zip",
+      "label": "Batman",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/bzone.zip",
+      "label": "Battle Zone (set 1)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/berzerk.zip",
+      "label": "Berzerk (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/bking.zip",
+      "label": "Birdie King",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/bking2.zip",
+      "label": "Birdie King 2",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/bking3.zip",
+      "label": "Birdie King 3",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/blktiger.zip",
+      "label": "Black Tiger",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/blstroid.zip",
+      "label": "Blasteroids (rev 4)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/blockade.zip",
+      "label": "Blockade",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/blueprnt.zip",
+      "label": "Blue Print (Midway)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/blueshrk.zip",
+      "label": "Blue Shark",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/bodyslam.zip",
+      "label": "Body Slam (8751 317-0015)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/bombjack.zip",
+      "label": "Bomb Jack (set 1)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/boothill.zip",
+      "label": "Boot Hill",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/bosco.zip",
+      "label": "Bosconian (new version)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/bottom9.zip",
+      "label": "Bottom of the Ninth (version T)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/bowlrama.zip",
+      "label": "Bowl-O-Rama",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/brkthru.zip",
+      "label": "Break Thru (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/bublbobl.zip",
+      "label": "Bubble Bobble",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/bublbob2.zip",
+      "label": "Bubble Bobble II (Ver 2.5O 1994/10/05)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/bubblem.zip",
+      "label": "Bubble Memories: The Story Of Bubble Bobble III (Ver 2.4O 1996/02/15)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/btime.zip",
+      "label": "Burger Time (Data East set 1)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/brubber.zip",
+      "label": "Burnin' Rubber",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/capbowl.zip",
+      "label": "Capcom Bowling (set 1)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/captaven.zip",
+      "label": "Captain America and The Avengers (Asia Rev 1.4)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/carnival.zip",
+      "label": "Carnival (upright)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/centiped.zip",
+      "label": "Centipede (revision 3)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/champbas.zip",
+      "label": "Champion Base Ball",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/chboxing.zip",
+      "label": "Champion Boxing",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/chwrestl.zip",
+      "label": "Champion Pro Wrestling",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/csprint.zip",
+      "label": "Championship Sprint (rev 3)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/choplift.zip",
+      "label": "Choplifter (8751 315-5151)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/circus.zip",
+      "label": "Circus / Acrobat TV",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/cloak.zip",
+      "label": "Cloak & Dagger (rev 5)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/clowns.zip",
+      "label": "Clowns (rev. 2)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/cobracom.zip",
+      "label": "Cobra-Command (World revision 5)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/combat.zip",
+      "label": "Combat (version 3.0)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/commando.zip",
+      "label": "Commando (World)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/congo.zip",
+      "label": "Congo Bongo",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/crash.zip",
+      "label": "Crash",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/cclimber.zip",
+      "label": "Crazy Climber (US)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/crossbow.zip",
+      "label": "Crossbow (version 2.0)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/crush.zip",
+      "label": "Crush Roller (Kural Samno)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/ccastles.zip",
+      "label": "Crystal Castles (version 4)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/cyberbal.zip",
+      "label": "Cyberball (rev 4)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/cyberbal2p.zip",
+      "label": "Cyberball 2072 (2 player, rev 4)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/ddungeon.zip",
+      "label": "Dangerous Dungeons",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/defender.zip",
+      "label": "Defender (Red label)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/depthch.zip",
+      "label": "Depthcharge",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/destroyr.zip",
+      "label": "Destroyer",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/digdug.zip",
+      "label": "Dig Dug (rev 2)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/dotron.zip",
+      "label": "Discs of Tron (Upright)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/dorunrun.zip",
+      "label": "Do! Run Run (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/dominos.zip",
+      "label": "Dominos",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2003-Plus/dkong.zip",
+      "label": "Donkey Kong (US set 1)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/dkong3.zip",
+      "label": "Donkey Kong 3 (US)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2003-Plus/dkongjr.zip",
+      "label": "Donkey Kong Junior (US)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/ddragon.zip",
+      "label": "Double Dragon (Japan)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/ddragon3.zip",
+      "label": "Double Dragon 3 - The Rosetta Stone (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/ddragon2.zip",
+      "label": "Double Dragon II - The Revenge (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/dplay.zip",
+      "label": "Double Play",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/dragrace.zip",
+      "label": "Drag Race",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/dspirit.zip",
+      "label": "Dragon Spirit (new version)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/ddsomu.zip",
+      "label": "Dungeons & Dragons: Shadow over Mystara (USA 960619)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/ddtodu.zip",
+      "label": "Dungeons & Dragons: Tower of Doom (USA 940125)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/eaglshot.zip",
+      "label": "Eagle Shot Golf",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/elevator.zip",
+      "label": "Elevator Action",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/ebases.zip",
+      "label": "Extra Bases",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/einning.zip",
+      "label": "Extra Inning",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/fcombat.zip",
+      "label": "Field Combat",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/firetrk.zip",
+      "label": "Fire Truck",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/flyball.zip",
+      "label": "Flyball",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/frenzy.zip",
+      "label": "Frenzy",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/frogger.zip",
+      "label": "Frogger",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/frontlin.zip",
+      "label": "Front Line",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/galaga88.zip",
+      "label": "Galaga '88",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/galaga.zip",
+      "label": "Galaga (Namco rev. B)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2003-Plus/galaxian.zip",
+      "label": "Galaxian (Namco set 1)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/gauntlet.zip",
+      "label": "Gauntlet (rev 14)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/gaunt2.zip",
+      "label": "Gauntlet II",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/gng.zip",
+      "label": "Ghosts'n Goblins (World? set 1)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/ghouls.zip",
+      "label": "Ghouls'n Ghosts (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/gimeabrk.zip",
+      "label": "Gimme A Break",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/gladiatr.zip",
+      "label": "Gladiator (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/goldnaxe.zip",
+      "label": "Golden Axe (set 6, US, 8751 317-123A)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/mp_gaxe2.zip",
+      "label": "Golden Axe II (Mega Play)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/gt3d.zip",
+      "label": "Golden Tee 3D Golf (v1.93N)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/gtclassc.zip",
+      "label": "Golden Tee Classic (v1.00)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/gorf.zip",
+      "label": "Gorf",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/polepos2bi.zip",
+      "label": "Gran Premio F1 (Italian bootleg of Pole Position II)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/gravitar.zip",
+      "label": "Gravitar (version 3)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/gridiron.zip",
+      "label": "Gridiron Fight",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/gunfight.zip",
+      "label": "Gun Fight",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/gunsmoke.zip",
+      "label": "Gun.Smoke (World)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/gyruss.zip",
+      "label": "Gyruss (Konami)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/hangon.zip",
+      "label": "Hang-On (Rev A)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/harddunk.zip",
+      "label": "Hard Dunk (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/hattrick.zip",
+      "label": "Hat Trick",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/headon.zip",
+      "label": "Head On (2 players)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/headon2.zip",
+      "label": "Head On 2",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/hwchamp.zip",
+      "label": "Heavyweight Champ",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/hotrod.zip",
+      "label": "Hot Rod (World, 3 Players, Turbo set 1, Floppy Based)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/hustle.zip",
+      "label": "Hustle",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/hyperspt.zip",
+      "label": "Hyper Sports",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/ikari3.zip",
+      "label": "Ikari III - The Rescue (Rotary Joystick)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/ikari.zip",
+      "label": "Ikari Warriors (US JAMMA)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/indytemp.zip",
+      "label": "Indiana Jones and the Temple of Doom (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/invinco.zip",
+      "label": "Invinco",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/invds.zip",
+      "label": "Invinco / Deep Scan",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/joust.zip",
+      "label": "Joust (White/Green label)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/jrpacman.zip",
+      "label": "Jr. Pac-Man",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/jungleh.zip",
+      "label": "Jungle Hunt (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/junglek.zip",
+      "label": "Jungle King (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/kamikaze.zip",
+      "label": "Kamikaze",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/kchamp.zip",
+      "label": "Karate Champ (US)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/kchampvs.zip",
+      "label": "Karate Champ (US, VS version set 1)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/kick.zip",
+      "label": "Kick (upright)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/klax.zip",
+      "label": "Klax (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/knights.zip",
+      "label": "Knights of the Round (World 911127)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/krull.zip",
+      "label": "Krull",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/kungfum.zip",
+      "label": "Kung-Fu Master",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/ladybug.zip",
+      "label": "Lady Bug",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/lemmings.zip",
+      "label": "Lemmings (US prototype)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/lnc.zip",
+      "label": "Lock'n'Chase",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/llander.zip",
+      "label": "Lunar Lander (rev 2)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/mplanets.zip",
+      "label": "Mad Planets",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/mhavoc.zip",
+      "label": "Major Havoc (rev 3)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/mjleague.zip",
+      "label": "Major League",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/maketrax.zip",
+      "label": "Make Trax (set 1)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/mappy.zip",
+      "label": "Mappy (US)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/marble.zip",
+      "label": "Marble Madness (set 1)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/mario.zip",
+      "label": "Mario Bros. (US, Revision F)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/mshvsf.zip",
+      "label": "Marvel Super Heroes Vs. Street Fighter (Euro 970625)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/mshvsfu.zip",
+      "label": "Marvel Super Heroes Vs. Street Fighter (USA 970827)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/mvsc.zip",
+      "label": "Marvel Vs. Capcom: Clash of Super Heroes (Euro 980123)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/mvscu.zip",
+      "label": "Marvel Vs. Capcom: Clash of Super Heroes (USA 980123)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/milliped.zip",
+      "label": "Millipede",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/minigolf.zip",
+      "label": "Mini Golf (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/missile.zip",
+      "label": "Missile Command (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/montecar.zip",
+      "label": "Monte Carlo",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/mpatrol.zip",
+      "label": "Moon Patrol",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/mk.zip",
+      "label": "Mortal Kombat (rev 5.0 T-Unit 03/19/93)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/mk3.zip",
+      "label": "Mortal Kombat 3 (rev 2.1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/mk2.zip",
+      "label": "Mortal Kombat II (rev L3.1)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/mrdo.zip",
+      "label": "Mr. Do!",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/docastle.zip",
+      "label": "Mr. Do's Castle (set 1)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/dowild.zip",
+      "label": "Mr. Do's Wild Ride",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/mspacman.zip",
+      "label": "Ms. Pac-Man",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/nbahangt.zip",
+      "label": "NBA Hangtime (rev L1.1 04/16/96)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/nbajam.zip",
+      "label": "NBA Jam (rev 3.01 04/07/93)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/nbamht.zip",
+      "label": "NBA Maximum Hangtime (rev 1.03 06/09/97)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/nrallyx.zip",
+      "label": "New Rally X",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/nitedrvr.zip",
+      "label": "Night Driver",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2003-Plus/omegrace.zip",
+      "label": "Omega Race",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/outrun.zip",
+      "label": "Out Run (sitdown/upright, Rev B)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/puckman.zip",
+      "label": "Pac-Man",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/pacplus.zip",
+      "label": "Pac-Man Plus",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/pacmania.zip",
+      "label": "Pac-Mania",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/paperboy.zip",
+      "label": "Paperboy (rev 3)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/pblbeach.zip",
+      "label": "Pebble Beach - The Great Shot (JUE 950913 V0.990)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/pengo.zip",
+      "label": "Pengo (set 1 rev c)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/phoenix.zip",
+      "label": "Phoenix (Amstar)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/pitfall2.zip",
+      "label": "Pitfall II (315-5093)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/polepos.zip",
+      "label": "Pole Position",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/poleposa.zip",
+      "label": "Pole Position (Atari version 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/polepos2.zip",
+      "label": "Pole Position II",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/poolshrk.zip",
+      "label": "Poolshark",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/popeye.zip",
+      "label": "Popeye (revision D)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/primrage.zip",
+      "label": "Primal Rage (version 2.3)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/progear.zip",
+      "label": "Progear (USA 010117)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/punchout.zip",
+      "label": "Punch-Out!!",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/qbert.zip",
+      "label": "Q*bert (US set 1)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/qix.zip",
+      "label": "Qix (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/rainbow.zip",
+      "label": "Rainbow Islands (new version)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/rallyx.zip",
+      "label": "Rally X (32k Ver.?)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/rampage.zip",
+      "label": "Rampage (revision 3)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/rmpgwt.zip",
+      "label": "Rampage: World Tour (rev 1.3)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/rampart.zip",
+      "label": "Rampart (Trackball)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/raveracw.zip",
+      "label": "Rave Racer (Rev. RV2, World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/redbaron.zip",
+      "label": "Red Baron",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/relief.zip",
+      "label": "Relief Pitcher (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/jedi.zip",
+      "label": "Return of the Jedi",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2003-Plus/ripoff.zip",
+      "label": "Rip Off",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/roadrunn.zip",
+      "label": "Road Runner (rev 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/robocop.zip",
+      "label": "Robocop (World revision 4)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/robocop2.zip",
+      "label": "Robocop 2 (Euro/Asia v0.10)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/robotbwl.zip",
+      "label": "Robot Bowl",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/robotron.zip",
+      "label": "Robotron (Solid Blue label)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/rthunder.zip",
+      "label": "Rolling Thunder (new version)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/stunrun.zip",
+      "label": "S.T.U.N. Runner (rev 6)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/shollow.zip",
+      "label": "Satan's Hollow (set 1)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/scramble.zip",
+      "label": "Scramble",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/seawolf.zip",
+      "label": "Sea Wolf",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/seawolf2.zip",
+      "label": "Seawolf II",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/silkworm.zip",
+      "label": "Silk Worm (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/sinistar.zip",
+      "label": "Sinistar (revision 3)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/skullxbo.zip",
+      "label": "Skull & Crossbones (rev 5)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/smashtv.zip",
+      "label": "Smash T.V. (rev 8.00)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/mp_sonic.zip",
+      "label": "Sonic The Hedgehog (Mega Play)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/spacduel.zip",
+      "label": "Space Duel",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/spacfury.zip",
+      "label": "Space Fury (revision C)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/sharrier.zip",
+      "label": "Space Harrier (Rev A, 8751 315-5163A)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/spcinv95.zip",
+      "label": "Space Invaders '95: The Attack Of Lunar Loonies (Ver 2.5O 1995/06/14)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/invaders.zip",
+      "label": "Space Invaders / Space Invaders M",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/invaddlx.zip",
+      "label": "Space Invaders Deluxe",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/invadpt2.zip",
+      "label": "Space Invaders Part II (Taito)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/spaceod.zip",
+      "label": "Space Odyssey (version 2)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/stactics.zip",
+      "label": "Space Tactics",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/spacewar.zip",
+      "label": "Space Wars",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/speedbal.zip",
+      "label": "Speed Ball",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/speedspn.zip",
+      "label": "Speed Spin",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/spidmanu.zip",
+      "label": "Spider-Man: The Videogame (US)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/spiders.zip",
+      "label": "Spiders (set 1)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/sprint1.zip",
+      "label": "Sprint 1",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/sprint2.zip",
+      "label": "Sprint 2 (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/sprint4.zip",
+      "label": "Sprint 4 (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/sprint8.zip",
+      "label": "Sprint 8",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/spyhunt.zip",
+      "label": "Spy Hunter",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/scross.zip",
+      "label": "Stadium Cross (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/starcas.zip",
+      "label": "Star Castle (version 3)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/starfire.zip",
+      "label": "Star Fire (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/starglad.zip",
+      "label": "Star Gladiator (USA 960627)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/startrek.zip",
+      "label": "Star Trek",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2003-Plus/starwars.zip",
+      "label": "Star Wars (rev 2)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/stargate.zip",
+      "label": "Stargate",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/starshp1.zip",
+      "label": "Starship 1",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/sfootbal.zip",
+      "label": "Street Football",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/subs.zip",
+      "label": "Subs",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/sbagman.zip",
+      "label": "Super Bagman",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/sbrkout.zip",
+      "label": "Super Breakout (rev 04)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/sb2003.zip",
+      "label": "Super Bubble 2003 (World, Ver 1.0)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/superbug.zip",
+      "label": "Super Bug",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/supbtime.zip",
+      "label": "Super Burger Time (World, set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/scobra.zip",
+      "label": "Super Cobra",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2003-Plus/superg.zip",
+      "label": "Super Galaxians (galaxiana hack)",
+      "core_path": "DETECT",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/shangon.zip",
+      "label": "Super Hang-On (sitdown/upright, unprotected)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/superpac.zip",
+      "label": "Super Pac-Man",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/spnchout.zip",
+      "label": "Super Punch-Out!!",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/ssi.zip",
+      "label": "Super Space Invaders '91 (World)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/ssprint.zip",
+      "label": "Super Sprint (rev 4)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/szaxxon.zip",
+      "label": "Super Zaxxon (315-5013)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/superman.zip",
+      "label": "Superman",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/tacscan.zip",
+      "label": "Tac/Scan",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/tailg.zip",
+      "label": "Tailgunner",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/tank8.zip",
+      "label": "Tank 8 (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/tapper.zip",
+      "label": "Tapper (Budweiser)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/tbowl.zip",
+      "label": "Tecmo Bowl (World?)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/tmnt.zip",
+      "label": "Teenage Mutant Ninja Turtles (World 4 Players)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/tekken.zip",
+      "label": "Tekken (TE4/VER.C)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/tekken2.zip",
+      "label": "Tekken 2 Ver.B (TES3/VER.B)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/tekken3.zip",
+      "label": "Tekken 3 (Japan, TET1/VER.E1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/tempest.zip",
+      "label": "Tempest (rev 3)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/atetris.zip",
+      "label": "Tetris (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/esb.zip",
+      "label": "The Empire Strikes Back",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/timber.zip",
+      "label": "Timber",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/timeplt.zip",
+      "label": "Time Pilot",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/tp84.zip",
+      "label": "Time Pilot '84 (set 1)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/toobin.zip",
+      "label": "Toobin' (rev 3)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/tm4k.zip",
+      "label": "Touchmaster 4000 (v6.03 Standard)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/arkatour.zip",
+      "label": "Tournament Arkanoid (US)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/cyberbalt.zip",
+      "label": "Tournament Cyberball 2072 (rev 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/tourtabl.zip",
+      "label": "Tournament Table (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/trackfld.zip",
+      "label": "Track & Field",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/triviasp.zip",
+      "label": "Trivial Pursuit (All Star Sports Edition)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/triviabb.zip",
+      "label": "Trivial Pursuit (Baby Boomer Edition)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/triviag1.zip",
+      "label": "Trivial Pursuit (Genus I) (set 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/triviag2.zip",
+      "label": "Trivial Pursuit (Genus II)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/triviayp.zip",
+      "label": "Trivial Pursuit (Young Players Edition)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/trog.zip",
+      "label": "Trog (rev LA5 03/29/91)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/tron2.zip",
+      "label": "Tron (6/25)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/tron.zip",
+      "label": "Tron (8/9)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/turbo.zip",
+      "label": "Turbo",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/tshoot.zip",
+      "label": "Turkey Shoot",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/turtles.zip",
+      "label": "Turtles",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/twotiger.zip",
+      "label": "Two Tigers (dedicated)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/umk3.zip",
+      "label": "Ultimate Mortal Kombat 3 (rev 1.2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/ultratnk.zip",
+      "label": "Ultra Tank",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/upyoural.zip",
+      "label": "Up Your Alley",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/vsavu.zip",
+      "label": "Vampire Savior: The Lord of Vampire (USA 970519)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/vanguard.zip",
+      "label": "Vanguard (SNK)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/vmetal.zip",
+      "label": "Varia Metal",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/venture.zip",
+      "label": "Venture (version 5 set 1)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/victroad.zip",
+      "label": "Victory Road",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/videopin.zip",
+      "label": "Video Pinball",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/vbowl.zip",
+      "label": "Virtua Bowling (World, V101XCM)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/vr.zip",
+      "label": "Virtua Racing",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/duckhunt.zip",
+      "label": "Vs. Duck Hunt",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/wacko.zip",
+      "label": "Wacko",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/wotw.zip",
+      "label": "War of the Worlds",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/warlords.zip",
+      "label": "Warlords",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/warrior.zip",
+      "label": "Warrior",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/wow.zip",
+      "label": "Wizard of Wor",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/wcbowl.zip",
+      "label": "World Class Bowling (v1.66)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/wcbowldx.zip",
+      "label": "World Class Bowling Deluxe (v2.00)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/wseries.zip",
+      "label": "World Series: The Season",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/xmen.zip",
+      "label": "X-Men (4 Players ver UBB)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/xmvsfu.zip",
+      "label": "X-Men Vs. Street Fighter (USA 961023)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/xmcotau.zip",
+      "label": "X-Men: Children of the Atom (USA 950105)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/xevious.zip",
+      "label": "Xevious (Namco)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/zaxxon.zip",
+      "label": "Zaxxon (set 1)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    },
+    {
+      "path": "/storage/roms/MAME 2010/zektor.zip",
+      "label": "Zektor (revision B)",
+      "core_path": "DEFAULT",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2010.lpl"
+    }
+  ]
+}

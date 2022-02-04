@@ -1,0 +1,4802 @@
+{
+  "version": "1.2",
+  "default_core_path": "/tmp/cores/gambatte_libretro.so",
+  "default_core_name": "Nintendo - Game Boy / Color (Gambatte)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "items": [
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/007 - The World Is Not Enough (USA, Europe).zip",
+      "label": "007 - The World Is Not Enough (USA, Europe)",
+      "core_path": "/tmp/cores/gambatte_libretro.so",
+      "core_name": "Nintendo - Game Boy / Color (Gambatte)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/10-Pin Bowling (USA) (Rumble Version).zip",
+      "label": "10-Pin Bowling (USA) (Rumble Version)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/102 Dalmatians - Puppies to the Rescue (USA, Europe).zip",
+      "label": "102 Dalmatians - Puppies to the Rescue (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/1942 (USA, Europe).zip",
+      "label": "1942 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/3-D Ultra Pinball - Thrillride (USA) (Rumble Version).zip",
+      "label": "3-D Ultra Pinball - Thrillride (USA) (Rumble Version)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/3D Pocket Pool (Europe).zip",
+      "label": "3D Pocket Pool (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/4x4 World Trophy (Europe) (GB Compatible).zip",
+      "label": "4x4 World Trophy (Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/720 Degrees (USA, Europe) (GB Compatible).zip",
+      "label": "720 Degrees (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Action Man - Search for Base X (USA, Europe).zip",
+      "label": "Action Man - Search for Base X (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Adventures of the Smurfs, The (Europe).zip",
+      "label": "Adventures of the Smurfs, The (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/AirForce Delta (USA).zip",
+      "label": "AirForce Delta (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Aladdin (USA).zip",
+      "label": "Aladdin (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Alfred's Adventure (Europe).zip",
+      "label": "Alfred's Adventure (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Alice in Wonderland (USA).zip",
+      "label": "Alice in Wonderland (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Aliens - Thanatos Encounter (USA, Europe).zip",
+      "label": "Aliens - Thanatos Encounter (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/All Star Tennis 2000 (Europe) (GB Compatible).zip",
+      "label": "All Star Tennis 2000 (Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/All-Star Baseball 2000 (USA, Europe).zip",
+      "label": "All-Star Baseball 2000 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/All-Star Baseball 2001 (USA).zip",
+      "label": "All-Star Baseball 2001 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Alone in the Dark - The New Nightmare (USA).zip",
+      "label": "Alone in the Dark - The New Nightmare (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Animorphs (USA).zip",
+      "label": "Animorphs (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Antz (USA) (GB Compatible).zip",
+      "label": "Antz (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Antz Racing (USA).zip",
+      "label": "Antz Racing (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Antz World Sportz (Europe).zip",
+      "label": "Antz World Sportz (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Armada - FX Racers (USA).zip",
+      "label": "Armada - FX Racers (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Armorines - Project S.W.A.R.M. (USA, Europe).zip",
+      "label": "Armorines - Project S.W.A.R.M. (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Army Men (USA, Europe).zip",
+      "label": "Army Men (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Army Men - Air Combat (USA, Europe).zip",
+      "label": "Army Men - Air Combat (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Army Men - Sarge's Heroes 2 (USA, Europe).zip",
+      "label": "Army Men - Sarge's Heroes 2 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Army Men 2 (USA, Europe).zip",
+      "label": "Army Men 2 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Arthur's Absolutely Fun Day! (USA).zip",
+      "label": "Arthur's Absolutely Fun Day! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Asterix & Obelix (Europe).zip",
+      "label": "Asterix & Obelix (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Asterix - On the Trail of Idéfix (Europe).zip",
+      "label": "Asterix - On the Trail of Idéfix (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Asterix and Obelix vs. Caesar (Europe) (GB Compatible).zip",
+      "label": "Asterix and Obelix vs. Caesar (Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Asteroids (USA, Europe) (GB Compatible).zip",
+      "label": "Asteroids (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Atlantis - The Lost Empire (USA, Europe).zip",
+      "label": "Atlantis - The Lost Empire (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/ATV Racing (Europe) (Unl).zip",
+      "label": "ATV Racing (Europe) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Austin Powers - Oh, Behave! (USA).zip",
+      "label": "Austin Powers - Oh, Behave! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Austin Powers - Welcome to my Underground Lair! (USA).zip",
+      "label": "Austin Powers - Welcome to my Underground Lair! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Azure Dreams (USA) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Azure Dreams (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Babe and Friends (USA) (GB Compatible).zip",
+      "label": "Babe and Friends (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Baby Felix - Halloween (Europe).zip",
+      "label": "Baby Felix - Halloween (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Backgammon (Europe) (GB Compatible).zip",
+      "label": "Backgammon (Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Ballistic (USA) (GB Compatible).zip",
+      "label": "Ballistic (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Barbie - Fashion Pack Games (USA, Europe) (GB Compatible).zip",
+      "label": "Barbie - Fashion Pack Games (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Barbie - Magic Genie Adventure (USA).zip",
+      "label": "Barbie - Magic Genie Adventure (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Barbie - Ocean Discovery (USA) (GB Compatible).zip",
+      "label": "Barbie - Ocean Discovery (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Barbie - Pet Rescue (USA).zip",
+      "label": "Barbie - Pet Rescue (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Barca Total 2000 (Europe).zip",
+      "label": "Barca Total 2000 (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Bass Masters Classic (USA, Europe) (GB Compatible).zip",
+      "label": "Bass Masters Classic (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Batman - Chaos in Gotham (USA).zip",
+      "label": "Batman - Chaos in Gotham (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Batman Beyond - Return of the Joker (USA).zip",
+      "label": "Batman Beyond - Return of the Joker (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Battleship (USA, Europe) (GB Compatible).zip",
+      "label": "Battleship (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/BattleTanx (USA).zip",
+      "label": "BattleTanx (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Beach'n Ball (Europe).zip",
+      "label": "Beach'n Ball (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Beast Fighter (Taiwan) (En) (Sachen) (Unl).zip",
+      "label": "Beast Fighter (Taiwan) (En) (Sachen) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Beauty and the Beast - A Board Game Adventure (USA) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Beauty and the Beast - A Board Game Adventure (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Billy Bob's Huntin' 'n' Fishin' (USA, Europe).zip",
+      "label": "Billy Bob's Huntin' 'n' Fishin' (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Bionic Commando - Elite Forces (USA, Australia).zip",
+      "label": "Bionic Commando - Elite Forces (USA, Australia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Black Bass - Lure Fishing (USA, Europe) (GB Compatible).zip",
+      "label": "Black Bass - Lure Fishing (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Blade (USA, Europe).zip",
+      "label": "Blade (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Blaster Master - Enemy Below (USA, Europe) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Blaster Master - Enemy Below (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Blue's Clues - Blue's Alphabet Book (USA).zip",
+      "label": "Blue's Clues - Blue's Alphabet Book (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Boarder Zone (USA).zip",
+      "label": "Boarder Zone (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Bob the Builder - Fix it Fun! (USA).zip",
+      "label": "Bob the Builder - Fix it Fun! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Bomberman Max - Blue Champion (USA).zip",
+      "label": "Bomberman Max - Blue Champion (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Bomberman Max - Red Challenger (USA).zip",
+      "label": "Bomberman Max - Red Challenger (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Bomberman Quest (USA) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Bomberman Quest (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Buffy the Vampire Slayer (USA, Europe).zip",
+      "label": "Buffy the Vampire Slayer (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Bug's Life, A (USA) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Bug's Life, A (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Bugs Bunny & Lola Bunny - Operation Carrot Patch (Europe) (GB Compatible).zip",
+      "label": "Bugs Bunny & Lola Bunny - Operation Carrot Patch (Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Bugs Bunny - Crazy Castle 3 (USA, Europe) (GB Compatible).zip",
+      "label": "Bugs Bunny - Crazy Castle 3 (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Bugs Bunny in - Crazy Castle 4 (USA).zip",
+      "label": "Bugs Bunny in - Crazy Castle 4 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Bust-A-Move 4 (USA, Europe) (GB Compatible).zip",
+      "label": "Bust-A-Move 4 (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Bust-A-Move Millennium (USA, Europe).zip",
+      "label": "Bust-A-Move Millennium (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Buzz Lightyear of Star Command (USA, Europe).zip",
+      "label": "Buzz Lightyear of Star Command (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Caesars Palace II (USA, Europe).zip",
+      "label": "Caesars Palace II (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Cannon Fodder (USA).zip",
+      "label": "Cannon Fodder (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Carl Lewis Athletics 2000 (Europe).zip",
+      "label": "Carl Lewis Athletics 2000 (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Carmageddon - Carpocalypse Now (USA, Europe).zip",
+      "label": "Carmageddon - Carpocalypse Now (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Casper (USA).zip",
+      "label": "Casper (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Caterpillar Construction Zone (USA, Europe) (GB Compatible).zip",
+      "label": "Caterpillar Construction Zone (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Catwoman (USA).zip",
+      "label": "Catwoman (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Catz (USA).zip",
+      "label": "Catz (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Centipede (USA) (GB Compatible).zip",
+      "label": "Centipede (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Championship Motocross 2001 featuring Ricky Carmichael (USA, Europe).zip",
+      "label": "Championship Motocross 2001 featuring Ricky Carmichael (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Chase H.Q. - Secret Police (USA) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Chase H.Q. - Secret Police (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Checkmate (Japan) (En,Ja) (GB Compatible).zip",
+      "label": "Checkmate (Japan) (En,Ja) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Chessmaster (USA, Europe) (GB Compatible).zip",
+      "label": "Chessmaster (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Chicken Run (USA, Europe).zip",
+      "label": "Chicken Run (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Classic Bubble Bobble (USA) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Classic Bubble Bobble (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Colin McRae Rally (Europe).zip",
+      "label": "Colin McRae Rally (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Commander Keen (USA, Europe).zip",
+      "label": "Commander Keen (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Conker's Pocket Tales (USA, Europe) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Conker's Pocket Tales (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Cool Bricks (Europe).zip",
+      "label": "Cool Bricks (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Cool Hand (Europe) (GB Compatible).zip",
+      "label": "Cool Hand (Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Crazy Bikers (Europe).zip",
+      "label": "Crazy Bikers (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Croc (USA, Europe).zip",
+      "label": "Croc (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Croc 2 (USA, Europe).zip",
+      "label": "Croc 2 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Cross Country Racing (Europe) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Cross Country Racing (Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Cruis'n Exotica (USA).zip",
+      "label": "Cruis'n Exotica (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Crystalis (USA).zip",
+      "label": "Crystalis (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Cubix - Robots for Everyone - Race 'n Robots (USA).zip",
+      "label": "Cubix - Robots for Everyone - Race 'n Robots (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/CyberTiger (USA, Europe).zip",
+      "label": "CyberTiger (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Daffy Duck - Fowl Play (USA, Europe) (GB Compatible).zip",
+      "label": "Daffy Duck - Fowl Play (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Dave Mirra Freestyle BMX (USA, Europe).zip",
+      "label": "Dave Mirra Freestyle BMX (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/David Beckham Soccer (Europe).zip",
+      "label": "David Beckham Soccer (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/David O'Leary's Total Soccer 2000 (Europe).zip",
+      "label": "David O'Leary's Total Soccer 2000 (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Deadly Skies (Europe).zip",
+      "label": "Deadly Skies (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Deer Hunter (USA).zip",
+      "label": "Deer Hunter (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Deja Vu I & II - The Casebooks of Ace Harding (USA).zip",
+      "label": "Deja Vu I & II - The Casebooks of Ace Harding (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Denki Blocks! (Europe).zip",
+      "label": "Denki Blocks! (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Dexter's Laboratory - Robot Rampage (USA, Europe).zip",
+      "label": "Dexter's Laboratory - Robot Rampage (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Dinosaur (USA).zip",
+      "label": "Dinosaur (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Diva Starz - Mall Mania (USA).zip",
+      "label": "Diva Starz - Mall Mania (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Dogz (USA).zip",
+      "label": "Dogz (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Donald Duck - Goin' Quackers (USA).zip",
+      "label": "Donald Duck - Goin' Quackers (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Donkey Kong Country (USA, Europe).zip",
+      "label": "Donkey Kong Country (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Doug's Big Game (USA).zip",
+      "label": "Doug's Big Game (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Dracula - Crazy Vampire (USA).zip",
+      "label": "Dracula - Crazy Vampire (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Dragon Ball Z - Legendary Super Warriors (USA).zip",
+      "label": "Dragon Ball Z - Legendary Super Warriors (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Dragon Dance (USA) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Dragon Dance (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Dragon Tales - Dragon Adventures (USA).zip",
+      "label": "Dragon Tales - Dragon Adventures (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Dragon Tales - Dragon Wings (USA).zip",
+      "label": "Dragon Tales - Dragon Wings (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Dragon Warrior I & II (USA) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Dragon Warrior I & II (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Dragon Warrior III (USA).zip",
+      "label": "Dragon Warrior III (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Dragon Warrior Monsters (USA, Europe) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Dragon Warrior Monsters (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Dragon Warrior Monsters 2 - Cobi's Journey (USA) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Dragon Warrior Monsters 2 - Cobi's Journey (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Dragon Warrior Monsters 2 - Tara's Adventure (USA) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Dragon Warrior Monsters 2 - Tara's Adventure (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Dragon's Lair (USA, Europe).zip",
+      "label": "Dragon's Lair (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Driver - You are the Wheelman (USA).zip",
+      "label": "Driver - You are the Wheelman (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Dropzone (Europe) (GB Compatible).zip",
+      "label": "Dropzone (Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Duke Nukem (USA).zip",
+      "label": "Duke Nukem (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Dukes of Hazzard, The - Racing for Home (USA).zip",
+      "label": "Dukes of Hazzard, The - Racing for Home (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/E.T. - The Extra-Terrestrial - Digital Companion (USA).zip",
+      "label": "E.T. - The Extra-Terrestrial - Digital Companion (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/E.T. - The Extra-Terrestrial - Escape from Planet Earth (USA).zip",
+      "label": "E.T. - The Extra-Terrestrial - Escape from Planet Earth (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/E.T. - The Extra-Terrestrial and the Cosmic Garden (USA).zip",
+      "label": "E.T. - The Extra-Terrestrial and the Cosmic Garden (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Earthworm Jim - Menace 2 the Galaxy (USA, Europe) (GB Compatible).zip",
+      "label": "Earthworm Jim - Menace 2 the Galaxy (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/ECW Hardcore Revolution (USA, Europe).zip",
+      "label": "ECW Hardcore Revolution (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Elevator Action EX (Europe).zip",
+      "label": "Elevator Action EX (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Emperor's New Groove, The (USA).zip",
+      "label": "Emperor's New Groove, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/ESPN International Track & Field (USA).zip",
+      "label": "ESPN International Track & Field (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/ESPN National Hockey Night (USA).zip",
+      "label": "ESPN National Hockey Night (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/European Super League (Europe).zip",
+      "label": "European Super League (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Evel Knievel (USA) (GB Compatible).zip",
+      "label": "Evel Knievel (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Extreme Ghostbusters (Europe).zip",
+      "label": "Extreme Ghostbusters (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Extreme Sports with the Berenstain Bears (USA, Europe).zip",
+      "label": "Extreme Sports with the Berenstain Bears (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/F-1 World Grand Prix (Europe).zip",
+      "label": "F-1 World Grand Prix (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/F-18 Thunder Strike (USA, Europe).zip",
+      "label": "F-18 Thunder Strike (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/F.A. Premier League Stars 2001, The (Europe).zip",
+      "label": "F.A. Premier League Stars 2001, The (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/F1 Championship Season 2000 (Europe).zip",
+      "label": "F1 Championship Season 2000 (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/F1 Racing Championship (Europe).zip",
+      "label": "F1 Racing Championship (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/F1 World Grand Prix II for Game Boy Color (USA).zip",
+      "label": "F1 World Grand Prix II for Game Boy Color (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/FIFA 2000 (USA, Europe) (SGB Enhanced) (GB Compatible).zip",
+      "label": "FIFA 2000 (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Fish Files, The (Europe).zip",
+      "label": "Fish Files, The (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Fishing King Adventure - Kite's Adventure (Japan).gbc",
+      "label": "Fishing King Adventure - Kite's Adventure (Japan)",
+      "core_path": "/tmp/cores/gambatte_libretro.so",
+      "core_name": "Nintendo - Game Boy / Color (Gambatte)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Fix & Foxi - Episode 1 - Lupo (Europe).zip",
+      "label": "Fix & Foxi - Episode 1 - Lupo (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Flintstones, The - Burgertime in Bedrock (USA).zip",
+      "label": "Flintstones, The - Burgertime in Bedrock (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Flipper & Lopaka (Europe).zip",
+      "label": "Flipper & Lopaka (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Force 21 (USA).zip",
+      "label": "Force 21 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Formula One 2000 (USA).zip",
+      "label": "Formula One 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Fort Boyard (Europe).zip",
+      "label": "Fort Boyard (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Freestyle Scooter (Europe).zip",
+      "label": "Freestyle Scooter (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Frogger (USA) (Rev 2) (GB Compatible).zip",
+      "label": "Frogger (USA) (Rev 2) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Frogger 2 (USA) (Rev 1).zip",
+      "label": "Frogger 2 (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Full Time Soccer (Europe) (Unl).zip",
+      "label": "Full Time Soccer (Europe) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Galaga - Destination Earth (USA).zip",
+      "label": "Galaga - Destination Earth (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Game & Watch Gallery 2 (USA, Europe) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Game & Watch Gallery 2 (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Game & Watch Gallery 3 (USA, Europe) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Game & Watch Gallery 3 (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Game Boy Wars 2 (Japan) (SGB Enhanced).gbc",
+      "label": "Game Boy Wars 2 (Japan) (SGB Enhanced)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Game Boy Wars 3 (Japan).gbc",
+      "label": "Game Boy Wars 3 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Games Frenzy (Europe).zip",
+      "label": "Games Frenzy (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/GameShark Online (USA) (Unl).zip",
+      "label": "GameShark Online (USA) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Gen the Carpenter - Smash Smash Hammer Smash (Japan) (SGB Enhanced).gbc",
+      "label": "Gen the Carpenter - Smash Smash Hammer Smash (Japan) (SGB Enhanced)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Gex - Enter the Gecko (USA, Europe) (GB Compatible).zip",
+      "label": "Gex - Enter the Gecko (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Gex 3 - Deep Pocket Gecko (USA).zip",
+      "label": "Gex 3 - Deep Pocket Gecko (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Ghosts'n Goblins (USA, Europe) (GB Compatible).zip",
+      "label": "Ghosts'n Goblins (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Gift (Europe).zip",
+      "label": "Gift (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Gobs of Games (USA).zip",
+      "label": "Gobs of Games (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Godzilla - The Series (USA) (GB Compatible).zip",
+      "label": "Godzilla - The Series (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Godzilla - The Series - Monster Wars (USA).zip",
+      "label": "Godzilla - The Series - Monster Wars (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Gold and Glory - The Road to El Dorado (USA).zip",
+      "label": "Gold and Glory - The Road to El Dorado (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Golden Goal (Europe) (GB Compatible).zip",
+      "label": "Golden Goal (Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Grand Theft Auto (USA) (GB Compatible).zip",
+      "label": "Grand Theft Auto (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Grand Theft Auto 2 (USA).zip",
+      "label": "Grand Theft Auto 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Grandia - Parallel Trippers (Japan).gbc",
+      "label": "Grandia - Parallel Trippers (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Gremlins - Unleashed (Europe).zip",
+      "label": "Gremlins - Unleashed (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Grinch, The (USA).zip",
+      "label": "Grinch, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Halloween Racer (Europe).zip",
+      "label": "Halloween Racer (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Hamtaro - Ham-Hams Unite! (USA).zip",
+      "label": "Hamtaro - Ham-Hams Unite! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Hands of Time (USA, Europe).zip",
+      "label": "Hands of Time (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Hang Time Basketball (Europe) (Unl).zip",
+      "label": "Hang Time Basketball (Europe) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Harley-Davidson Motor Cycles - Race Across America (USA).zip",
+      "label": "Harley-Davidson Motor Cycles - Race Across America (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Harry Potter & the Mystical Halo (China) (Unl).gbc",
+      "label": "Harry Potter & the Mystical Halo (China) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Harry Potter and the Chamber of Secrets (USA, Europe).zip",
+      "label": "Harry Potter and the Chamber of Secrets (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Harry Potter and the Sorcerer's Stone (USA, Europe).zip",
+      "label": "Harry Potter and the Sorcerer's Stone (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Harvest Moon 2 GBC (USA) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Harvest Moon 2 GBC (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Harvest Moon 3 GBC (USA).zip",
+      "label": "Harvest Moon 3 GBC (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Harvest Moon GBC (USA) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Harvest Moon GBC (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Hello Kitty - Magical Museum (Japan) (SGB Enhanced).gbc",
+      "label": "Hello Kitty - Magical Museum (Japan) (SGB Enhanced)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Hello Kitty's Cube Frenzy (USA) (GB Compatible).zip",
+      "label": "Hello Kitty's Cube Frenzy (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Hercules - The Legendary Journeys (Europe).zip",
+      "label": "Hercules - The Legendary Journeys (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Heroes of Might and Magic (USA).zip",
+      "label": "Heroes of Might and Magic (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Heroes of Might and Magic II (USA).zip",
+      "label": "Heroes of Might and Magic II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Hexcite - The Shapes of Victory (USA, Europe) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Hexcite - The Shapes of Victory (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Hole in One Golf (USA) (Rumble Version) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Hole in One Golf (USA) (Rumble Version) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Hollywood Pinball (Europe) (GB Compatible).zip",
+      "label": "Hollywood Pinball (Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Holy Magic Century (Europe) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Holy Magic Century (Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Hot Wheels - Stunt Track Driver (USA, Europe) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Hot Wheels - Stunt Track Driver (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Hoyle Card Games (USA).zip",
+      "label": "Hoyle Card Games (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Hoyle Casino (USA).zip",
+      "label": "Hoyle Casino (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Hugo - Black Diamond Fever (Europe).zip",
+      "label": "Hugo - Black Diamond Fever (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Hugo - The Evil Mirror (Europe).zip",
+      "label": "Hugo - The Evil Mirror (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Hype - The Time Quest (Europe).zip",
+      "label": "Hype - The Time Quest (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Indiana Jones and the Infernal Machine (USA, Europe).zip",
+      "label": "Indiana Jones and the Infernal Machine (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Inspector Gadget - Operation Madkactus (USA).zip",
+      "label": "Inspector Gadget - Operation Madkactus (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/International Karate 2000 (Europe).zip",
+      "label": "International Karate 2000 (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/International Rally (USA) (SGB Enhanced) (GB Compatible).zip",
+      "label": "International Rally (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/International Superstar Soccer 2000 (USA).zip",
+      "label": "International Superstar Soccer 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/International Superstar Soccer 99 (USA) (SGB Enhanced) (GB Compatible).zip",
+      "label": "International Superstar Soccer 99 (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/International Track & Field (USA) (SGB Enhanced) (GB Compatible).zip",
+      "label": "International Track & Field (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Jeff Gordon XS Racing (USA) (GB Compatible).zip",
+      "label": "Jeff Gordon XS Racing (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Jeremy McGrath Supercross 2000 (USA, Europe).zip",
+      "label": "Jeremy McGrath Supercross 2000 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Jim Henson's Bear in the Big Blue House (USA).zip",
+      "label": "Jim Henson's Bear in the Big Blue House (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Jim Henson's Muppets (USA).zip",
+      "label": "Jim Henson's Muppets (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Jimmy White's Cueball (Europe).zip",
+      "label": "Jimmy White's Cueball (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/John Romero's Daikatana (Europe).zip",
+      "label": "John Romero's Daikatana (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/JumpStart Dino Adventure - Field Trip (USA).zip",
+      "label": "JumpStart Dino Adventure - Field Trip (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Jungle Book, The - Mowgli's Wild Adventure (USA).zip",
+      "label": "Jungle Book, The - Mowgli's Wild Adventure (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Jurassic Boy 2 (World) (Rev 1) (Sachen) (Unl).zip",
+      "label": "Jurassic Boy 2 (World) (Rev 1) (Sachen) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Karate Joe (Europe) (Unl).zip",
+      "label": "Karate Joe (Europe) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Keep the Balance (Europe).zip",
+      "label": "Keep the Balance (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Kelly Club (USA).zip",
+      "label": "Kelly Club (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Ken Griffey Jr.'s Slugfest (USA).zip",
+      "label": "Ken Griffey Jr.'s Slugfest (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Kirby - Tilt 'n' Tumble (USA).zip",
+      "label": "Kirby - Tilt 'n' Tumble (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Kirikou (Europe).zip",
+      "label": "Kirikou (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Klax (USA, Europe).zip",
+      "label": "Klax (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Klustar (USA) (GB Compatible).zip",
+      "label": "Klustar (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Knockout Kings (USA, Europe).zip",
+      "label": "Knockout Kings (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Konami GB Collection Vol.1 (Europe) (GB Compatible).zip",
+      "label": "Konami GB Collection Vol.1 (Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Konami GB Collection Vol.2 (Europe) (GB Compatible).zip",
+      "label": "Konami GB Collection Vol.2 (Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Konami GB Collection Vol.3 (Europe) (GB Compatible).zip",
+      "label": "Konami GB Collection Vol.3 (Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Konami GB Collection Vol.4 (Europe) (GB Compatible).zip",
+      "label": "Konami GB Collection Vol.4 (Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Konami Winter Games (Europe).zip",
+      "label": "Konami Winter Games (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Land Before Time, The (USA).zip",
+      "label": "Land Before Time, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Las Vegas Cool Hand (USA) (GB Compatible).zip",
+      "label": "Las Vegas Cool Hand (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Laura (USA).zip",
+      "label": "Laura (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Le Mans 24 Hours (Europe).zip",
+      "label": "Le Mans 24 Hours (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Legend of the River King 2 (USA) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Legend of the River King 2 (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Legend of the River King GBC (USA) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Legend of the River King GBC (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Legend of Zelda, The - Oracle of Ages (USA, Australia).zip",
+      "label": "Legend of Zelda, The - Oracle of Ages (USA, Australia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Legend of Zelda, The - Oracle of Seasons (USA, Australia).zip",
+      "label": "Legend of Zelda, The - Oracle of Seasons (USA, Australia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/LEGO Alpha Team (USA).zip",
+      "label": "LEGO Alpha Team (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/LEGO Island 2 - The Brickster's Revenge (USA).zip",
+      "label": "LEGO Island 2 - The Brickster's Revenge (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/LEGO Racers (USA).zip",
+      "label": "LEGO Racers (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/LEGO Stunt Rally (USA).zip",
+      "label": "LEGO Stunt Rally (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Lemmings & Oh No! More Lemmings (USA).zip",
+      "label": "Lemmings & Oh No! More Lemmings (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Lil' Monster (USA) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Lil' Monster (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Lion King, The - Simba's Mighty Adventure (USA, Europe).zip",
+      "label": "Lion King, The - Simba's Mighty Adventure (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Little Magic (Japan).gbc",
+      "label": "Little Magic (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Little Mermaid II, The - Pinball Frenzy (USA) (Rumble Version).zip",
+      "label": "Little Mermaid II, The - Pinball Frenzy (USA) (Rumble Version)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Little Nicky (USA).zip",
+      "label": "Little Nicky (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Logical (USA).zip",
+      "label": "Logical (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Looney Tunes (USA) (GB Compatible).zip",
+      "label": "Looney Tunes (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Looney Tunes - Carrot Crazy (USA) (GB Compatible).zip",
+      "label": "Looney Tunes - Carrot Crazy (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Looney Tunes - Twouble! (USA) (GB Compatible).zip",
+      "label": "Looney Tunes - Twouble! (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Looney Tunes Collector - Alert! (USA).zip",
+      "label": "Looney Tunes Collector - Alert! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Looney Tunes Collector - Martian Revenge! (Europe).zip",
+      "label": "Looney Tunes Collector - Martian Revenge! (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Looney Tunes Racing (USA).zip",
+      "label": "Looney Tunes Racing (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Lucky Luke (USA).zip",
+      "label": "Lucky Luke (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Lufia - The Legend Returns (USA).zip",
+      "label": "Lufia - The Legend Returns (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/M&M's Minis Madness (USA).zip",
+      "label": "M&M's Minis Madness (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Madden NFL 2000 (USA, Europe) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Madden NFL 2000 (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Madden NFL 2001 (USA).zip",
+      "label": "Madden NFL 2001 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Madden NFL 2002 (USA).zip",
+      "label": "Madden NFL 2002 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Magi Nation (USA).zip",
+      "label": "Magi Nation (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Magical Chase GB (Japan).gbc",
+      "label": "Magical Chase GB (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Magical Drop (USA).zip",
+      "label": "Magical Drop (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Magical Tetris Challenge (USA).zip",
+      "label": "Magical Tetris Challenge (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Marble Madness (USA, Europe).zip",
+      "label": "Marble Madness (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Mario Golf (USA).zip",
+      "label": "Mario Golf (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Mario Tennis (USA).zip",
+      "label": "Mario Tennis (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Marvin Strikes Back! (USA).zip",
+      "label": "Marvin Strikes Back! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Mary-Kate & Ashley - Get a Clue! (USA, Europe) (GB Compatible).zip",
+      "label": "Mary-Kate & Ashley - Get a Clue! (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Mary-Kate and Ashley - Crush Course (USA, Europe).zip",
+      "label": "Mary-Kate and Ashley - Crush Course (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Mary-Kate and Ashley - Pocket Planner (USA, Europe) (GB Compatible).zip",
+      "label": "Mary-Kate and Ashley - Pocket Planner (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Mary-Kate and Ashley - Winners Circle (USA, Europe).zip",
+      "label": "Mary-Kate and Ashley - Winners Circle (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Mask of Zorro, The (Europe).zip",
+      "label": "Mask of Zorro, The (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Mask of Zorro, The (USA).zip",
+      "label": "Mask of Zorro, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Mat Hoffman's Pro BMX (USA, Europe).zip",
+      "label": "Mat Hoffman's Pro BMX (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Matchbox Emergency Patrol (USA, Europe).zip",
+      "label": "Matchbox Emergency Patrol (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Maus, Die (Europe).zip",
+      "label": "Maus, Die (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Maya the Bee & Her Friends (Europe) (GB Compatible).zip",
+      "label": "Maya the Bee & Her Friends (Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Maya the Bee - Garden Adventures (Europe).zip",
+      "label": "Maya the Bee - Garden Adventures (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Mega Man Xtreme (USA, Europe) (GB Compatible).zip",
+      "label": "Mega Man Xtreme (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Mega Man Xtreme 2 (USA, Europe).zip",
+      "label": "Mega Man Xtreme 2 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Megami Tensei Gaiden - Last Bible II (Japan) (SGB Enhanced).gbc",
+      "label": "Megami Tensei Gaiden - Last Bible II (Japan) (SGB Enhanced)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Men in Black - The Series (USA, Europe) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Men in Black - The Series (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Men in Black 2 - The Series (USA).zip",
+      "label": "Men in Black 2 - The Series (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Merlin (Europe).zip",
+      "label": "Merlin (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Metal Gear Solid (USA).zip",
+      "label": "Metal Gear Solid (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Metal Slug 2001 (China) (Unl).gbc",
+      "label": "Metal Slug 2001 (China) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Metal Walker (USA) (GB Compatible).zip",
+      "label": "Metal Walker (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Mia Hamm Soccer Shootout (USA).zip",
+      "label": "Mia Hamm Soccer Shootout (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Mickey's Racing Adventure (USA, Europe).zip",
+      "label": "Mickey's Racing Adventure (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Mickey's Speedway USA (USA, Europe).zip",
+      "label": "Mickey's Speedway USA (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Micro Machines 1 and 2 - Twin Turbo (USA, Europe).zip",
+      "label": "Micro Machines 1 and 2 - Twin Turbo (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Micro Machines V3 (USA, Europe).zip",
+      "label": "Micro Machines V3 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Micro Maniacs (Europe).zip",
+      "label": "Micro Maniacs (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Microsoft - The 6 in 1 Puzzle Collection Entertainment Pack (USA).zip",
+      "label": "Microsoft - The 6 in 1 Puzzle Collection Entertainment Pack (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Microsoft - The Best of Entertainment Pack (USA).zip",
+      "label": "Microsoft - The Best of Entertainment Pack (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Microsoft Pinball Arcade (USA).zip",
+      "label": "Microsoft Pinball Arcade (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Midway presents Arcade Hits - Joust & Defender (USA, Europe) (GB Compatible).zip",
+      "label": "Midway presents Arcade Hits - Joust & Defender (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Midway presents Arcade Hits - Moon Patrol & Spy Hunter (USA, Europe) (GB Compatible).zip",
+      "label": "Midway presents Arcade Hits - Moon Patrol & Spy Hunter (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Millennium Winter Sports (USA).zip",
+      "label": "Millennium Winter Sports (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Missile Command (USA) (Rumble Version).zip",
+      "label": "Missile Command (USA) (Rumble Version)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Mission - Impossible (USA).zip",
+      "label": "Mission - Impossible (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Monkey Puncher (Europe) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Monkey Puncher (Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Monopoly (USA) (GB Compatible).zip",
+      "label": "Monopoly (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Monster Rancher Battle Card GB (USA) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Monster Rancher Battle Card GB (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Monster Rancher Explorer (USA).zip",
+      "label": "Monster Rancher Explorer (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Monsters, Inc. (USA, Europe).zip",
+      "label": "Monsters, Inc. (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Montezuma's Return! (USA) (GB Compatible).zip",
+      "label": "Montezuma's Return! (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Moomin's Tale (Europe).zip",
+      "label": "Moomin's Tale (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Moorhuhn 3 - ...Es Gibt Huhn! (Europe).zip",
+      "label": "Moorhuhn 3 - ...Es Gibt Huhn! (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Mortal Kombat 4 (USA, Europe) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Mortal Kombat 4 (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Motocross Maniacs 2 (USA).zip",
+      "label": "Motocross Maniacs 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Mr. Driller (USA).zip",
+      "label": "Mr. Driller (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Mr. Nutz (USA).zip",
+      "label": "Mr. Nutz (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Ms. Pac-Man - Special Color Edition (USA) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Ms. Pac-Man - Special Color Edition (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/MTV Sports - Pure Ride (USA, Europe).zip",
+      "label": "MTV Sports - Pure Ride (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/MTV Sports - Skateboarding featuring Andy MacDonald (USA, Europe).zip",
+      "label": "MTV Sports - Skateboarding featuring Andy MacDonald (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/MTV Sports - T.J. Lavin's Ultimate BMX (USA, Europe).zip",
+      "label": "MTV Sports - T.J. Lavin's Ultimate BMX (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Mummy Returns, The (USA).zip",
+      "label": "Mummy Returns, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Mummy, The (USA).zip",
+      "label": "Mummy, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Nakayoshi Pet Series 2 - Kawaii Usagi (Japan) (GB Compatible).zip",
+      "label": "Nakayoshi Pet Series 2 - Kawaii Usagi (Japan) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/NASCAR 2000 (USA, Europe).zip",
+      "label": "NASCAR 2000 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/NASCAR Challenge (USA) (Rumble Version).zip",
+      "label": "NASCAR Challenge (USA) (Rumble Version)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/NASCAR Heat (USA).zip",
+      "label": "NASCAR Heat (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/NASCAR Racers (USA).zip",
+      "label": "NASCAR Racers (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Nations, The - Land of Legends (Europe).zip",
+      "label": "Nations, The - Land of Legends (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/NBA 3 on 3 featuring Kobe Bryant (USA) (SGB Enhanced) (GB Compatible).zip",
+      "label": "NBA 3 on 3 featuring Kobe Bryant (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/NBA Hoopz (USA).zip",
+      "label": "NBA Hoopz (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/NBA in the Zone (USA) (Rev 1) (SGB Enhanced) (GB Compatible).zip",
+      "label": "NBA in the Zone (USA) (Rev 1) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/NBA in the Zone 2000 (USA).zip",
+      "label": "NBA in the Zone 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/NBA Jam 2001 (USA, Europe).zip",
+      "label": "NBA Jam 2001 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/NBA Jam 99 (USA, Europe) (GB Compatible).zip",
+      "label": "NBA Jam 99 (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/NBA Show Time - NBA on NBC (USA).zip",
+      "label": "NBA Show Time - NBA on NBC (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/New Addams Family Series, The (Europe).zip",
+      "label": "New Addams Family Series, The (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/New Adventures of Mary-Kate & Ashley, The (USA, Europe) (GB Compatible).zip",
+      "label": "New Adventures of Mary-Kate & Ashley, The (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/NFL Blitz (USA, Europe) (Rev 1) (GB Compatible).zip",
+      "label": "NFL Blitz (USA, Europe) (Rev 1) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/NFL Blitz 2000 (USA).zip",
+      "label": "NFL Blitz 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/NFL Blitz 2001 (USA).zip",
+      "label": "NFL Blitz 2001 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/NHL 2000 (USA, Europe) (SGB Enhanced) (GB Compatible).zip",
+      "label": "NHL 2000 (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/NHL Blades of Steel (USA).zip",
+      "label": "NHL Blades of Steel (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/NHL Blades of Steel 2000 (USA).zip",
+      "label": "NHL Blades of Steel 2000 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Nicktoons Racing (USA).zip",
+      "label": "Nicktoons Racing (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/No Fear - Downhill Mountain Biking (Europe).zip",
+      "label": "No Fear - Downhill Mountain Biking (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Nobunaga's Ambition - Game Boy Version 2 (Japan) (SGB Enhanced).gbc",
+      "label": "Nobunaga's Ambition - Game Boy Version 2 (Japan) (SGB Enhanced)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Noddy and the Birthday Party (Europe).zip",
+      "label": "Noddy and the Birthday Party (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/NSYNC - Get to the Show (USA).zip",
+      "label": "NSYNC - Get to the Show (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/NYR - New York Race (Europe).zip",
+      "label": "NYR - New York Race (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/O'Leary Manager 2000 (Europe).zip",
+      "label": "O'Leary Manager 2000 (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Oddworld Adventures 2 (USA) (GB Compatible).zip",
+      "label": "Oddworld Adventures 2 (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Ottifanten - Kommando Stoertebeker (Germany).gbc",
+      "label": "Ottifanten - Kommando Stoertebeker (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Pac-Man - Special Color Edition (USA) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Pac-Man - Special Color Edition (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Painter (Europe) (Unl).zip",
+      "label": "Painter (Europe) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Paperboy (USA, Europe).zip",
+      "label": "Paperboy (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Papyrus (Europe).zip",
+      "label": "Papyrus (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Perfect Dark (USA, Europe) (Rumble Version).zip",
+      "label": "Perfect Dark (USA, Europe) (Rumble Version)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Pitfall - Beyond the Jungle (USA, Europe) (GB Compatible).zip",
+      "label": "Pitfall - Beyond the Jungle (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Planet of the Apes (USA).zip",
+      "label": "Planet of the Apes (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Player Manager 2001 (Europe).zip",
+      "label": "Player Manager 2001 (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Pocket Billiards - Funk the 9 Ball (Japan).gbc",
+      "label": "Pocket Billiards - Funk the 9 Ball (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Pocket Bomberman (USA, Europe) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Pocket Bomberman (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Pocket Bowling (USA) (GB Compatible).zip",
+      "label": "Pocket Bowling (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Pocket Music (Europe).zip",
+      "label": "Pocket Music (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Pocket Racing (Europe).zip",
+      "label": "Pocket Racing (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Pocket Smash Out (Europe) (Unl).zip",
+      "label": "Pocket Smash Out (Europe) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Pocket Soccer (Europe).zip",
+      "label": "Pocket Soccer (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Pokemon - Crystal Version (USA, Europe) (Rev 1).zip",
+      "label": "Pokemon - Crystal Version (USA, Europe) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Pokemon - Gold Version (USA, Europe) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Pokemon - Gold Version (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Pokemon - Silver Version (USA, Europe) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Pokemon - Silver Version (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Pokemon Pinball (USA, Australia) (Rumble Version) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Pokemon Pinball (USA, Australia) (Rumble Version) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Pokemon Puzzle Challenge (USA, Australia).zip",
+      "label": "Pokemon Puzzle Challenge (USA, Australia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Pokemon Trading Card Game (USA, Australia) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Pokemon Trading Card Game (USA, Australia) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Pokemon Trading Card Game 2 - The Invasion of Team GR! (Japan).gbc",
+      "label": "Pokemon Trading Card Game 2 - The Invasion of Team GR! (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Polaris SnoCross (USA) (Rumble Version).zip",
+      "label": "Polaris SnoCross (USA) (Rumble Version)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Pong - The Next Level (USA, Europe).zip",
+      "label": "Pong - The Next Level (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Pooh and Tigger's Hunny Safari (USA).zip",
+      "label": "Pooh and Tigger's Hunny Safari (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Pop'n Pop (Europe).zip",
+      "label": "Pop'n Pop (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Portal Runner (USA).zip",
+      "label": "Portal Runner (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Power Quest (USA) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Power Quest (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Power Spike - Pro Beach Volleyball (USA).zip",
+      "label": "Power Spike - Pro Beach Volleyball (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Powerpuff Girls, The - Bad Mojo Jojo (USA) (Rev 2).zip",
+      "label": "Powerpuff Girls, The - Bad Mojo Jojo (USA) (Rev 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Powerpuff Girls, The - Battle Him (USA) (Rev 1).zip",
+      "label": "Powerpuff Girls, The - Battle Him (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Powerpuff Girls, The - Paint the Townsville Green (USA) (Rev 2).zip",
+      "label": "Powerpuff Girls, The - Paint the Townsville Green (USA) (Rev 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Prince Naseem Boxing (Europe).zip",
+      "label": "Prince Naseem Boxing (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Prince of Persia (USA, Europe) (GB Compatible).zip",
+      "label": "Prince of Persia (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Pro Darts (USA).zip",
+      "label": "Pro Darts (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Pro Pool (USA).zip",
+      "label": "Pro Pool (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Project S-11 (USA).zip",
+      "label": "Project S-11 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Puzzle Master (USA) (GB Compatible).zip",
+      "label": "Puzzle Master (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Puzzled (USA).zip",
+      "label": "Puzzled (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Q-bert (USA).zip",
+      "label": "Q-bert (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Qix Adventure (Europe).zip",
+      "label": "Qix Adventure (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Quest - Brian's Journey (USA) (GB Compatible).zip",
+      "label": "Quest - Brian's Journey (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Quest - Fantasy Challenge (USA) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Quest - Fantasy Challenge (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Quest for Camelot (USA) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Quest for Camelot (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/R-Type DX (USA, Europe) (GB Compatible).zip",
+      "label": "R-Type DX (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Racin' Ratz (USA).zip",
+      "label": "Racin' Ratz (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Rainbow Islands (Europe).zip",
+      "label": "Rainbow Islands (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Rampage - World Tour (USA, Europe) (GB Compatible).zip",
+      "label": "Rampage - World Tour (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Rampage 2 - Universal Tour (USA, Europe).zip",
+      "label": "Rampage 2 - Universal Tour (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Rampart (USA).zip",
+      "label": "Rampart (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Rats! (USA) (GB Compatible).zip",
+      "label": "Rats! (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Rayman (USA).zip",
+      "label": "Rayman (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Rayman 2 (USA).zip",
+      "label": "Rayman 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Razor Freestyle Scooter (USA).zip",
+      "label": "Razor Freestyle Scooter (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Ready 2 Rumble Boxing (USA) (Rumble Version).zip",
+      "label": "Ready 2 Rumble Boxing (USA) (Rumble Version)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Rescue Heroes - Fire Frenzy (USA).zip",
+      "label": "Rescue Heroes - Fire Frenzy (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Reservoir Rat (Europe) (GB Compatible).zip",
+      "label": "Reservoir Rat (Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Resident Evil Gaiden (USA).zip",
+      "label": "Resident Evil Gaiden (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Return of the Ninja (USA).zip",
+      "label": "Return of the Ninja (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Revelations - The Demon Slayer (USA) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Revelations - The Demon Slayer (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Rhino Rumble (USA, Europe).zip",
+      "label": "Rhino Rumble (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Rip-Tide Racer (Europe) (GB Compatible).zip",
+      "label": "Rip-Tide Racer (Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Road Champs - BXS Stunt Biking (USA, Europe).zip",
+      "label": "Road Champs - BXS Stunt Biking (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Road Rash (USA, Europe).zip",
+      "label": "Road Rash (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Roadsters (USA) (GB Compatible).zip",
+      "label": "Roadsters (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Robin Hood (Europe).zip",
+      "label": "Robin Hood (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/RoboCop (Europe).zip",
+      "label": "RoboCop (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Robopon - Sun Version (USA) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Robopon - Sun Version (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Robot Wars - Metal Mayhem (Europe).zip",
+      "label": "Robot Wars - Metal Mayhem (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Rocket Power - Gettin' Air (USA, Europe).zip",
+      "label": "Rocket Power - Gettin' Air (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Rocky Mountain Trophy Hunter (USA).zip",
+      "label": "Rocky Mountain Trophy Hunter (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Roland Garros French Open (Europe).zip",
+      "label": "Roland Garros French Open (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Ronaldo V-Soccer (USA) (GB Compatible).zip",
+      "label": "Ronaldo V-Soccer (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Roswell Conspiracies - Aliens, Myths & Legends (USA).zip",
+      "label": "Roswell Conspiracies - Aliens, Myths & Legends (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Rox (USA, Europe) (GB Compatible).zip",
+      "label": "Rox (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Rugrats - Time Travelers (USA, Europe) (GB Compatible).zip",
+      "label": "Rugrats - Time Travelers (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Rugrats - Totally Angelica (USA, Europe).zip",
+      "label": "Rugrats - Totally Angelica (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Rugrats in Paris - The Movie (USA, Europe).zip",
+      "label": "Rugrats in Paris - The Movie (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Rugrats Movie, The (USA) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Rugrats Movie, The (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Saban's Power Rangers - Lightspeed Rescue (USA, Europe).zip",
+      "label": "Saban's Power Rangers - Lightspeed Rescue (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Saban's Power Rangers - Time Force (USA, Europe).zip",
+      "label": "Saban's Power Rangers - Time Force (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Sabrina - The Animated Series - Spooked! (USA, Europe).zip",
+      "label": "Sabrina - The Animated Series - Spooked! (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Sabrina - The Animated Series - Zapped! (USA, Europe).zip",
+      "label": "Sabrina - The Animated Series - Zapped! (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/San Francisco Rush 2049 (USA, Europe).zip",
+      "label": "San Francisco Rush 2049 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Santa Claus Junior (Europe).zip",
+      "label": "Santa Claus Junior (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Scooby-Doo! - Classic Creep Capers (USA, Europe).zip",
+      "label": "Scooby-Doo! - Classic Creep Capers (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Scrabble (Europe).zip",
+      "label": "Scrabble (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Secrets of Happy Hippo Isle, The (Germany).gbc",
+      "label": "Secrets of Happy Hippo Isle, The (Germany)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Sesame Street - Elmo's 123s (USA) (GB Compatible).zip",
+      "label": "Sesame Street - Elmo's 123s (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Sesame Street - Elmo's ABCs (USA) (GB Compatible).zip",
+      "label": "Sesame Street - Elmo's ABCs (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Sesame Street - The Adventures of Elmo in Grouchland (USA) (GB Compatible).zip",
+      "label": "Sesame Street - The Adventures of Elmo in Grouchland (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Sesame Street Sports (USA).zip",
+      "label": "Sesame Street Sports (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Sewing Machine Operation Software (USA) (GB Compatible).zip",
+      "label": "Sewing Machine Operation Software (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Sgt. Rock - On the Frontline (USA).zip",
+      "label": "Sgt. Rock - On the Frontline (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Shadowgate Classic (USA, Europe) (GB Compatible).zip",
+      "label": "Shadowgate Classic (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Shamus (USA, Europe) (GB Compatible).zip",
+      "label": "Shamus (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Shanghai Pocket (USA, Europe) (Rev 1) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Shanghai Pocket (USA, Europe) (Rev 1) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Shantae (USA).zip",
+      "label": "Shantae (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Shaun Palmer's Pro Snowboarder (USA).zip",
+      "label": "Shaun Palmer's Pro Snowboarder (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Shelly Club (Europe).zip",
+      "label": "Shelly Club (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Shrek - Fairy Tale Freakdown (USA, Europe).zip",
+      "label": "Shrek - Fairy Tale Freakdown (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Simpsons, The - Night of the Living Treehouse of Horror (USA, Europe).zip",
+      "label": "Simpsons, The - Night of the Living Treehouse of Horror (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Smurfs Nightmare, The (USA).zip",
+      "label": "Smurfs Nightmare, The (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Snoopy Tennis (USA).zip",
+      "label": "Snoopy Tennis (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Snow White and the Seven Dwarfs (USA).zip",
+      "label": "Snow White and the Seven Dwarfs (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Snowboard Champion (Japan).gbc",
+      "label": "Snowboard Champion (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/SnowCross (Europe).zip",
+      "label": "SnowCross (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Soccer Manager (Europe).zip",
+      "label": "Soccer Manager (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Space Invaders (USA, Europe) (GB Compatible).zip",
+      "label": "Space Invaders (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Space Invaders X (Japan) (En) (GB Compatible).zip",
+      "label": "Space Invaders X (Japan) (En) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Space Marauder (USA).zip",
+      "label": "Space Marauder (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Spacestation Silicon Valley (Europe) (GB Compatible).zip",
+      "label": "Spacestation Silicon Valley (Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Spawn (USA).zip",
+      "label": "Spawn (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Speedy Gonzales - Aztec Adventure (USA, Europe) (GB Compatible).zip",
+      "label": "Speedy Gonzales - Aztec Adventure (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Spider-Man (USA, Europe).zip",
+      "label": "Spider-Man (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Spider-Man 2 - The Sinister Six (USA, Europe).zip",
+      "label": "Spider-Man 2 - The Sinister Six (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Spirou - The Robot Invasion (Europe).zip",
+      "label": "Spirou - The Robot Invasion (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/SpongeBob SquarePants - Legend of the Lost Spatula (USA, Europe).zip",
+      "label": "SpongeBob SquarePants - Legend of the Lost Spatula (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Spy vs Spy (USA).zip",
+      "label": "Spy vs Spy (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Star Wars - Yoda Stories (USA, Europe) (GB Compatible).zip",
+      "label": "Star Wars - Yoda Stories (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Star Wars Episode I - Obi-Wan's Adventures (USA).zip",
+      "label": "Star Wars Episode I - Obi-Wan's Adventures (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Star Wars Episode I - Racer (USA, Europe) (Rumble Version).zip",
+      "label": "Star Wars Episode I - Racer (USA, Europe) (Rumble Version)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Stranded Kids (Europe) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Stranded Kids (Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Street Fighter Alpha - Warriors' Dreams (USA).zip",
+      "label": "Street Fighter Alpha - Warriors' Dreams (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Street Hero (Taiwan) (En) (1B-004, EB-004, Sachen) (Unl).zip",
+      "label": "Street Hero (Taiwan) (En) (1B-004, EB-004, Sachen) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Stuart Little - The Journey Home (USA, Europe).zip",
+      "label": "Stuart Little - The Journey Home (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Super Bombliss DX (Japan) (En) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Super Bombliss DX (Japan) (En) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Super Breakout! (USA) (GB Compatible).zip",
+      "label": "Super Breakout! (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Super Chinese Fighter EX (Japan).gbc",
+      "label": "Super Chinese Fighter EX (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Super Mario Bros. Deluxe (USA, Europe) (Rev 2).zip",
+      "label": "Super Mario Bros. Deluxe (USA, Europe) (Rev 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Supercross Freestyle (Europe).zip",
+      "label": "Supercross Freestyle (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Supreme Snowboarding (Europe).zip",
+      "label": "Supreme Snowboarding (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Survival Kids (USA) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Survival Kids (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Suzuki Alstare Extreme Racing (Europe).zip",
+      "label": "Suzuki Alstare Extreme Racing (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/SWIV (Europe).zip",
+      "label": "SWIV (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Sylvanian Families - The Fairyland Pendant (Japan).gbc",
+      "label": "Sylvanian Families - The Fairyland Pendant (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Sylvanian Melodies (Japan) (SGB Enhanced).gbc",
+      "label": "Sylvanian Melodies (Japan) (SGB Enhanced)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Sylvester & Tweety - Breakfast on the Run (Europe) (GB Compatible).zip",
+      "label": "Sylvester & Tweety - Breakfast on the Run (Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Tarzan (USA, Europe).zip",
+      "label": "Tarzan (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Tasmanian Devil - Munching Madness (USA) (GB Compatible).zip",
+      "label": "Tasmanian Devil - Munching Madness (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Tech Deck Skateboarding (USA, Europe).zip",
+      "label": "Tech Deck Skateboarding (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Test Drive 2001 (USA).zip",
+      "label": "Test Drive 2001 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Test Drive 6 (USA) (GB Compatible).zip",
+      "label": "Test Drive 6 (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Test Drive Cycles (USA).zip",
+      "label": "Test Drive Cycles (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Test Drive Le Mans (USA).zip",
+      "label": "Test Drive Le Mans (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Test Drive Off-Road 3 (USA) (Rumble Version) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Test Drive Off-Road 3 (USA) (Rumble Version) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Tetris DX (World) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Tetris DX (World) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/TG Rally 2 (Europe).zip",
+      "label": "TG Rally 2 (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Three Lions (Europe) (GB Compatible).zip",
+      "label": "Three Lions (Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Thunder Blast Man (Europe) (Sachen) (Unl).zip",
+      "label": "Thunder Blast Man (Europe) (Sachen) (Unl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Thunderbirds (Europe).zip",
+      "label": "Thunderbirds (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Tiger Woods PGA Tour 2000 (USA, Europe) (GB Compatible).zip",
+      "label": "Tiger Woods PGA Tour 2000 (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Tintin and the Temple of the Sun (Europe).zip",
+      "label": "Tintin and the Temple of the Sun (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Tintin in Tibet (Europe).zip",
+      "label": "Tintin in Tibet (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Tiny Toon Adventures - Buster Saves the Day (USA).zip",
+      "label": "Tiny Toon Adventures - Buster Saves the Day (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Tiny Toon Adventures - Dizzy's Candy Quest (Europe).zip",
+      "label": "Tiny Toon Adventures - Dizzy's Candy Quest (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Titus the Fox (USA) (GB Compatible).zip",
+      "label": "Titus the Fox (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/TNN Outdoors Fishing Champ (USA) (SGB Enhanced) (GB Compatible).zip",
+      "label": "TNN Outdoors Fishing Champ (USA) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/TOCA Touring Car Championship (USA, Europe).zip",
+      "label": "TOCA Touring Car Championship (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Toki Tori (USA, Europe).zip",
+      "label": "Toki Tori (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Tom and Jerry (USA, Europe).zip",
+      "label": "Tom and Jerry (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Tom and Jerry - Mouse Hunt (USA).zip",
+      "label": "Tom and Jerry - Mouse Hunt (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Tom and Jerry in - Mouse Attacks! (USA) (Rev 1).zip",
+      "label": "Tom and Jerry in - Mouse Attacks! (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Tom Clancy's Rainbow Six (USA, Europe).zip",
+      "label": "Tom Clancy's Rainbow Six (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Tomb Raider (USA, Europe).zip",
+      "label": "Tomb Raider (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Tomb Raider - Curse of the Sword (USA, Europe).zip",
+      "label": "Tomb Raider - Curse of the Sword (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Tonic Trouble (Europe).zip",
+      "label": "Tonic Trouble (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Tonka Construction Site (USA).zip",
+      "label": "Tonka Construction Site (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Tonka Raceway (USA).zip",
+      "label": "Tonka Raceway (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Tonka Raceway (USA) (Rumble Version).zip",
+      "label": "Tonka Raceway (USA) (Rumble Version)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Tony Hawk's Pro Skater 2 (USA, Europe).zip",
+      "label": "Tony Hawk's Pro Skater 2 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Tony Hawk's Pro Skater 3 (USA, Europe).zip",
+      "label": "Tony Hawk's Pro Skater 3 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Tony Hawk's Skateboarding ~ Tony Hawk's Pro Skater (USA, Europe).zip",
+      "label": "Tony Hawk's Skateboarding ~ Tony Hawk's Pro Skater (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Toobin' (USA).zip",
+      "label": "Toobin' (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Toonsylvania (USA).zip",
+      "label": "Toonsylvania (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Tootuff (Europe).zip",
+      "label": "Tootuff (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Top Gear Pocket (USA) (Rumble Version).zip",
+      "label": "Top Gear Pocket (USA) (Rumble Version)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Top Gear Pocket 2 (USA).zip",
+      "label": "Top Gear Pocket 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Top Gun - Fire Storm (USA, Europe).zip",
+      "label": "Top Gun - Fire Storm (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Towers - Lord Baniff's Deceit (USA, Europe).zip",
+      "label": "Towers - Lord Baniff's Deceit (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Toy Story 2 (USA, Europe) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Toy Story 2 (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Toy Story Racer (USA, Europe).zip",
+      "label": "Toy Story Racer (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Trick Boarder (USA).zip",
+      "label": "Trick Boarder (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Triple Play 2001 (USA, Europe).zip",
+      "label": "Triple Play 2001 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Trouballs (USA).zip",
+      "label": "Trouballs (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Turok - Rage Wars (USA, Europe).zip",
+      "label": "Turok - Rage Wars (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Turok 2 - Seeds of Evil (USA, Europe) (GB Compatible).zip",
+      "label": "Turok 2 - Seeds of Evil (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Turok 3 - Shadow of Oblivion (USA, Europe).zip",
+      "label": "Turok 3 - Shadow of Oblivion (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Tweenies - Doodles' Bones (Europe).zip",
+      "label": "Tweenies - Doodles' Bones (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Tweety's High-Flying Adventure (USA).zip",
+      "label": "Tweety's High-Flying Adventure (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/UEFA 2000 (Europe).zip",
+      "label": "UEFA 2000 (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Ultimate Fighting Championship (USA).zip",
+      "label": "Ultimate Fighting Championship (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Ultimate Paintball (USA, Europe).zip",
+      "label": "Ultimate Paintball (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Ultimate Surfing (USA).zip",
+      "label": "Ultimate Surfing (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Uno (USA) (GB Compatible).zip",
+      "label": "Uno (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/V-Rally - Edition 99 (USA).zip",
+      "label": "V-Rally - Edition 99 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Vegas Games (USA).zip",
+      "label": "Vegas Games (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Vigilante 8 (USA) (Rumble Version).zip",
+      "label": "Vigilante 8 (USA) (Rumble Version)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/VIP (USA).zip",
+      "label": "VIP (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Wacky Races (USA).zip",
+      "label": "Wacky Races (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Walt Disney World Quest - Magical Racing Tour (USA, Europe).zip",
+      "label": "Walt Disney World Quest - Magical Racing Tour (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Wario Land 3 (World).zip",
+      "label": "Wario Land 3 (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Wario Land II (USA, Europe) (SGB Enhanced) (GB Compatible).zip",
+      "label": "Wario Land II (USA, Europe) (SGB Enhanced) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Warlocked (USA).zip",
+      "label": "Warlocked (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Warriors of Might and Magic (USA).zip",
+      "label": "Warriors of Might and Magic (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/WCW Mayhem (USA, Europe).zip",
+      "label": "WCW Mayhem (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/WDL - World Destruction League - Thunder Tanks (USA).zip",
+      "label": "WDL - World Destruction League - Thunder Tanks (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Wendy - Every Witch Way (USA, Europe).zip",
+      "label": "Wendy - Every Witch Way (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Wetrix (Europe).zip",
+      "label": "Wetrix (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Who Wants to Be a Millionaire - 2nd Edition (USA).zip",
+      "label": "Who Wants to Be a Millionaire - 2nd Edition (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Wild Thornberrys, The - Rambler (USA).zip",
+      "label": "Wild Thornberrys, The - Rambler (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Wings of Fury (USA) (GB Compatible).zip",
+      "label": "Wings of Fury (USA) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Winnie the Pooh - Adventures in the 100 Acre Wood (USA).zip",
+      "label": "Winnie the Pooh - Adventures in the 100 Acre Wood (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Wizardry I - Proving Grounds of the Mad Overlord (Japan).gbc",
+      "label": "Wizardry I - Proving Grounds of the Mad Overlord (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Wizardry II - Legacy of Llylgamyn (Japan).gbc",
+      "label": "Wizardry II - Legacy of Llylgamyn (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Wizardry III - Knight of Diamonds (Japan).gbc",
+      "label": "Wizardry III - Knight of Diamonds (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Woody Woodpecker (USA).zip",
+      "label": "Woody Woodpecker (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Woody Woodpecker Racing (USA).zip",
+      "label": "Woody Woodpecker Racing (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Worms Armageddon (USA).zip",
+      "label": "Worms Armageddon (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/WWF Attitude (USA, Europe).zip",
+      "label": "WWF Attitude (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/WWF Betrayal (USA, Europe).zip",
+      "label": "WWF Betrayal (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/WWF WrestleMania 2000 (USA, Europe) (GB Compatible).zip",
+      "label": "WWF WrestleMania 2000 (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/X-Men - Mutant Academy (USA, Europe) (Rev 1).zip",
+      "label": "X-Men - Mutant Academy (USA, Europe) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/X-Men - Mutant Wars (USA, Europe).zip",
+      "label": "X-Men - Mutant Wars (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/X-Men - Wolverine's Rage (USA).zip",
+      "label": "X-Men - Wolverine's Rage (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Xena - Warrior Princess (USA, Europe).zip",
+      "label": "Xena - Warrior Princess (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Xtreme Sports (USA).zip",
+      "label": "Xtreme Sports (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Xtreme Wheels (USA).zip",
+      "label": "Xtreme Wheels (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Yars' Revenge (USA, Europe) (GB Compatible).zip",
+      "label": "Yars' Revenge (USA, Europe) (GB Compatible)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Yogi Bear - Great Balloon Blast (USA).zip",
+      "label": "Yogi Bear - Great Balloon Blast (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Yu-Gi-Oh! - Dark Duel Stories (USA).zip",
+      "label": "Yu-Gi-Oh! - Dark Duel Stories (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Zebco Fishing! (USA) (Rumble Version).zip",
+      "label": "Zebco Fishing! (USA) (Rumble Version)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Zidane Football Generation (Europe).zip",
+      "label": "Zidane Football Generation (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/storage/roms/Nintendo Gameboy Color/Zoboomafoo - Playtime in Zobooland (USA).zip",
+      "label": "Zoboomafoo - Playtime in Zobooland (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    }
+  ]
+}

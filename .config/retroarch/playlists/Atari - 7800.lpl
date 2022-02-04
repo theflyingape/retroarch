@@ -1,0 +1,539 @@
+{
+  "version": "1.5",
+  "default_core_path": "/tmp/cores/prosystem_libretro.so",
+  "default_core_name": "Atari - 7800 (ProSystem)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/storage/roms/a7800/aceoface.zip#aceofaeu.bin",
+      "label": "Ace of Aces (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "20C5DB80|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/alienbrg.zip#alienbeu.bin",
+      "label": "Alien Brigade (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6A19F0FE|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/asteroid.zip#astroids.bin",
+      "label": "Asteroids (USA)",
+      "core_path": "/tmp/cores/prosystem_libretro.so",
+      "core_name": "Atari - 7800 (ProSystem)",
+      "crc32": "DFB93F40|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/ballblaz.zip#ballbleu.bin",
+      "label": "Ballblazer (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AFF85565|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/barnblst.zip#barnyaeu.bin",
+      "label": "Barnyard Blaster (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "02764A86|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/baseball.zip#bseblleu.bin",
+      "label": "Baseball (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "68D48FDC|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/bsktbrwl.zip#bsktbreu.bin",
+      "label": "Basketbrawl (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A4265D4B|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/centiped.zip#centpeeu.bin",
+      "label": "Centipede (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "33F8A8F6|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/choplift.zip#choplieu.bin",
+      "label": "Choplifter! (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "12EFEB07|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/commando.zip#commaneu.bin",
+      "label": "Commando (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7C211612|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/cracked.zip#crackeu.bin",
+      "label": "Crack'ed (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "50FD19CB|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/crossbow.zip#crossbeu.bin",
+      "label": "Crossbow (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E93D8894|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/darkcham.zip#darkcheu.bin",
+      "label": "Dark Chambers (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C93A563E|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/dsrtflcn.zip#dsrtfleu.bin",
+      "label": "Desert Falcon (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "33991EE8|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/diagtest.zip#diagtest.bin",
+      "label": "Diagnostic Test Cartrige (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A1EAA7C1|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/digdug.zip#digdugeu.bin",
+      "label": "Dig Dug (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EFAB7077|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/dkong.zip#dnkykoeu.bin",
+      "label": "Donkey Kong (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0A43D1C5|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/dkongjr.zip#dnkykjeu.bin",
+      "label": "Donkey Kong Junior (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C784DBAC|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/ddragon.zip#dbledreu.bin",
+      "label": "Double Dragon (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F29ABDB2|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/f18.zip#f18horeu.bin",
+      "label": "F-18 Hornet (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E5D714B0|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/fatalrun.zip#fatalreu.bin",
+      "label": "Fatal Run (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2A0A93BE|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/fightn.zip#fghtngeu.bin",
+      "label": "Fight Night (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "64D9C4BE|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/foodf.zip#foodfgeu.bin",
+      "label": "Food Fight (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C64549EC|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/galaga.zip#galagaeu.bin",
+      "label": "Galaga (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5990A9F8|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/hattrick.zip#hattrieu.bin",
+      "label": "Hat Trick (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "057D9C3C|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/ikari.zip#ikariweu.bin",
+      "label": "Ikari Warriors (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CB621CDC|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/impmiss.zip#impssbeu.bin",
+      "label": "Impossible Mission (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "994AF6E0|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/jinks.zip#jinkseu.bin",
+      "label": "Jinks (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9207ED3B|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/joust.zip#jousteu.bin",
+      "label": "Joust (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9B3BE616|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/karateka.zip#karateeu.bin",
+      "label": "Karateka (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6C8D9E68|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/klax.zip#klax.bin",
+      "label": "Klax (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F26621E3|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/kungfum.zip#kungfueu.bin",
+      "label": "Kung-Fu Master (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C1531FC4|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/mario.zip#mariobeu.bin",
+      "label": "Mario Bros. (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "EFAD3D9D|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/matmania.zip#matmaneu.bin",
+      "label": "Mat Mania Challenge (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "065F3873|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/mean18.zip#mean18eu.bin",
+      "label": "Mean 18 Ultimate Golf (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "3CEC4BE8|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/meltdown.zip#meltdoeu.bin",
+      "label": "Meltdown (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "177FC850|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/midnight.zip#midmuteu.bin",
+      "label": "Midnight Mutants (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7CA6D521|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/mia.zip#miaproto.bin",
+      "label": "Missing in Action (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FF7A4C60|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/mpsycho.zip#mtrpsyeu.bin",
+      "label": "Motor Psycho (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "38BB45BA|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/mspacman.zip#mspacmeu.bin",
+      "label": "Ms. Pac-Man (Europe)",
+      "core_path": "/tmp/cores/prosystem_libretro.so",
+      "core_name": "Atari - 7800 (ProSystem)",
+      "crc32": "8421033A|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/ninjaglf.zip#ninjageu.bin",
+      "label": "Ninja Golf (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2B5382B7|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/1on1.zip#oneonoeu.bin",
+      "label": "One-on-One Basketball (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7A628295|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/pitfight.zip#pitfghtr.bin",
+      "label": "Pit Fighter (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A5E75537|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/planetsm.zip#planeteu.bin",
+      "label": "Planet Smashers (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "95DC7E96|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/plutos.zip#plutos.bin",
+      "label": "Plutos (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2F211F7F|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/polepos2.zip#pleps2eu.bin",
+      "label": "Pole Position II (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D751C7A6|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/rampage.zip#rampage.bin",
+      "label": "Rampage (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "39A316AA|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/rampart.zip#rampart.bin",
+      "label": "Rampart (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "E8C2A662|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/rsbaseb.zip#rsbsebll.bin",
+      "label": "RealSports Baseball (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B1508030|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/fractal.zip#rescuefr.bin",
+      "label": "Rescue on Fractalus (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9A74FBF2|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/robotron.zip#robotron.bin",
+      "label": "Robotron - 2084 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CB22305D|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/scrapdog.zip#scrpyrde.bin",
+      "label": "Scrapyard Dog (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "46DD9662|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/sentinel.zip#sentineu.bin",
+      "label": "Sentinel (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "47340DF9|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/sirius.zip#sirius.bin",
+      "label": "Sirius (USA) (Proto)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "65AE616E|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/sumgames.zip#smmrgame.bin",
+      "label": "Summer Games (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "65C6DF3F|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/suphuey.zip#suprhueu.bin",
+      "label": "Super Huey UH-IX (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "6B27EA2C|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/supskate.zip#sprskaeu.bin",
+      "label": "Super Skateboardin' (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8F167BA9|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/tank.zip#tankcmnd.bin",
+      "label": "Tank Command (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DB91B181|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/prowres.zip#titlemeu.bin",
+      "label": "Title Match Pro Wrestling (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "16B54D5B|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/tomcat.zip#tomcateu.bin",
+      "label": "Tomcat - The F-14 Fighter Simulator (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B01205BF|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/tdown.zip#tchdown.bin",
+      "label": "Touchdown Football (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "AAE12695|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/towertop.zip#twrtpleu.bin",
+      "label": "Tower Toppler (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0F87FD7B|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/waterski.zip#waterski.bin",
+      "label": "Water Ski (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "930B30DF|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/wingames.zip#wingames.bin",
+      "label": "Winter Games (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "8981B531|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/xenophob.zip#xnophoeu.bin",
+      "label": "Xenophobe (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CF0E44F1|crc",
+      "db_name": "Atari - 7800.lpl"
+    },
+    {
+      "path": "/storage/roms/a7800/xevious.zip#xevioeu.bin",
+      "label": "Xevious (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D5AC738B|crc",
+      "db_name": "Atari - 7800.lpl"
+    }
+  ]
+}

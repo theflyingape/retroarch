@@ -14,7 +14,7 @@ My configuration, playlists, and [theme](https://drive.google.com/drive/folders/
 
 ## Linux / Potato
 
-Having a full [Fedora distro](https://getfedora.org/en/workstation/download/) loaded on my Intel machines (modern Vulkan or potato OpenGL) provides much better A/V support over Lakka - which is better suited as a Raspberry Pi dedicated gaming console. After fetching the stable version of the [source](https://retroarch.com/index.php?page=linux-instructions), a working example follows:
+Having a full [Fedora distro](https://getfedora.org/en/workstation/download/) loaded on my Intel machines (modern Vulkan or potato OpenGL) provides much better A/V support over [Lakka](http://www.lakka.tv/get/linux/rpi/) (a tiny Linux distro targeting Raspberry Pi devices in cabs, controllers, or mounted on TVs as a dedicated gaming console). After fetching the stable version of the [source](https://retroarch.com/index.php?page=linux-instructions), a working example follows:
 
 ```bash
 $ sudo dnf install rpm-build rpmdevtools
@@ -39,6 +39,9 @@ It's easier to remote network into my consoles running in the mancave downstairs
 
 ```bash
 ... on remote machine:
+$ vim /etc/gdm/custom.conf
+AutomaticLoginEnable=True
+AutomaticLogin=username
 $ gsettings list-recursively org.gnome.desktop.remote-desktop.vnc
 org.gnome.desktop.remote-desktop.vnc view-only false
 org.gnome.desktop.remote-desktop.vnc auth-method 'password'

@@ -1,0 +1,147 @@
+{
+  "version": "1.5",
+  "default_core_path": "/tmp/cores/pcsx_rearmed_libretro.so",
+  "default_core_name": "Sony - PlayStation (PCSX ReARMed)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/storage/roms/psx/colony wars - red sun (usa).chd",
+      "label": "Colony Wars - Red Sun (USA)",
+      "core_path": "/tmp/cores/pcsx_rearmed_libretro.so",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "D475B99C|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/storage/roms/psx/colony wars - vengeance (usa).chd",
+      "label": "Colony Wars - Vengeance (USA)",
+      "core_path": "/tmp/cores/pcsx_rearmed_libretro.so",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "3C4742B9|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/storage/roms/psx/ctr - crash team racing (usa).chd",
+      "label": "Crash Team Racing (USA)",
+      "core_path": "/tmp/cores/pcsx_rearmed_libretro.so",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "9A742438|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/storage/roms/psx/diablo (usa) (en,fr,de,sv).chd",
+      "label": "Diablo (USA) (En,Fr,De,Sv)",
+      "core_path": "/tmp/cores/pcsx_rearmed_libretro.so",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "BDFCCDC3|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/storage/roms/psx/final fantasy tactics (usa).chd",
+      "label": "Final Fantasy Tactics (USA)",
+      "core_path": "/tmp/cores/pcsx_rearmed_libretro.so",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "377F6510|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/storage/roms/psx/gran turismo 2 (usa) (arcade mode) (v1.1).chd",
+      "label": "Gran Turismo 2 (USA) (Arcade Mode) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B444F497|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/storage/roms/psx/harry potter and the chamber of secrets (usa) (en,fr,es).chd",
+      "label": "Harry Potter and the Chamber of Secrets (USA) (En,Fr,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "65698F33|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/storage/roms/psx/madden nfl 98 (usa).chd",
+      "label": "Madden NFL 98 (USA)",
+      "core_path": "/tmp/cores/pcsx_rearmed_libretro.so",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "5595848F|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/storage/roms/psx/nba live 97 (usa).chd",
+      "label": "NBA Live 97 (USA)",
+      "core_path": "/tmp/cores/pcsx_rearmed_libretro.so",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "A1289E5A|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/storage/roms/psx/pac-man world (usa).chd",
+      "label": "Pac-Man World - 20th Anniversary (USA)",
+      "core_path": "/tmp/cores/pcsx_rearmed_libretro.so",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "1182B184|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/storage/roms/psx/resident evil 3 - nemesis (usa).chd",
+      "label": "Resident Evil 3 - Nemesis (USA)",
+      "core_path": "/tmp/cores/pcsx_rearmed_libretro.so",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/storage/roms/psx/risk - the game of global domination (usa).chd",
+      "label": "Risk - The Game of Global Domination (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "FA52F701|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/storage/roms/psx/spyro - year of the dragon (usa) (v1.1).chd",
+      "label": "Spyro - Year of the Dragon (USA) (Rev 1)",
+      "core_path": "/tmp/cores/pcsx_rearmed_libretro.so",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "7AF84F63|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/storage/roms/psx/tecmo super bowl (usa).chd",
+      "label": "Tecmo Super Bowl (USA)",
+      "core_path": "/tmp/cores/pcsx_rearmed_libretro.so",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "11D27A7A|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/storage/roms/psx/tekken 3 (usa).chd",
+      "label": "Tekken 3 (USA)",
+      "core_path": "/tmp/cores/pcsx_rearmed_libretro.so",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "8131AF42|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/storage/roms/psx/tomb raider (usa) (v1.6).chd",
+      "label": "Tomb Raider (USA) (Rev 5)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A6313F38|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/storage/roms/psx/triple play 2000 (usa).chd",
+      "label": "Triple Play 2000 (USA)",
+      "core_path": "/tmp/cores/pcsx_rearmed_libretro.so",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "5D4345CD|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    }
+  ]
+}
