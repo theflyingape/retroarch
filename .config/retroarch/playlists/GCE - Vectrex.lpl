@@ -8,7 +8,7 @@
   "sort_mode": 0,
   "items": [
     {
-      "path": "/storage/roms/vectrex/narrow escape by gce (1983) (3d).bin",
+      "path": "/storage/roms/Vectrex/narrow escape by gce (1983) (3d).bin",
       "label": "3D Narrow Escape (USA)",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -16,7 +16,7 @@
       "db_name": "GCE - Vectrex.lpl"
     },
     {
-      "path": "/storage/roms/vectrex/animaction by gce (1983).bin",
+      "path": "/storage/roms/Vectrex/animaction by gce (1983).bin",
       "label": "AnimAction - Advanced Animation (USA)",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -24,7 +24,7 @@
       "db_name": "GCE - Vectrex.lpl"
     },
     {
-      "path": "/storage/roms/vectrex/crazy coaster by gce (1983) (3d).bin",
+      "path": "/storage/roms/Vectrex/crazy coaster by gce (1983) (3d).bin",
       "label": "3D Crazy Coaster (USA)",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -32,7 +32,7 @@
       "db_name": "GCE - Vectrex.lpl"
     },
     {
-      "path": "/storage/roms/vectrex/3d mine storm by gce (1984) (3d).bin",
+      "path": "/storage/roms/Vectrex/3d mine storm by gce (1984) (3d).bin",
       "label": "3D Mine Storm (USA)",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -40,7 +40,7 @@
       "db_name": "GCE - Vectrex.lpl"
     },
     {
-      "path": "/storage/roms/vectrex/armor attack by gce (1982).bin",
+      "path": "/storage/roms/Vectrex/armor attack by gce (1982).bin",
       "label": "Armor Attack (World)",
       "core_path": "/tmp/cores/vecx_libretro.so",
       "core_name": "GCE - Vectrex (vecx)",
@@ -48,7 +48,7 @@
       "db_name": "GCE - Vectrex.lpl"
     },
     {
-      "path": "/storage/roms/vectrex/art master by gce (1982).bin",
+      "path": "/storage/roms/Vectrex/art master by gce (1982).bin",
       "label": "Art Master (USA)",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -56,7 +56,7 @@
       "db_name": "GCE - Vectrex.lpl"
     },
     {
-      "path": "/storage/roms/vectrex/bedlam by gce (1982).bin",
+      "path": "/storage/roms/Vectrex/bedlam by gce (1982).bin",
       "label": "Bedlam (USA, Europe)",
       "core_path": "/tmp/cores/vecx_libretro.so",
       "core_name": "GCE - Vectrex (vecx)",
@@ -64,7 +64,7 @@
       "db_name": "GCE - Vectrex.lpl"
     },
     {
-      "path": "/storage/roms/vectrex/berzerk by gce (1982).bin",
+      "path": "/storage/roms/Vectrex/berzerk by gce (1982).bin",
       "label": "Berzerk (World)",
       "core_path": "/tmp/cores/vecx_libretro.so",
       "core_name": "GCE - Vectrex (vecx)",
@@ -72,7 +72,7 @@
       "db_name": "GCE - Vectrex.lpl"
     },
     {
-      "path": "/storage/roms/vectrex/blitz! by gce (1982).bin",
+      "path": "/storage/roms/Vectrex/blitz! by gce (1982).bin",
       "label": "Blitz! - Action Football (USA, Europe) (0F11CE0C)",
       "core_path": "/tmp/cores/vecx_libretro.so",
       "core_name": "GCE - Vectrex (vecx)",
@@ -80,7 +80,7 @@
       "db_name": "GCE - Vectrex.lpl"
     },
     {
-      "path": "/storage/roms/vectrex/clean sweep by gce (1982).bin",
+      "path": "/storage/roms/Vectrex/clean sweep by gce (1982).bin",
       "label": "Clean Sweep (World)",
       "core_path": "/tmp/cores/vecx_libretro.so",
       "core_name": "GCE - Vectrex (vecx)",
@@ -88,7 +88,7 @@
       "db_name": "GCE - Vectrex.lpl"
     },
     {
-      "path": "/storage/roms/vectrex/cosmic chasm by gce (1982).bin",
+      "path": "/storage/roms/Vectrex/cosmic chasm by gce (1982).bin",
       "label": "Cosmic Chasm (World)",
       "core_path": "/tmp/cores/vecx_libretro.so",
       "core_name": "GCE - Vectrex (vecx)",
@@ -96,7 +96,7 @@
       "db_name": "GCE - Vectrex.lpl"
     },
     {
-      "path": "/storage/roms/vectrex/dark tower by gce (1982).bin",
+      "path": "/storage/roms/Vectrex/dark tower by gce (1982).bin",
       "label": "Dark Tower (USA) (Proto)",
       "core_path": "/tmp/cores/vecx_libretro.so",
       "core_name": "GCE - Vectrex (vecx)",
@@ -104,7 +104,7 @@
       "db_name": "GCE - Vectrex.lpl"
     },
     {
-      "path": "/storage/roms/vectrex/fortress of narzod by gce (1982).bin",
+      "path": "/storage/roms/Vectrex/fortress of narzod by gce (1982).bin",
       "label": "Fortress of Narzod (USA, Europe)",
       "core_path": "/tmp/cores/vecx_libretro.so",
       "core_name": "GCE - Vectrex (vecx)",
@@ -112,7 +112,7 @@
       "db_name": "GCE - Vectrex.lpl"
     },
     {
-      "path": "/storage/roms/vectrex/heads up by gce (1983).bin",
+      "path": "/storage/roms/Vectrex/heads up by gce (1983).bin",
       "label": "Heads-Up - Action Soccer (USA)",
       "core_path": "/tmp/cores/vecx_libretro.so",
       "core_name": "GCE - Vectrex (vecx)",
@@ -120,7 +120,7 @@
       "db_name": "GCE - Vectrex.lpl"
     },
     {
-      "path": "/storage/roms/vectrex/hyper chase by gce (1982).bin",
+      "path": "/storage/roms/Vectrex/hyper chase by gce (1982).bin",
       "label": "HyperChase - Auto Race (World)",
       "core_path": "/tmp/cores/vecx_libretro.so",
       "core_name": "GCE - Vectrex (vecx)",
@@ -128,7 +128,7 @@
       "db_name": "GCE - Vectrex.lpl"
     },
     {
-      "path": "/storage/roms/vectrex/melody master by gce (1983) (light pen).bin",
+      "path": "/storage/roms/Vectrex/melody master by gce (1983) (light pen).bin",
       "label": "Melody Master - Music Composition and Entertainment (USA)",
       "core_path": "/tmp/cores/vecx_libretro.so",
       "core_name": "GCE - Vectrex (vecx)",
@@ -136,7 +136,7 @@
       "db_name": "GCE - Vectrex.lpl"
     },
     {
-      "path": "/storage/roms/vectrex/mine storm by gce (1982).bin",
+      "path": "/storage/roms/Vectrex/mine storm by gce (1982).bin",
       "label": "Mine Storm (USA)",
       "core_path": "/tmp/cores/vecx_libretro.so",
       "core_name": "GCE - Vectrex (vecx)",
@@ -144,7 +144,7 @@
       "db_name": "GCE - Vectrex.lpl"
     },
     {
-      "path": "/storage/roms/vectrex/polar rescue by gce (1983).bin",
+      "path": "/storage/roms/Vectrex/polar rescue by gce (1983).bin",
       "label": "Polar Rescue (USA)",
       "core_path": "/tmp/cores/vecx_libretro.so",
       "core_name": "GCE - Vectrex (vecx)",
@@ -152,7 +152,7 @@
       "db_name": "GCE - Vectrex.lpl"
     },
     {
-      "path": "/storage/roms/vectrex/pole position by gce (1983).bin",
+      "path": "/storage/roms/Vectrex/pole position by gce (1983).bin",
       "label": "Pole Position (USA) (C10F37D8)",
       "core_path": "/tmp/cores/vecx_libretro.so",
       "core_name": "GCE - Vectrex (vecx)",
@@ -160,7 +160,7 @@
       "db_name": "GCE - Vectrex.lpl"
     },
     {
-      "path": "/storage/roms/vectrex/rip off by gce (1982).bin",
+      "path": "/storage/roms/Vectrex/rip off by gce (1982).bin",
       "label": "Rip Off (World)",
       "core_path": "/tmp/cores/vecx_libretro.so",
       "core_name": "GCE - Vectrex (vecx)",
@@ -168,7 +168,7 @@
       "db_name": "GCE - Vectrex.lpl"
     },
     {
-      "path": "/storage/roms/vectrex/scramble by gce (1982).bin",
+      "path": "/storage/roms/Vectrex/scramble by gce (1982).bin",
       "label": "Scramble (USA, Europe)",
       "core_path": "/tmp/cores/vecx_libretro.so",
       "core_name": "GCE - Vectrex (vecx)",
@@ -176,7 +176,7 @@
       "db_name": "GCE - Vectrex.lpl"
     },
     {
-      "path": "/storage/roms/vectrex/solar quest by gce (1982).bin",
+      "path": "/storage/roms/Vectrex/solar quest by gce (1982).bin",
       "label": "Solar Quest (World)",
       "core_path": "/tmp/cores/vecx_libretro.so",
       "core_name": "GCE - Vectrex (vecx)",
@@ -184,7 +184,7 @@
       "db_name": "GCE - Vectrex.lpl"
     },
     {
-      "path": "/storage/roms/vectrex/space wars by gce (1982).bin",
+      "path": "/storage/roms/Vectrex/space wars by gce (1982).bin",
       "label": "Space Wars (World)",
       "core_path": "/tmp/cores/vecx_libretro.so",
       "core_name": "GCE - Vectrex (vecx)",
@@ -192,7 +192,7 @@
       "db_name": "GCE - Vectrex.lpl"
     },
     {
-      "path": "/storage/roms/vectrex/spike by gce (1983).bin",
+      "path": "/storage/roms/Vectrex/spike by gce (1983).bin",
       "label": "Spike (USA, Europe)",
       "core_path": "/tmp/cores/vecx_libretro.so",
       "core_name": "GCE - Vectrex (vecx)",
@@ -200,7 +200,7 @@
       "db_name": "GCE - Vectrex.lpl"
     },
     {
-      "path": "/storage/roms/vectrex/spin ball by gce (1983).bin",
+      "path": "/storage/roms/Vectrex/spin ball by gce (1983).bin",
       "label": "Spin ball (USA)",
       "core_path": "/tmp/cores/vecx_libretro.so",
       "core_name": "GCE - Vectrex (vecx)",
@@ -208,7 +208,7 @@
       "db_name": "GCE - Vectrex.lpl"
     },
     {
-      "path": "/storage/roms/vectrex/star castle by gce (1983).bin",
+      "path": "/storage/roms/Vectrex/star castle by gce (1983).bin",
       "label": "Star Castle (USA)",
       "core_path": "/tmp/cores/vecx_libretro.so",
       "core_name": "GCE - Vectrex (vecx)",
@@ -216,7 +216,7 @@
       "db_name": "GCE - Vectrex.lpl"
     },
     {
-      "path": "/storage/roms/vectrex/star trek the game by gce (1982).bin",
+      "path": "/storage/roms/Vectrex/star trek the game by gce (1982).bin",
       "label": "Star Trek - The Motion Picture (USA)",
       "core_path": "/tmp/cores/vecx_libretro.so",
       "core_name": "GCE - Vectrex (vecx)",
@@ -224,7 +224,7 @@
       "db_name": "GCE - Vectrex.lpl"
     },
     {
-      "path": "/storage/roms/vectrex/star hawk by gce (1982).bin",
+      "path": "/storage/roms/Vectrex/star hawk by gce (1982).bin",
       "label": "StarHawk (World)",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -232,7 +232,7 @@
       "db_name": "GCE - Vectrex.lpl"
     },
     {
-      "path": "/storage/roms/vectrex/web wars by gce (1983).bin",
+      "path": "/storage/roms/Vectrex/web wars by gce (1983).bin",
       "label": "WebWars (USA)",
       "core_path": "/tmp/cores/vecx_libretro.so",
       "core_name": "GCE - Vectrex (vecx)",

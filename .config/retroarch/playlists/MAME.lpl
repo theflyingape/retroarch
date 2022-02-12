@@ -8,7 +8,7 @@
   "sort_mode": 0,
   "scan_content_dir": "/storage/roms/MAME",
   "scan_file_exts": "",
-  "scan_dat_file_path": "/home/rhurst/mame.xml",
+  "scan_dat_file_path": "",
   "scan_search_recursively": false,
   "scan_search_archives": false,
   "scan_filter_dat_content": false,
@@ -16,8 +16,8 @@
     {
       "path": "/storage/roms/MAME/88games.zip",
       "label": "'88 Games",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME - Current)",
       "crc32": "00000000|crc",
       "db_name": "MAME.lpl"
     },
@@ -48,7 +48,7 @@
     {
       "path": "/storage/roms/MAME/10yard.zip",
       "label": "10-Yard Fight (World, set 1)",
-      "core_path": "/home/rhurst/.config/retroarch/cores/mame_libretro.so",
+      "core_path": "/retroarch/cores/mame_libretro.so",
       "core_name": "Arcade (MAME - Current)",
       "crc32": "00000000|crc",
       "db_name": "MAME.lpl"
@@ -600,10 +600,10 @@
     {
       "path": "/storage/roms/MAME/altbeast.zip",
       "label": "Altered Beast (set 8) (8751 317-0078)",
-      "core_path": "/home/rhurst/.config/retroarch/cores/mame2010_libretro.so",
-      "core_name": "Arcade (MAME 2010)",
+      "core_path": "/home/rhurst/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME - Current)",
       "crc32": "00000000|crc",
-      "db_name": "MAME 2010.lpl"
+      "db_name": "MAME.lpl"
     },
     {
       "path": "/storage/roms/MAME/maze.zip",
@@ -4136,8 +4136,8 @@
     {
       "path": "/storage/roms/MAME/cyberbal2p.zip",
       "label": "Cyberball 2072 (2 player, rev 4)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/rhurst/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME - Current)",
       "crc32": "00000000|crc",
       "db_name": "MAME.lpl"
     },
@@ -5296,16 +5296,16 @@
     {
       "path": "/storage/roms/MAME/ddsomu.zip",
       "label": "Dungeons & Dragons: Shadow over Mystara (USA 960619)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/rhurst/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME - Current)",
       "crc32": "00000000|crc",
       "db_name": "MAME.lpl"
     },
     {
       "path": "/storage/roms/MAME/ddtodu.zip",
       "label": "Dungeons & Dragons: Tower of Doom (USA 940125)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/rhurst/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME - Current)",
       "crc32": "00000000|crc",
       "db_name": "MAME.lpl"
     },
@@ -5416,10 +5416,10 @@
     {
       "path": "/storage/roms/MAME/eswat.zip",
       "label": "E-Swat - Cyber Police (set 4, World) (FD1094 317-0130)",
-      "core_path": "/home/rhurst/.config/retroarch/cores/mame2010_libretro.so",
-      "core_name": "Arcade (MAME 2010)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
       "crc32": "00000000|crc",
-      "db_name": "MAME 2010.lpl"
+      "db_name": "MAME.lpl"
     },
     {
       "path": "/storage/roms/MAME/edf.zip",
@@ -7328,10 +7328,10 @@
     {
       "path": "/storage/roms/MAME/goldnaxe.zip",
       "label": "Golden Axe (set 6, US) (8751 317-123A)",
-      "core_path": "/home/rhurst/.config/retroarch/cores/mame2010_libretro.so",
-      "core_name": "Arcade (MAME 2010)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
       "crc32": "00000000|crc",
-      "db_name": "MAME 2010.lpl"
+      "db_name": "MAME.lpl"
     },
     {
       "path": "/storage/roms/MAME/gaxeduel.zip",
@@ -15184,10 +15184,10 @@
     {
       "path": "/storage/roms/MAME/riotcity.zip",
       "label": "Riot City (Japan)",
-      "core_path": "/home/rhurst/.config/retroarch/cores/mame2010_libretro.so",
-      "core_name": "Arcade (MAME 2010)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
       "crc32": "00000000|crc",
-      "db_name": "MAME 2010.lpl"
+      "db_name": "MAME.lpl"
     },
     {
       "path": "/storage/roms/MAME/ripcord.zip",
@@ -20576,10 +20576,10 @@
     {
       "path": "/storage/roms/MAME/tturf.zip",
       "label": "Tough Turf (set 2, Japan) (8751 317-0104)",
-      "core_path": "/home/rhurst/.config/retroarch/cores/mame2010_libretro.so",
-      "core_name": "Arcade (MAME 2010)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
       "crc32": "00000000|crc",
-      "db_name": "MAME 2010.lpl"
+      "db_name": "MAME.lpl"
     },
     {
       "path": "/storage/roms/MAME/tkdensho.zip",
@@ -21432,8 +21432,8 @@
     {
       "path": "/storage/roms/MAME/vsavu.zip",
       "label": "Vampire Savior: The Lord of Vampire (USA 970519)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
+      "core_path": "/home/rhurst/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME - Current)",
       "crc32": "00000000|crc",
       "db_name": "MAME.lpl"
     },
