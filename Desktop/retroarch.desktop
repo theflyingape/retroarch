@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Playlists
+Icon=retroarch
+Comment=RetroArch console of Playlists
+Exec=lxterminal -e /home/pi/bin/switch.sh
+Type=Application
+Categories=Application;Game;

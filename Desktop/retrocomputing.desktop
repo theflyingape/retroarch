@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Rob's Library
+Icon=bookshelf
+Exec=/usr/bin/chromium-browser https://drive.google.com/drive/folders/1IzpFmpW07yRvnkVU7aJVFchlY1OpmDS2
+Comment=online digital library
+Categories=Help;
+GenericName=online digital library
