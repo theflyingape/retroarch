@@ -7,6 +7,7 @@ License:        GPLv3
 URL:            http://www.libretro.com/
 Source0:        https://github.com/libretro/%{name}/archive/RetroArch-%{version}.tar.gz
 
+BuildArch:	x86_64
 BuildRequires:	ffmpeg-devel
 BuildRequires:	freetype-devel
 BuildRequires:  libgudev-devel

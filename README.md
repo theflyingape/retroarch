@@ -12,6 +12,10 @@
 
 My configuration, playlists, and [theme](https://drive.google.com/drive/folders/1Fo4Qnv9zLNjl-XHyuM3rqs4L4WMneion) used on Raspberry Pi `400` and `4 model B` which provides reasonable Vulkan over OpenGL support in its emulation cores.
 
+Having a full Debian 11 [Bullseye desktop](https://www.raspberrypi.com/news/raspberry-pi-os-debian-bullseye/) and RetroArch running both amicably together _and_ separate is possible:
+
+
+
 ## Linux / Potato
 
 Having a full [Fedora distro](https://getfedora.org/en/workstation/download/) loaded on my Intel machines (modern Vulkan or potato OpenGL) provides much better A/V support over [Lakka](http://www.lakka.tv/get/linux/rpi/) (a tiny Linux distro targeting Raspberry Pi devices in cabs, controllers, or mounted on TVs as a dedicated gaming console). After fetching the stable version of the [source](https://retroarch.com/index.php?page=linux-instructions), a working example follows:
