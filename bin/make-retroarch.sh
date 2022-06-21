@@ -34,10 +34,13 @@ if [ -z "$V" ]; then
 	sudo apt install libvulkan-dev libvulkan1 vulkan-tools
 	# Wayland
 	sudo apt install libwayland-dev libwayland-egl-backend-dev wayland-protocols
-	# some toys
-	sudo apt install angband barrage basic256 bsdgames btanks extremetuxracer fonts-noto-color-emoji \
-		fs-uae gnubg iagno mame moria mpc mpd mplayer-gui mpv nestopia neverball neverputt \
-		nodejs npm pysol* steam-devices stella vice widelands
+	# needed for Daphne 32-bit build
+	sudo apt install libglew2.1:armhf libsdl1.2debian:armhf libvorbisfile3:armhf
+	# needed toys
+	sudo apt install 7kaa* angband barrage basic256 bsdgames btanks empire extremetuxracer fbi \
+		fonts-noto-color-emoji fs-uae gl-117* gnubg gpm iagno linuxlogo mame moria mpc mpd mplayer-gui mpv \
+		nestopia neverball neverputt nodejs npm pysol* socat steam-devices stella timidity \
+		vice widelands wordwarvi*
 
 	sudo apt upgrade
 	sudo rpi-eeprom-update -a
@@ -45,11 +48,13 @@ if [ -z "$V" ]; then
 
 	vulkaninfo | grep Info || exit
 
-	echo "pass 'git' or release version parameter as numeric major.minor.release to attempt build/install"
+	echo "pass 'git' or release version parameter as numeric major.minor.release to build/install"
 	exit
 fi
 
 if [ "${V}" = "git" ]; then
+	[ -d src ] || mkdir src
+	cd src
 	[ -d RetroArch ] || git clone https://github.com/libretro/RetroArch
 	cd RetroArch
 	git pull
@@ -75,16 +80,15 @@ CXXFLAGS="${CFLAGS}" \
 ./configure \
 	--disable-floathard --disable-neon --disable-rewind \
 	--disable-caca --disable-cheats --disable-cheevos --disable-langextra \
-	--disable-crtswitchres --disable-parport --disable-winrawinput \
-	--enable-opengl_core --disable-opengl1 --disable-opengl --disable-sdl \
+	--disable-crtswitchres --disable-parport --disable-wifi --disable-winrawinput \
+	--disable-opengl1 --disable-opengl --disable-sdl \
 	--disable-vg --disable-videocore --disable-wayland --disable-xvideo \
 	--disable-jack --disable-mpv --disable-oss --disable-tinyalsa \
-	--enable-libusb --enable-ssl --enable-udev --enable-zlib \
-	--enable-kms --enable-egl --enable-x11 --enable-xshm \
+	--enable-libusb --enable-qt --enable-ssl --enable-threads --enable-udev --enable-zlib \
+	--enable-kms --enable-egl --enable-opengl_core --enable-x11 --enable-xshm \
 	--enable-opengles --enable-opengles3 --enable-opengles3_1 --enable-opengles3_2 \
 	--enable-vulkan --enable-vulkan_display \
 	--enable-alsa --enable-ffmpeg --enable-pulse --enable-sdl2 \
-	--enable-qt --enable-threads \
 || exit
 make -j4
 
@@ -98,8 +102,10 @@ echo -n "Rebuild Stella core? "
 read yn
 
 if [ "$yn" = "y" ]; then
-	[ -d ~/cores/stella ] || git clone https://github.com/libretro/stella ~/cores/
-	cd ~/cores/stella
+	[ -d ~/src ] || mkdir ~/src
+	cd ~/src
+	[ -d stella ] || git clone https://github.com/libretro/stella
+	cd stella
 	make
 	cp -pv stella_libretro.so /retroarch/cores/
 fi
@@ -110,10 +116,12 @@ echo -n "Rebuild VICE core? "
 read yn
 
 if [ "$yn" = "y" ]; then
-	[ -d ~/cores/vice-libretro ] || git clone https://github.com/libretro/vice-libretro ~/cores/
-	cd ~/cores/vice-libretro
+	[ -d ~/src ] || mkdir ~/src
+	cd ~/src
+	[ -d vice-libretro ] || git clone https://github.com/libretro/vice-libretro
+	cd vice-libretro
 	git pull
-	
+
 	for type in x128 x64 x64sc xpet xplus4 xvic; do
 		make clean
 		make -j4 EMUTYPE=${type}
@@ -127,8 +135,10 @@ echo -n "Rebuild MAME 2003-plus core? "
 read yn
 
 if [ "$yn" = "y" ]; then
-	[ -d ~/cores/mame2003-plus-libretro ] || git clone https://github.com/libretro/mame2003-plus-libretro ~/cores/
-	cd ~/cores/mame2003-plus-libretro
+	[ -d ~/src ] || mkdir ~/src
+	cd ~/src
+	[ -d mame2003-plus-libretro ] || git clone https://github.com/libretro/mame2003-plus-libretro
+	cd mame2003-plus-libretro
 	git pull
 	make -j4
 	cp -pv mame2003_plus_libretro.so /retroarch/cores/
@@ -140,8 +150,10 @@ echo -n "Rebuild SAME CDi core? "
 read yn
 
 if [ "$yn" = "y" ]; then
-	[ -d ~/cores/same_cdi ] || git clone https://github.com/libretro/same_cdi ~/cores/
-	cd ~/cores/same_cdi
+	[ -d ~/src ] || mkdir ~/src
+	cd ~/src
+	[ -d same_cdi ] || git clone https://github.com/libretro/same_cdi
+	cd same_cdi
 	git pull
 	make -j4 -f Makefile.libretro
 	cp -pv same_cdi_libretro.so /retroarch/cores/
@@ -150,8 +162,9 @@ fi
 
 echo -n "Press RETURN to continue with libRetro Super: "
 read cont
-cd ~
 
+[ -d ~/src ] || mkdir ~/src
+cd ~/src
 [ -d libretro-super ] || git clone git://github.com/libretro/libretro-super.git
 cd libretro-super
 git pull
