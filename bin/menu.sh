@@ -765,7 +765,7 @@ menu
 pidof lightdm > /dev/null || sudo chvt 1
 
 CHOICE=( "" "R" 0 1 2 3 4 "l" "p" "r" "X" )
-MENU=( "" "random pick" "Play!" "Arcade" "Computers" "Consoles" "Handhelds" "Legends" "power-off" "restart" "exit")
+MENU=( "" "Rob's starter pick" "Party time!" "Arcade emporium" "Computer craze" "Console mania" "Handheld hero" "Legends made here" "power-off" "restart" "exit")
 n=1
 choice=
 
