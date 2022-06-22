@@ -42,19 +42,31 @@ for lpl in 'Atari 2600' 'Atari 7800' 'C64' 'MAME 2003-Plus' 'Nintendo 64' 'Ninte
 done
 shuf $TAGGED -o $TAGGED
 
+pick() {
+	out "$1${OFF}\x1b[J\x0a\x0a\x0a\x0a\x0a\x1b[5A\x1b[s\n"
+	out "\x1b[77C${KEY} Delete ${OFF} or hold ${KEY} Start ${OFF} to quit game"
+	out "\x1b[77C${KEY} Enter ${OFF}  ${KEY} Start ${OFF}  Start"
+	out "\x1b[77C${KEY} Shift ${OFF}  ${KEY} Select${OFF}  Coin"
+	out "\x1b[u\n"
+}
+
+vic() {
+	out "$1${OFF}\x1b[J\x0a\x0a\x0a\x0a\x1b[4A\x1b[s\n"
+	out "\x1b[77C${KEY} Num Lock ${OFF} then ${KEY} Delete ${OFF} to quit game"
+	out "\x1b[77C Left ${KEY} Ctrl ${OFF} is ${KEY}\e[34mC\e[31m=${OFF} logo key"
+	out "\x1b[u\n"
+}
 
 astrob() {
-	out "Astro Blaster (c) 02/1981 Sega"
-	out "${OFF}"
+	pick "Astro Blaster (c) 02/1981 Sega"
 	out "${PAD}${PAD}${KEY} ${LEFT} ${OFF} - ${KEY} ${RIGHT} ${OFF}  ${KEY} FIRE ${OFF}  ${KEY} WARP ${OFF}"
 	out 
-	out "${PAD}NOTE: Fuel is a very precious commodity in this game. If you run out of fuel,"
-	out "${PAD}your game is over regardless of how many star ships you have left."
+	out "${PAD}NOTE: Fuel is a very precious commodity in this game. If you run out"
+	out "${PAD}of fuel, your game is over regardless of any star ships remaining."
 }
 
 berzerk() {
-	out "Berzerk (c) 10/1980 Stern Electronics"
-	out "${OFF}"
+	pick "Berzerk (c) 10/1980 Stern Electronics"
 	out "${PAD}${PAD}   ${KEY} ${UP} ${OFF}"
 	out "${PAD}${PAD}${KEY} ${LEFT} ${OFF} + ${KEY} ${RIGHT} ${OFF}  ${KEY} FIRE ${OFF}"
 	out "${PAD}${PAD}   ${KEY} ${DOWN} ${OFF}"
@@ -68,17 +80,15 @@ berzerk() {
 }
 
 berzerk_mmx() {
-	out "Berzerk-MMX (c) Robert Hurst"
-	out "${OFF}"
+	vic "Berzerk-MMX (c) Robert Hurst"
 	out "${PAD}${PAD}   ${KEY} ${UP} ${OFF}"
 	out "${PAD}${PAD}${KEY} ${LEFT} ${OFF} + ${KEY} ${RIGHT} ${OFF}  ${KEY} FIRE ${OFF}"
 	out "${PAD}${PAD}   ${KEY} ${DOWN} ${OFF}"
-	anykey 10 && qstart -L vice_xvic "$RA/roms/homebrews/VIC20/16KB/berzerk-mmx-16k.prg"
+	anykey 30 && qstart -L vice_xvic "$RA/roms/homebrews/VIC20/16KB/berzerk-mmx-16k.prg"
 }
 
 bombjack() {
-	out "Bomb Jack (c) 10/1984 Tehkan"
-	out "${OFF}"
+	pick "Bomb Jack (c) 10/1984 Tehkan"
 	out "${PAD}${PAD}   ${KEY} ${UP} ${OFF}"
 	out "${PAD}${PAD}${KEY} ${LEFT} ${OFF} + ${KEY} ${RIGHT} ${OFF}  ${KEY} JUMP ${OFF}"
 	out "${PAD}${PAD}   ${KEY} ${DOWN} ${OFF}"
@@ -88,15 +98,13 @@ bombjack() {
 }
 
 breakout() {
-	out "Break-out! (c) Robert Hurst"
-	out "${OFF}"
+	vic "Break-out! (c) Robert Hurst"
 	out "${PAD}Best used with a mouse/trackball."
-	anykey 10 && qstart -L vice_xvic "$RA/roms/homebrews/VIC20/8KB/break-out!.prg"
+	anykey 30 && qstart -L vice_xvic "$RA/roms/homebrews/VIC20/8KB/break-out!.prg"
 }
 
 btime() {
-	out "Burger Time (c) 1982 Data East"
-	out "${OFF}"
+	pick "Burger Time (c) 1982 Data East"
 	out "${PAD}${PAD}   ${KEY} ${UP} ${OFF}"
 	out "${PAD}${PAD}${KEY} ${LEFT} ${OFF} + ${KEY} ${RIGHT} ${OFF}  ${KEY} PEPPER ${OFF}"
 	out "${PAD}${PAD}   ${KEY} ${DOWN} ${OFF}"
@@ -106,8 +114,7 @@ btime() {
 }
 
 centiped() {
-	out "Centipede (c) 1980 Atari"
-	out "${OFF}"
+	pick "Centipede (c) 1980 Atari"
 	out "${PAD}${PAD} left"
 	out "${PAD}${PAD}${KEY} STICK ${OFF}  ${KEY} FIRE ${OFF}"
 	out "${PAD}${PAD} move"
@@ -119,16 +126,14 @@ centiped() {
 }
 
 clbowl() {
-	out "Coors Light Bowling (c) 1989 Incredible Technologies"
-	out "${OFF}"
+	pick "Coors Light Bowling (c) 1989 Incredible Technologies"
 	out "${PAD}${PAD} left"
 	out "${PAD}${PAD}${KEY} STICK ${OFF}  ${LEFT}${KEY} HOOK ${OFF}  ${KEY} HOOK ${OFF}${RIGHT}"
 	out "${PAD}${PAD}aim/roll"
 }
 
 crossbow() {
-	out "Crossbow (c) 10/1983 Exidy"
-	out "${OFF}"
+	pick "Crossbow (c) 10/1983 Exidy"
 	out "${PAD}${PAD} left"
 	out "${PAD}${PAD}${KEY} STICK ${OFF}  ${KEY} FIRE ${OFF}"
 	out "${PAD}${PAD}  aim"
@@ -137,8 +142,7 @@ crossbow() {
 }
 
 defender() {
-	out "Defender (c) 12/1980 Williams"
-	out "${OFF}"
+	pick "Defender (c) 12/1980 Williams"
 	out "${PAD}${PAD}shoulder  ${KEY} ${UP} ${OFF}  ${KEY} BOMB ${OFF}   ${KEY} WARP ${OFF}"
 	out "${PAD}${PAD}   ${KEY}${LEFT}${RIGHT}${OFF}      |"
 	out "${PAD}${PAD}reverse   ${KEY} ${DOWN} ${OFF}  ${KEY} FIRE ${OFF}  ${KEY} THRUST ${OFF}"
@@ -151,16 +155,14 @@ defender() {
 }
 
 docastle() {
-	out "Mr. Do's Castle (c) 09/1983 Universal"
-	out "${OFF}"
+	pick "Mr. Do's Castle (c) 09/1983 Universal"
 	out "${PAD}${PAD}   ${KEY} ${UP} ${OFF}"
 	out "${PAD}${PAD}${KEY} ${LEFT} ${OFF} + ${KEY} ${RIGHT} ${OFF}  ${KEY} MALLET ${OFF}"
 	out "${PAD}${PAD}   ${KEY} ${DOWN} ${OFF}"
 }
 
 duckhunt() {
-	out "Duck Hunt (c) 03/1985 Nintendo"
-	out "${OFF}"
+	pick "Duck Hunt (c) 03/1985 Nintendo"
 	out "${PAD}${PAD} left"
 	out "${PAD}${PAD}${KEY} STICK ${OFF}  ${KEY} FIRE ${OFF}"
 	out "${PAD}${PAD}  aim"
@@ -169,8 +171,7 @@ duckhunt() {
 }
 
 galaxian() {
-	out "Galaxian (c) 10/1979 Namco"
-	out "${OFF}"
+	pick "Galaxian (c) 10/1979 Namco"
 	out "${PAD}${PAD}${KEY} ${LEFT} ${OFF} - ${KEY} ${RIGHT} ${OFF}  ${KEY} FIRE ${OFF}"
 	out 
 	out "${PAD}The Galaxian Flagship became a trademark and made cameo"
@@ -178,16 +179,14 @@ galaxian() {
 }
 
 gngt() {
-	out "Ghosts'n Goblins (c) 09/1985 Capcom"
-	out "${OFF}"
+	pick "Ghosts'n Goblins (c) 09/1985 Capcom"
 	out "${PAD}${PAD}   ${KEY} ${UP} ${OFF}"
 	out "${PAD}${PAD}${KEY} ${LEFT} ${OFF} + ${KEY} ${RIGHT} ${OFF}  ${KEY} FIRE ${OFF}  ${KEY} JUMP ${OFF}"
 	out "${PAD}${PAD}   ${KEY} ${DOWN} ${OFF}"
 }
 
 gorf() {
-	out "GORF (c) 02/1981 Midway"
-	out "${OFF}"
+	pick "GORF (c) 02/1981 Midway"
 	out "${PAD}${PAD}   ${KEY} ${UP} ${OFF}"
 	out "${PAD}${PAD}${KEY} ${LEFT} ${OFF} + ${KEY} ${RIGHT} ${OFF}  ${KEY} FIRE ${OFF}"
 	out "${PAD}${PAD}   ${KEY} ${DOWN} ${OFF}"
@@ -203,8 +202,7 @@ gorf() {
 }
 
 hattrick() {
-	out "Hat Trick (c) 1984 Bally Sente"
-	out "${OFF}"
+	pick "Hat Trick (c) 1984 Bally Sente"
 	out "${PAD}${PAD}   ${KEY} ${UP} ${OFF}"
 	out "${PAD}${PAD}${KEY} ${LEFT} ${OFF} + ${KEY} ${RIGHT} ${OFF}  ${KEY} SHOOT ${OFF}"
 	out "${PAD}${PAD}   ${KEY} ${DOWN} ${OFF}"
@@ -214,16 +212,14 @@ hattrick() {
 }
 
 headon2() {
-	out "Head On 2 (c) 10/1979 Sega"
-	out "${OFF}"
+	pick "Head On 2 (c) 10/1979 Sega"
 	out "${PAD}${PAD}   ${KEY} ${UP} ${OFF}"
 	out "${PAD}${PAD}${KEY} ${LEFT} ${OFF} + ${KEY} ${RIGHT} ${OFF}  ${KEY} FAST ${OFF}"
 	out "${PAD}${PAD}   ${KEY} ${DOWN} ${OFF}"
 }
 
 kchampvs() {
-	out "Karate Champ (c) 09/1984 Data East"
-	out "${OFF}"
+	pick "Karate Champ (c) 09/1984 Data East"
 	out "${PAD}${PAD} left     right"
 	out "${PAD}${PAD}${KEY} STICK ${OFF}  ${KEY} STICK ${OFF}"
 	out "${PAD}${PAD} move     attack"
@@ -232,8 +228,7 @@ kchampvs() {
 }
 
 ladybug() {
-	out "Lady Bug (c) 10/1981 Universal"
-	out "${OFF}"
+	pick "Lady Bug (c) 10/1981 Universal"
 	out "${PAD}${PAD}   ${KEY} ${UP} ${OFF}"
 	out "${PAD}${PAD}${KEY} ${LEFT} ${OFF} + ${KEY} ${RIGHT} ${OFF}"
 	out "${PAD}${PAD}   ${KEY} ${DOWN} ${OFF}"
@@ -242,14 +237,12 @@ ladybug() {
 }
 
 mappy() {
-	out "Mappy (c) 03/1983 Namco"
-	out "${OFF}"
+	pick "Mappy (c) 03/1983 Namco"
 	out "${PAD}${PAD}${KEY} ${LEFT} ${OFF} - ${KEY} ${RIGHT} ${OFF}  ${KEY} DOOR ${OFF}"
 }
 
 minigolf() {
-	out "Mini Golf (c) 11/1985 Bally Sente"
-	out "${OFF}"
+	pick "Mini Golf (c) 11/1985 Bally Sente"
 	out "${PAD}${PAD} left"
 	out "${PAD}${PAD}${KEY} STICK ${OFF}  ${KEY} PLACE ${OFF}"
 	out "${PAD}${PAD} putt"
@@ -259,28 +252,25 @@ minigolf() {
 }
 
 missile() {
-	out "Missile Command (c) 06/1980 Atari"
-	out "${OFF}"
+	pick "Missile Command (c) 06/1980 Atari"
 	out "${PAD}${PAD}${KEY} STICK ${OFF}  ${KEY} FIRE ${OFF}  ${KEY} FIRE ${OFF}  ${KEY} FIRE ${OFF}"
 	out 
 	out "${PAD}Engineering loved the name Armageddon, but from the top came the"
 	out "${PAD}message, 'We can't use that name, nobody'll know what it means,"
 	out "${PAD}and nobody can spell it.'"
 	out 
-	out "${PAD}Easier with a mouse/trackball with ${KEY} A ${OFF} ${KEY} S ${OFF} ${KEY} D ${OFF}"
+	out "${PAD}Easier with a mouse/trackball using ${KEY} A ${OFF} ${KEY} S ${OFF} ${KEY} D ${OFF} missile bases"
 }
 
 mpatrol() {
-	out "Moon Patrol (c) 05/1982 Irem"
-	out "${OFF}"
+	pick "Moon Patrol (c) 05/1982 Irem"
 	out "${PAD}${PAD}${KEY} ${LEFT} ${OFF} - ${KEY} ${RIGHT} ${OFF}  ${KEY} FIRE ${OFF}  ${KEY} JUMP ${OFF}"
 	out 
 	out "${PAD}The first game to feature parallax scrolling."
 }
 
 omegrace() {
-	out "Omega Race (c) 06/1981 Midway"
-	out "${OFF}"
+	pick "Omega Race (c) 06/1981 Midway"
 	out "${PAD}${PAD} left"
 	out "${PAD}${PAD}${KEY} STICK ${OFF}  ${KEY} THRUST ${OFF}  ${KEY} FIRE ${OFF}"
 	out "${PAD}${PAD} rotate"
@@ -289,17 +279,15 @@ omegrace() {
 }
 
 omega_fury() {
-	out "Omega Fury (c) Robert Hurst"
-	out "${OFF}"
+	vic "Omega Fury (c) Robert Hurst"
 	out "${PAD}${PAD}   ${KEY} ${UP} ${OFF}"
 	out "${PAD}${PAD}${KEY} ${LEFT} ${OFF} + ${KEY} ${RIGHT} ${OFF}  ${KEY} FIRE ${OFF}"
 	out "${PAD}${PAD}   ${KEY} ${DOWN} ${OFF}"
-	anykey 10 && qstart -L vice_xvic "$RA/roms/homebrews/VIC20/16KB/omega-fury.prg"
+	anykey 30 && qstart -L vice_xvic "$RA/roms/homebrews/VIC20/16KB/omega-fury.prg"
 }
 
 pacman() {
-	out "Pac-Man (c) 10/1980 Namco"
-	out "${OFF}"
+	pick "Pac-Man (c) 10/1980 Namco"
 	out "${PAD}${PAD}   ${KEY} ${UP} ${OFF}"
 	out "${PAD}${PAD}${KEY} ${LEFT} ${OFF} + ${KEY} ${RIGHT} ${OFF}"
 	out "${PAD}${PAD}   ${KEY} ${DOWN} ${OFF}"
@@ -309,8 +297,7 @@ pacman() {
 }
 
 polepos() {
-	out "Pole Position (c) 09/1982 Namco"
-	out "${OFF}"
+	pick "Pole Position (c) 09/1982 Namco"
 	out "${PAD}${PAD}shoulder"
 	out "${PAD}${PAD}${KEY} SHIFT ${OFF}${DOWN}${UP}"
 	out "${PAD}${PAD}      left"
@@ -325,8 +312,7 @@ polepos() {
 }
 
 popeye() {
-	out "Popeye (c) 12/1982 Nintendo"
-	out "${OFF}"
+	pick "Popeye (c) 12/1982 Nintendo"
 	out "${PAD}${PAD}   ${KEY} ${UP} ${OFF}"
 	out "${PAD}${PAD}${KEY} ${LEFT} ${OFF} + ${KEY} ${RIGHT} ${OFF}  ${KEY} PUNCH ${OFF}"
 	out "${PAD}${PAD}   ${KEY} ${DOWN} ${OFF}"
@@ -336,8 +322,7 @@ popeye() {
 }
 
 qix() {
-	out "Qix (c) 10/1981 Taito"
-	out "${OFF}"
+	pick "Qix (c) 10/1981 Taito"
 	out "${PAD}${PAD}   ${KEY} ${UP} ${OFF}"
 	out "${PAD}${PAD}${KEY} ${LEFT} ${OFF} + ${KEY} ${RIGHT} ${OFF}  ${KEY} SLOW ${OFF}  ${KEY} FAST ${OFF}"
 	out "${PAD}${PAD}   ${KEY} ${DOWN} ${OFF}"
@@ -347,34 +332,30 @@ qix() {
 }
 
 quikman() {
-	out "Quikman (c) Robert Hurst"
-	out "${OFF}"
+	vic "Quikman (c) Robert Hurst"
 	out "${PAD}${PAD}   ${KEY} ${UP} ${OFF}"
 	out "${PAD}${PAD}${KEY} ${LEFT} ${OFF} + ${KEY} ${RIGHT} ${OFF}"
 	out "${PAD}${PAD}   ${KEY} ${DOWN} ${OFF}"
-	anykey 10 && qstart -L vice_xvic "$RA/roms/homebrews/VIC20/8KB/quikman+8k.prg"
+	anykey 30 && qstart -L vice_xvic "$RA/roms/homebrews/VIC20/8KB/quikman+8k.prg"
 
 }
 
 rallyx() {
-	out "Rally-X (c) 10/1980 Namco"
-	out "${OFF}"
+	pick "Rally-X (c) 10/1980 Namco"
 	out "${PAD}${PAD}   ${KEY} ${UP} ${OFF}"
 	out "${PAD}${PAD}${KEY} ${LEFT} ${OFF} + ${KEY} ${RIGHT} ${OFF}  ${KEY} SMOKE ${OFF}"
 	out "${PAD}${PAD}   ${KEY} ${DOWN} ${OFF}"
 }
 
 ripoff() {
-	out "Rip Off (c) 04/1980 Cinematronics"
-	out "${OFF}"
+	pick "Rip Off (c) 04/1980 Cinematronics"
 	out "${PAD}${PAD}${KEY} ${LEFT} ${OFF} - ${KEY} ${RIGHT} ${OFF}  ${KEY} THRUST ${OFF}  ${KEY} FIRE ${OFF}"
 	out 
 	out "${PAD}The first two player cooperative video game."
 }
 
 robotron() {
-	out "Robotron - 2084 (c) 03/1982 Williams"
-	out "${OFF}"
+	pick "Robotron - 2084 (c) 03/1982 Williams"
 	out "${PAD}${PAD} left     right"
 	out "${PAD}${PAD}${KEY} STICK ${OFF}  ${KEY} STICK ${OFF}"
 	out "${PAD}${PAD} move     fire"
@@ -385,8 +366,7 @@ robotron() {
 }
 
 rthunder() {
-	out "Rolling Thunder (c) 12/1986 Namco"
-	out "${OFF}"
+	pick "Rolling Thunder (c) 12/1986 Namco"
 	out "${PAD}${PAD}   ${KEY} ${UP} ${OFF}"
 	out "${PAD}${PAD}${KEY} ${LEFT} ${OFF} + ${KEY} ${RIGHT} ${OFF}  ${KEY} FIRE ${OFF}  ${KEY} JUMP ${OFF}"
 	out "${PAD}${PAD}   ${KEY} ${DOWN} ${OFF}"
@@ -396,8 +376,7 @@ rthunder() {
 }
 
 rushatck() {
-	out "Rush'n Attack (c) 07/1985 Konami"
-	out "${OFF}"
+	pick "Rush'n Attack (c) 07/1985 Konami"
 	out "${PAD}${PAD}   ${KEY} ${UP} ${OFF}"
 	out "${PAD}${PAD}${KEY} ${LEFT} ${OFF} + ${KEY} ${RIGHT} ${OFF}  ${KEY} KNIFE ${OFF}  ${KEY} SHOOT ${OFF}"
 	out "${PAD}${PAD}   ${KEY} ${DOWN} ${OFF}"
@@ -406,24 +385,22 @@ rushatck() {
 }
 
 spacduel() {
-	out "Space Duel (c) 02/1982 Atari"
-	out "${OFF}"
+	pick "Space Duel (c) 02/1982 Atari"
 	out "${PAD}${PAD}           ${KEY} SHIELD ${OFF}"
 	out "${PAD}${PAD}${KEY} ${LEFT} ${OFF} - ${KEY} ${RIGHT} ${OFF}   ${KEY} FIRE ${OFF}  ${KEY} THRUST ${OFF}"
 	out 
 	out "${PAD}In 2 player mode, you can shoot your partner and it will"
 	out "${PAD}regenerate their shield."
 }
+
 sprite_invaders() {
-	out "Sprite Invaders (c) Robert Hurst"
-	out "${OFF}"
+	vic "Sprite Invaders (c) Robert Hurst"
 	out "${PAD}${PAD}${KEY} ${LEFT} ${OFF} - ${KEY} ${RIGHT} ${OFF}  ${KEY} FIRE ${OFF}"
-	anykey 10 && qstart -L vice_xvic "$RA/roms/homebrews/VIC20/8KB/sprite_invaders.prg"
+	anykey 30 && qstart -L vice_xvic "$RA/roms/homebrews/VIC20/8KB/sprite_invaders.prg"
 }
 
 starcas() {
-	out "Star Castle (c) 09/1980 Cinematronics"
-	out "${OFF}"
+	pick "Star Castle (c) 09/1980 Cinematronics"
 	out "${PAD}${PAD}${KEY} ${LEFT} ${OFF} - ${KEY} ${RIGHT} ${OFF}  ${KEY} FIRE ${OFF}  ${KEY} THRUST ${OFF}"
 	out 
 	out "${PAD}The original inspiration came from a never-released game,"
@@ -432,8 +409,7 @@ starcas() {
 }
 
 startrek() {
-	out "Star Trek - Strategic Operations Simulator (c) 1982 Sega"
-	out "${OFF}"
+	pick "Star Trek - Strategic Operations Simulator (c) 1982 Sega"
 	out "${PAD}${PAD} left    ${KEY} PHOTON ${OFF}  ${KEY} WARP ${OFF}"
 	out "${PAD}${PAD}${KEY} STICK ${OFF}   ${KEY} FIRE ${OFF}  ${KEY} THRUST ${OFF}"
 	out "${PAD}${PAD} rotate"
@@ -443,8 +419,7 @@ startrek() {
 }
 
 starwars() {
-	out "Star Wars (c) 05/1983 Atari"
-	out "${OFF}"
+	pick "Star Wars (c) 05/1983 Atari"
 	out "${PAD}${PAD} left"
 	out "${PAD}${PAD}${KEY} STICK ${OFF}  ${KEY} FIRE ${OFF}"
 	out "${PAD}${PAD}  aim"
@@ -455,8 +430,7 @@ starwars() {
 }
 
 tailg() {
-	out "Tail Gunner (c) 11/1979 Cinematronics"
-	out "${OFF}"
+	pick "Tail Gunner (c) 11/1979 Cinematronics"
 	out "${PAD}${PAD} left"
 	out "${PAD}${PAD}${KEY} STICK ${OFF}  ${KEY} FIRE ${OFF}  ${KEY} SHIELD ${OFF}"
 	out "${PAD}${PAD}  aim"
@@ -466,8 +440,7 @@ tailg() {
 }
 
 tapper() {
-	out "Tapper (Budweiser) (c) 12/1983 Bally Midway"
-	out "${OFF}"
+	pick "Tapper (Budweiser) (c) 12/1983 Bally Midway"
 	out "${PAD}${PAD}   ${KEY} ${UP} ${OFF}"
 	out "${PAD}${PAD}${KEY} ${LEFT} ${OFF} + ${KEY} ${RIGHT} ${OFF}  ${KEY} POUR ${OFF}"
 	out "${PAD}${PAD}   ${KEY} ${DOWN} ${OFF}"
@@ -477,8 +450,7 @@ tapper() {
 }
 
 timeplt() {
-	out "Time Pilot (c) 11/1982 Konami"
-	out "${OFF}"
+	pick "Time Pilot (c) 11/1982 Konami"
 	out "${PAD}${PAD}   ${KEY} ${UP} ${OFF}"
 	out "${PAD}${PAD}${KEY} ${LEFT} ${OFF} + ${KEY} ${RIGHT} ${OFF}  ${KEY} FIRE ${OFF}"
 	out "${PAD}${PAD}   ${KEY} ${DOWN} ${OFF}"
@@ -488,8 +460,7 @@ timeplt() {
 }
 
 tron() {
-	out "Tron (c) 05/1982 Bally Midway"
-	out "${OFF}"
+	pick "Tron (c) 05/1982 Bally Midway"
 	out "${PAD}${PAD} left     right"
 	out "${PAD}${PAD}${KEY} STICK ${OFF}  ${KEY} STICK ${OFF}  ${KEY} FIRE ${OFF}"
 	out "${PAD}${PAD} move      aim"
@@ -501,8 +472,7 @@ tron() {
 }
 
 xevious() {
-	out "Xevious (c) 12/1982 Namco"
-	out "${OFF}"
+	pick "Xevious (c) 12/1982 Namco"
 	out "${PAD}${PAD}   ${KEY} ${UP} ${OFF}"
 	out "${PAD}${PAD}${KEY} ${LEFT} ${OFF} + ${KEY} ${RIGHT} ${OFF}  ${KEY} FIRE ${OFF}  ${KEY} BOMB ${OFF}"
 	out "${PAD}${PAD}   ${KEY} ${DOWN} ${OFF}"
@@ -515,16 +485,19 @@ xevious() {
 anykey() {
 	out
 	out -n "${PAD}Press any button/key to continue: \e[s"
+	status=1
 	while read ev sym sel cmd; do
 		[ "$ev" = "EV_ABS" -o "$ev" = "EV_REL" ] && continue
 		[[ "$sym" =~ "REL" ]] && continue
 		[ $sel -eq 0 ] && continue
 		[ "$cmd" = "command" ] || continue
+		[ "$sym" = "KEY_ESC" -o "$sym" = "KEY_F12" ] && break
+		status=0
 		break
 	done < <( timeout -s SIGALRM $1 thd --dump /dev/input/event* ) 
 	read -n 255 -t 0.1 mt 2> /dev/null
 	out -n "\e[u\r\e[A\e[J"
-	[ "$sym" = "KEY_ESC" ] && return 1 || return 0
+	return $status
 }
 
 crt() {
@@ -648,8 +621,9 @@ menu() {
 	out "${PAD}${DIM}3${OFF}. Consoles   4,300     ${DIM}8${OFF}. Omega Fury          (1P)     ${DIM}d${OFF}. Mr. Do!        (1/2P)     ${DIM}F${OFF}. Frogger        (1/2P)"
 	out "${PAD}${DIM}4${OFF}. Handhelds  2,700     ${DIM}9${OFF}. Quikman+          (1/2P)     ${DIM}g${OFF}. Galaga         (1/2P)     ${DIM}G${OFF}. Gyruss         (1/2P)"
 	out "${PAD}${DIM}l${OFF}. Legends      471     ${DIM}L${OFF}. Laser Disc games             ${DIM}j${OFF}. Donkey Kong Jr (1/2P)     ${DIM}K${OFF}. Kung-Fu Master (1/2P)"
-	out "${PAD}${DIM}p${OFF}. power-off Pi         ${DIM}U${OFF}. upgrade Pi                   ${DIM}m${OFF}. Ms. Pac-Man    (1/2P)     ${DIM}Q${OFF}. Q*bert         (1/2P)"
-	out "${PAD}${DIM}r${OFF}. restart Pi           ${DIM}Z${OFF}. toggle startup ${ON}${STARTUP}${OFF}       ${DIM}s${OFF}. Sea Wolf      (mouse)     ${DIM}S${OFF}. Space Invaders (1/2P)"
+	out "${PAD}                                                        ${DIM}m${OFF}. Ms. Pac-Man    (1/2P)     ${DIM}Q${OFF}. Q*bert         (1/2P)"
+	out "${PAD}${DIM}p${OFF}. power-off Pi         ${DIM}U${OFF}. upgrade Pi                   ${DIM}q${OFF}. Jumpman        (1/4P)     ${DIM}S${OFF}. Space Invaders (1/2P)"
+	out "${PAD}${DIM}r${OFF}. restart Pi           ${DIM}Z${OFF}. toggle startup ${ON}${STARTUP}${OFF}       ${DIM}s${OFF}. Sea Wolf      (mouse)     ${DIM}T${OFF}. Trog           (1/4P)"
 	out "${PAD}                                                        ${DIM}t${OFF}. Tempest       (mouse)     ${DIM}V${OFF}. 10-yard Fight  (1/2P)"
 }
 
@@ -722,6 +696,7 @@ play() {
 	pidof lightdm > /dev/null && sudo systemctl stop lightdm
 	rsync -a $RA/template.cfg $RA/retroarch.cfg && ln -sf $RA ~/.config/
 	sync
+	sleep 0.5
 	retroarch "$@" &> /dev/null && return 0 || return 1
 }
 
@@ -765,7 +740,7 @@ menu
 pidof lightdm > /dev/null || sudo chvt 1
 
 CHOICE=( "" "R" 0 1 2 3 4 "l" "p" "r" "X" )
-MENU=( "" "Rob's starter pick" "Party time!" "Arcade emporium" "Computer craze" "Console mania" "Handheld hero" "Legends made here" "power-off" "restart" "exit")
+MENU=( "" "Rob's starter pick" "Party time!" "Arcade emporium" "Computer craze" "Console mania" "Handheld hero" "Legends made here" "power-off" "restart" "Linux desktop")
 n=1
 choice=
 
@@ -777,26 +752,27 @@ prompt n choice
 
 case $choice in
 0)
-	out "Play!"
+	out "Red Bull and Doritos -- time to play!"
 	play
 	;;
 1)
-	out "Arcade"
+	out "Off to the arcade -- bring quarters!"
 	play --appendconfig="$RA/play.cfg|$RA/myarcade.cfg"
 	;;
 2)
-	out "Computers"
-	floppy
-	ln -fs "Computers.png" "$RA/assets/wallpapers/Main Menu.png"
-	play --appendconfig="$RA/play.cfg|$RA/computers.cfg"
-	ln -fs "Main.png" "$RA/assets/wallpapers/Main Menu.png"
+	out "Happy keyboard hacking!"
+	if floppy ; then
+		ln -fs "Computers.png" "$RA/assets/wallpapers/Main Menu.png"
+		play --appendconfig="$RA/play.cfg|$RA/computers.cfg"
+		ln -fs "Main.png" "$RA/assets/wallpapers/Main Menu.png"
+	fi
 	;;
 3)
-	out "Consoles"
+	out "Pull something good off the shelf"
 	play --appendconfig="$RA/play.cfg|$RA/consoles.cfg"
 	;;
 4)
-	out "Handhelds"
+	out "Into the magic screen"
 	play --appendconfig="$RA/play.cfg|$RA/handhelds.cfg"
 	;;
 5)
@@ -885,7 +861,7 @@ p)
 	;;
 q)
 	out "Jumpman"
-	qstart -L vice_x64 "$RA/roms/C64/Jumpman (1983)(Epyx).d64"
+	qstart -L vice_x64sc "$RA/roms/C64/Jumpman (1983)(Epyx).d64"
 	;;
 r|U)
 	if [ "$choice" = "U" ]; then
