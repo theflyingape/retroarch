@@ -1,0 +1,31 @@
+#!/bin/sh -e
+#
+# rc.local
+#
+# This script is executed at the end of each multiuser runlevel.
+# Make sure that the script will "exit 0" on success or any other
+# value on error.
+#
+# In order to enable or disable this script just change the execution
+# bits.
+#
+# By default this script does nothing.
+
+# Print the IP address
+#_IP=$(hostname -I) || true
+#if [ "$_IP" ]; then
+#  printf "My IP address is %s\n" "$_IP"
+#fi
+
+echo -n '\e[m\e[H\e[J' > /etc/motd
+BANNER="`echo '\e[0;2mFree entertainment brought to you by \e[0;33mThe Flying Ape\e[m'`"
+linux_logo -L raspi -o12 -s -t "${BANNER}" | tail +3 | head -11 >> /etc/motd
+/usr/bin/echo -en '\e[H\e[36m\x0e' >> /etc/motd
+for i in `seq 11`; do /usr/bin/echo -e ${FRAME}ah'\e[116C'ha >> /etc/motd ; done
+/usr/bin/echo -e '\x0f\e[m' >> /etc/motd
+
+lastlog --clear --user pi
+
+SPLASH="`ls /home/pi/Pictures/Splash/* | shuf | head -1`"
+fbi --noverbose -a -vt 2 "${SPLASH}" &> /dev/null
+

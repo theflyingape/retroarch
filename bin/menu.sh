@@ -33,6 +33,7 @@ RIGHT='\x0e+\x0f'
 UP='\x0e-\x0f'
 
 # render favorite games idle playlist
+rm -f "$RA/content_history.lpl"
 TAGGED="/run/user/$UID/favorites.lis"
 rm -f $TAGGED &> /dev/null
 core=( stella prosystem vice_x64sc mame2003_plus mupen64plus_next nestopia bsnes vice_xvic )
@@ -66,7 +67,7 @@ anykey() {
 		break
 	done < <( timeout -s SIGALRM $sec thd --dump /dev/input/event* ) 
 	read -n 255 -t 0.1 mt 2> /dev/null
-	out "\e[1K\e[A"
+	out "\e[1K\r${LPAD}\e[A"
 	return $status
 }
 
@@ -77,11 +78,11 @@ comp() {
 	frame "\e[74C${KEY}\e[31m Pi ${OFF} logo key to toggle ${ON}STATUS BAR${OFF}"
 	lines=2
 	if [ "$model" = "VIC" -o "$model" = "C64" ]; then
-		out "\e[78C Left ${KEY} Ctrl ${OFF} is ${KEY}\e[34mC\e[31m=${OFF} logo key         ${RPAD}"
+		frame "\e[78C Left ${KEY} Ctrl ${OFF} is ${KEY}\e[34mC\e[31m=${OFF} logo key"
 		lines=3
 	fi
 	if [ "$model" = "C64" ]; then
-	       	out "\e[77C Right ${KEY} Ctrl ${OFF} swaps joysticks    ${RPAD}"
+	       	frame "\e[77C Right ${KEY} Ctrl ${OFF} swaps Joysticks 1/2"
 		lines=4
 	fi
 	out "\e[${lines}A"
@@ -91,7 +92,9 @@ pick() {
 	out -n "$1${OFF}\n\e[J"
 	frame "\e[73C${KEY} Delete ${OFF} or hold ${KEY} Start ${OFF} to quit game"
 	frame "\e[73C${KEY} Enter ${OFF} / ${KEY} Start ${OFF} for Player start"
-	frame "\e[73C${KEY} Shift ${OFF} / ${KEY} Select ${OFF} to deposit coin"
+	[ -z "$2" ] \
+		&& frame "\e[73C${KEY} Shift ${OFF} / ${KEY} Select ${OFF} to deposit coin" \
+		|| frame "\e[73C${KEY} Shift ${OFF} / ${KEY} Select ${OFF} any game options"
 	out "\e[3A"
 }
 
@@ -758,7 +761,7 @@ if pidof lightdm > /dev/null ; then
 fi
 
 sudo systemctl restart console-setup
-out -n "\e[13;${LINES}r\e[12B"
+out -n "\e[12;${LINES}r\e[11B"
 menu
 pidof lightdm > /dev/null || sudo chvt 1
 
@@ -780,7 +783,7 @@ case $choice in
 	play
 	;;
 1)
-	out "Off to the arcade -- bring quarters!"
+	out "Off to the arcade - got quarters?"
 	play --appendconfig="$RA/play.cfg|$RA/myarcade.cfg"
 	;;
 2)
@@ -1008,28 +1011,35 @@ v)
 	video arcade.mpg
 	;;
 w)
-	comp C64 "Wizard"
+	comp C64 "Wizard (c) 1984 Progressive Peripherals & Software"
 	frame "${PAD}   ${KEY} ${UP} ${OFF}"
 	frame "${PAD}${KEY} ${LEFT} ${OFF} + ${KEY} ${RIGHT} ${OFF}  ${KEY} JUMP ${OFF}"
 	frame "${PAD}   ${KEY} ${DOWN} ${OFF}"
 	frame 
 	frame "A more sophisticated ${DIM}Jumpman${OFF} game."
+	frame "Use ${KEY} SPACE ${OFF} to release spell."
 	anykey && qstart -L vice_x64sc "$RA/roms/C64/wizard.d64"
 	;;
 x)
-	pick "MegaMania: a space nightmare"
+	pick "MegaMania: a space nightmare (c) 09/1982 Activision" VCS
 	frame "${PAD}${KEY} ${LEFT} ${OFF} - ${KEY} ${RIGHT} ${OFF}  ${KEY} FIRE ${OFF}"
+	frame 
+	frame "Gameplay resembles Astro Blaster, but is alien spaceships are"
+	frame "hamburgers, bow ties, and steam irons."
 	anykey && qstart -L stella "$RA/roms/Atari 2600/MegaMania - A Space Nightmare (USA).zip"
 	;;
 y)
-	pick "Yar's Revenge"
+	pick "Yar's Revenge (c) 05/1982 Atari" VCS
 	frame "${PAD}   ${KEY} ${UP} ${OFF}"
 	frame "${PAD}${KEY} ${LEFT} ${OFF} + ${KEY} ${RIGHT} ${OFF}  ${KEY} CANNON ${OFF}"
 	frame "${PAD}   ${KEY} ${DOWN} ${OFF}"
+	frame
+	frame "Yar must nibble or shoot through a barrier in order to fire his"
+	frame "Zorlon Cannon into the breach and destroy the evil Qotile."
 	anykey && qstart -L stella "$RA/roms/Atari 2600/Yars' Revenge (USA).zip"
 	;;
 z)
-	pick "Mean 18"
+	pick "Mean 18 (c) 1989 Accolade" 7800
 	frame "${PAD}   ${KEY} ${UP} ${OFF}"
 	frame "${PAD}${KEY} ${LEFT} ${OFF} + ${KEY} ${RIGHT} ${OFF}  ${KEY} SWING ${OFF}"
 	frame "${PAD}   ${KEY} ${DOWN} ${OFF}"
@@ -1095,7 +1105,7 @@ H)
 	anykey && arcade hangon
 	;;
 I)
-	comp AMIGA "GBA Championship Basketball"
+	comp AMIGA "GBA Championship Basketball (c) 1986 Activision"
 	frame "${PAD}   ${KEY} ${UP} ${OFF}"
 	frame "${PAD}${KEY} ${LEFT} ${OFF} + ${KEY} ${RIGHT} ${OFF}  ${KEY} PASS ${OFF} or hold to JUMP/SHOOT"
 	frame "${PAD}   ${KEY} ${DOWN} ${OFF}"
@@ -1120,22 +1130,22 @@ L)
 	laserdiscs
 	;;
 M)
-	pick "Mario Kart 64"
+	pick "Mario Kart 64" N64
 	anykey && qstart -L mupen64plus_next "$RA/roms/Nintendo 64/Mario Kart 64 (USA).zip"
 	;;
 N)
-	pick "Super Mario Kart"
+	pick "Super Mario Kart" SNES
 	anykey && qstart -L bsnes "$RA/roms/Super Nintendo/Super Mario Kart (USA).zip"
 	;;
 O)
-	comp AMIGA "Hardball!"
+	comp AMIGA "Hardball! (c) 1985 Accolade"
 	frame "${PAD}   ${KEY} ${UP} ${OFF}"
 	frame "${PAD}${KEY} ${LEFT} ${OFF} + ${KEY} ${RIGHT} ${OFF}  ${KEY} ACTION ${OFF}"
 	frame "${PAD}   ${KEY} ${DOWN} ${OFF}"
 	anykey && qstart -L puae "$RA/roms/WHDLoad/HardBall_v1.0_0490.lha"
 	;;
 P)
-	pick "Pitfall II: Lost Caverns"
+	pick "Pitfall II: Lost Caverns (c) 02/1984 Activision" VCS
 	frame "${PAD}   ${KEY} ${UP} ${OFF}"
 	frame "${PAD}${KEY} ${LEFT} ${OFF} + ${KEY} ${RIGHT} ${OFF}  ${KEY} JUMP ${OFF}"
 	frame "${PAD}   ${KEY} ${DOWN} ${OFF}"
@@ -1165,6 +1175,12 @@ T)
 	frame "${PAD}   ${KEY} ${UP} ${OFF}"
 	frame "${PAD}${KEY} ${LEFT} ${OFF} + ${KEY} ${RIGHT} ${OFF}  ${KEY} PUNCH ${OFF}"
 	frame "${PAD}   ${KEY} ${DOWN} ${OFF}"
+	frame 
+	frame "Pick your dino \e[1;31mRex${OFF}, \e[1;34mBloop${OFF}, \e[1;33mSpike${OFF}, or \e[1;32mGwen${OFF} and collect all your"
+	frame "eggs that lay on one of the 49 islands."
+	frame "If you take the shiny egg last in the lower-right corner, holes with"
+	frame "warp grids may form to advance more levels with a big bonus."
+
 	anykey && arcade trog
 	;;
 V)
@@ -1175,7 +1191,8 @@ V)
 	anykey && arcade vsyard
 	;;
 W)
-	pick "WarCraft - Orcs and Humans"
+	comp DOS "WarCraft - Orcs and Humans (c) 11/1994 Blizzard Entertainment"
+	frame "Keyboard/Mouse real-time strategy game."
 	anykey && qstart -L dosbox_pure "$RA/roms/DOS/WarCraft - Orcs and Humans (1994).zip"
 	;;
 X)
@@ -1207,7 +1224,7 @@ attract)
 	pidof lightdm > /dev/null && continue
 	if [ $(( $L % 2 )) -eq 0 ]; then
 		FILE="Startup/`ls -t Videos/Startup | tail -1`"
-		out "Legends demo clip:${OFF} "`basename "${FILE%.*}"` $PAD
+		out "Legends demo clip:${OFF} `basename ${FILE%.*}` $PAD"
 		sleep 0.5
 		touch "Videos/${FILE}"
 		video "${FILE}"
@@ -1215,13 +1232,13 @@ attract)
 		CART=`head -1 $TAGGED`
 		if [ -n "${CART}" ]; then
 			FILE=$( basename "`echo $CART | awk -F'"' '{print $2}'`" )
-	       		out "play `echo $CART | awk -F'/' '{print $4}'`:${OFF} ${FILE%.*}" $PAD
+	       		out "play `echo $CART | awk -F/ '{print $4}'`:${OFF} ${FILE%.*} $PAD"
 			sleep 0.5
 			echo '-v' '--appendconfig="/retroarch/play.cfg|/retroarch/one-shot.cfg"' $CART | xargs -t timeout -s SIGQUIT 30 retroarch &> "/run/user/$UID/attract.log"
 			tail +2 $TAGGED | tee $TAGGED &> /dev/null
 		else
 			reset
-			break
+			kill -KILL $PPID `pidof bash`
 		fi
 	fi
 	let L=$L+1
